@@ -1,3 +1,10 @@
+## JavaScript
+
+- Library
+  - Animation
+    - [motionone](https://github.com/motiondivision/motionone) ([Website](https://motion.dev/)) - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
+
+
 ## Media
 
 - Icon
