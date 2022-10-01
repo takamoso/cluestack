@@ -9,3 +9,6 @@
 
 - Icon
   - [Radix Icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team. ([Website](https://icons.radix-ui.com/))
+  - [iconsax](https://github.com/lusaxweb/iconsax) ([Website](https://iconsax.io/)) - Hello welcome to iconsax
+the official icons of the
+Vuesax framework.
