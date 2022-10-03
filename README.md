@@ -1,6 +1,9 @@
 ## JavaScript
 
 - Library
+  - Scroll
+    - [sticky-sidebar-v2](https://github.com/blixhavn/sticky-sidebar-v2) ([Website](https://blixhavn.github.io/sticky-sidebar-v2/)) - About
+Pure JavaScript tool for making smart and high performance sticky sidebar.
   - Animation
     - [motionone](https://github.com/motiondivision/motionone) ([Website](https://motion.dev/)) - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
 
