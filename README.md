@@ -24,3 +24,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 the official icons of the
 Vuesax framework.
   - [Remix Icon](https://github.com/Remix-Design/remixicon) ([Website](https://remixicon.com/)) - A set of open-source neutral-style system symbols for designers and developers.
+
+## Web Design
+
+- Gallery
+  - [ちょうどいいWebデザインギャラリー](https://choooodoii.com/) - This is a new type of website gallery collection that focuses on the viewpoints of creators involved in web production as "just the right points" to gain new perspectives.
