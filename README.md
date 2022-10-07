@@ -19,7 +19,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 ## Media
 
 - Icon
-  - [Radix Icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team. ([Website](https://icons.radix-ui.com/))
+  - [Radix Icons](https://github.com/radix-ui/icons) ([Website](https://icons.radix-ui.com/)) - A crisp set of 15×15 icons designed by the @workos team.
   - [iconsax](https://github.com/lusaxweb/iconsax) ([Website](https://iconsax.io/)) - Hello welcome to iconsax
 the official icons of the
 Vuesax framework.
