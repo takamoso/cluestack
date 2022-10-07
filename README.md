@@ -23,3 +23,4 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   - [iconsax](https://github.com/lusaxweb/iconsax) ([Website](https://iconsax.io/)) - Hello welcome to iconsax
 the official icons of the
 Vuesax framework.
+  - [Remix Icon](https://github.com/Remix-Design/remixicon) ([Website](https://remixicon.com/)) - A set of open-source neutral-style system symbols for designers and developers.
