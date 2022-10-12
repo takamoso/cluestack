@@ -28,6 +28,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 the official icons of the
 Vuesax framework.
   - [Remix Icon](https://github.com/Remix-Design/remixicon) ([Website](https://remixicon.com/)) - A set of open-source neutral-style system symbols for designers and developers.
+  - [icons.download](https://icons.download/) - Free vector icons in 16 styles for any project. Solid and outline, sharp and rounded, 4 widths.
 
 ## Web Design
 
