@@ -17,6 +17,8 @@
 Pure JavaScript tool for making smart and high performance sticky sidebar.
   - Animation
     - [motionone](https://github.com/motiondivision/motionone) ([Website](https://motion.dev/)) - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
+  - File
+    - [check-html-links](https://github.com/modernweb-dev/rocket/tree/main/packages/check-html-links) - A fast checker for broken links/references in HTML.
   - Util
     - [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier.
     - [microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
