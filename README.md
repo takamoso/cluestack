@@ -34,6 +34,13 @@ Vuesax framework.
   - [Remix Icon](https://github.com/Remix-Design/remixicon) ([Website](https://remixicon.com/)) - A set of open-source neutral-style system symbols for designers and developers.
   - [icons.download](https://icons.download/) - Free vector icons in 16 styles for any project. Solid and outline, sharp and rounded, 4 widths.
 
+
+## Generator
+
+- Color
+  - [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations.
+
+
 ## Web Design
 
 - Gallery
