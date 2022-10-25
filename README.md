@@ -39,6 +39,12 @@ Vuesax framework.
   - [icons.download](https://icons.download/) - Free vector icons in 16 styles for any project. Solid and outline, sharp and rounded, 4 widths.
 
 
+## Font
+
+- Japanese
+  - [LINE Seed JP](https://seed.line.me/index_jp.html) - Meet LINE Seed. LINE'S very first typeface is born.
+
+
 ## Generator
 
 - Color
