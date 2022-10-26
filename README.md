@@ -22,6 +22,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [motionone](https://github.com/motiondivision/motionone) ([Website](https://motion.dev/)) - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
   - File
     - [check-html-links](https://github.com/modernweb-dev/rocket/tree/main/packages/check-html-links) - A fast checker for broken links/references in HTML.
+  - API
+    - [follower-count](https://github.com/egoist/follower-count) - Get follower count for Instagram, Twitter, TikTok, Youtube accounts.
   - Util
     - [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier.
     - [fast-equals](https://github.com/planttheidea/fast-equals) - A blazing fast equality comparison, either shallow or deep.
