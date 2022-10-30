@@ -65,4 +65,5 @@ Vuesax framework.
 
 - Gallery
   - [ちょうどいいWebデザインギャラリー](https://choooodoii.com/) - This is a new type of website gallery collection that focuses on the viewpoints of creators involved in web production as "just the right points" to gain new perspectives.
+  - [Check WebTech](https://cwt.jp/) - A collection of website links focusing on technologies for adoption. A gallery of websites that can be used as a reference for trend research, technology selection, web design, coding, and development.
   - [Awwwards](https://www.awwwards.com/) - The awards of design, creativity and innovation on the internet.
