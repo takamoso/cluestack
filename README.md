@@ -52,6 +52,8 @@ Vuesax framework.
 
 - Japanese
   - [LINE Seed JP](https://seed.line.me/index_jp.html) - Meet LINE Seed. LINE'S very first typeface is born.
+  - [殴り書きクレヨン](http://font.sumomo.ne.jp/font_2.html) - This is a handwritten font with a crayon touch. Some characters are difficult to read because they are written by blows.
+Kanji characters are included up to the first level.
 
 
 ## Generator
