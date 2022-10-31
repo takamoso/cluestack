@@ -3,6 +3,7 @@
 - Library
   - Component
     - [system.css](https://github.com/sakofchit/system.css) ([Website](https://sakofchit.github.io/system.css/)) - A design system for building retro Apple interfaces.
+    - [Paper Prototype CSS](https://gitlab.com/edent/paper-prototype-css) - CSS Designed to look a bit like a paper prototype.
 
 ## JavaScript
 
