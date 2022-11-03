@@ -67,6 +67,8 @@ Kanji characters are included up to the first level.
   - [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations.
 - Gradient
   - [Mesher](https://csshero.org/mesher/) - CSS mesh gradients generator.
+- Shadow
+  - [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) - Generate gradients for your shadows with pure CSS. This generator makes it easy for you.
 
 
 ## Web Design
