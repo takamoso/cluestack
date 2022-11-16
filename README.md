@@ -69,6 +69,8 @@ Kanji characters are included up to the first level.
 
 - Color
   - [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations.
+- Shape
+  - [CSS Clothoid Corners](https://onotakehiko.dev/clothoid/) - Generate clothoid rounded corners by CSS clip-path.
 - Gradient
   - [Mesher](https://csshero.org/mesher/) - CSS mesh gradients generator.
 - Shadow
