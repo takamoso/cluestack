@@ -52,6 +52,7 @@ Vuesax framework.
   - [Remix Icon](https://github.com/Remix-Design/remixicon) ([Website](https://remixicon.com/)) - A set of open-source neutral-style system symbols for designers and developers.
   - [icons.download](https://icons.download/) - Free vector icons in 16 styles for any project. Solid and outline, sharp and rounded, 4 widths.
   - [Boxicons](https://github.com/atisawd/boxicons) ([Website](https://boxicons.com/)) - High Quality web friendly icons.
+  - [Sargam Icons](https://github.com/planetabhi/sargam-icons) ([Website](https://sargamicons.com/)) - A collection of 700+ open-source icons devoted to match your exquisite designs. Every single detail in each icon was carefully tuned to present minimalism and elegance.
 - Illustration
   - [Nice Illustrations](https://niceillustrations.com/free-illustrations/) - Free illustrations you can use for your design projects. Click to download hundreds of beautiful vector illustrations for free today!
 
