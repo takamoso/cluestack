@@ -30,6 +30,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [motionone](https://github.com/motiondivision/motionone) ([Website](https://motion.dev/)) - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
   - Visual
     - [matrix](https://github.com/Rezmason/matrix) ([Website](https://rezmason.github.io/matrix/)) - matrix (web-based green code rain, made with love).
+  - Media
+    - [YouTube.js](https://github.com/LuanRT/YouTube.js) - Full-featured wrapper around YouTube's private API — reverse engineering InnerTube.
   - File
     - [check-html-links](https://github.com/modernweb-dev/rocket/tree/main/packages/check-html-links) - A fast checker for broken links/references in HTML.
     - [npkill](https://github.com/voidcosmos/npkill) - List any node_modules dir in your system and how heavy they are. You can then select which ones you want to erase to free up space.
