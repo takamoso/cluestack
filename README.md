@@ -21,6 +21,7 @@
   - Scroll
     - [sticky-sidebar-v2](https://github.com/blixhavn/sticky-sidebar-v2) ([Website](https://blixhavn.github.io/sticky-sidebar-v2/)) - About
 Pure JavaScript tool for making smart and high performance sticky sidebar.
+    - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
   - SVG
     - [satori](https://github.com/vercel/satori) ([Website](https://og-playground.vercel.app/)) - Enlightened library to convert HTML and CSS to SVG.
     - [svg-path-morph](https://github.com/Minibrams/svg-path-morph) - Smoothly interpolate between variations of SVG paths.
