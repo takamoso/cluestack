@@ -77,6 +77,7 @@ Kanji characters are included up to the first level.
   - [CSS Clothoid Corners](https://onotakehiko.dev/clothoid/) - Generate clothoid rounded corners by CSS clip-path.
 - Gradient
   - [Mesher](https://csshero.org/mesher/) - CSS mesh gradients generator.
+  - [Easing Gradients](https://larsenwork.com/easing-gradients/) - Supercharge your gradients with non-linear color mix and custom color spaces.
 - Shadow
   - [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) - Generate gradients for your shadows with pure CSS. This generator makes it easy for you.
 
