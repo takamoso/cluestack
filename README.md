@@ -73,6 +73,7 @@ Kanji characters are included up to the first level.
 
 - Color
   - [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations.
+  - [Palette](https://palette.fm/) - A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram, free, and no sign-up required!
 - Shape
   - [CSS Clothoid Corners](https://onotakehiko.dev/clothoid/) - Generate clothoid rounded corners by CSS clip-path.
 - Gradient
