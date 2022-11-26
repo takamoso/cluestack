@@ -45,6 +45,11 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck.
 
 
+## API
+
+- [Randomuser.me-Node](https://github.com/RandomAPI/Randomuser.me-Node) ([Website](https://randomuser.me/)) - A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
+
+
 ## Media
 
 - Icon
