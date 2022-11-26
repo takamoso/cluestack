@@ -61,6 +61,7 @@ Vuesax framework.
   - [icons.download](https://icons.download/) - Free vector icons in 16 styles for any project. Solid and outline, sharp and rounded, 4 widths.
   - [Boxicons](https://github.com/atisawd/boxicons) ([Website](https://boxicons.com/)) - High Quality web friendly icons.
   - [Sargam Icons](https://github.com/planetabhi/sargam-icons) ([Website](https://sargamicons.com/)) - A collection of 700+ open-source icons devoted to match your exquisite designs. Every single detail in each icon was carefully tuned to present minimalism and elegance.
+  - [Feather](https://github.com/feathericons/feather) ([Website](https://feathericons.com/)) - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
 - Illustration
