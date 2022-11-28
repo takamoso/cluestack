@@ -13,6 +13,8 @@
 ## JavaScript
 
 - Library
+  - Framework
+    - [playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
   - Menu
     - [kmenu](https://github.com/harshhhdev/kmenu) ([Website](https://kmenu.hxrsh.in/)) - An animated and accessible command menu.
   - Slider
