@@ -6,6 +6,9 @@
     - [Paper Prototype CSS](https://gitlab.com/edent/paper-prototype-css) ([Website](https://edent.gitlab.io/paper-prototype-css/)) - CSS Designed to look a bit like a paper prototype.
     - [Pokemon Cards CSS](https://github.com/simeydotme/pokemon-cards-css) ([Website](https://poke-holo.simey.me/)) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
     - [Devices.css](https://github.com/picturepan2/devices.css) ([Website](https://devicescss.xyz/)) - Modern devices crafted in pure CSS.
+  - Util
+    - [open-props](https://github.com/argyleink/open-props) ([Website](https://open-props.style/)) - CSS custom properties to help accelerate adaptive and consistent design.
+
 
 ## JavaScript
 
