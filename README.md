@@ -85,6 +85,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
 Kanji characters are included up to the first level.
   - [りんごひめ](https://booth.pm/ja/items/4275601) - This Japanese OpenType font is based on hand-drawn characters and was created with the image of a logo from a girl's magazine in the Showa period.
   - [クラフト明朝](https://booth.pm/ja/items/3308018) - This is a hand-drawn Mincho font with a good degree of fading.
+  - [とらいあんぐるDemo](https://www.flopdesign.com/syotai/triangle.html) - Cute round gothic for title logos and headlines with an impressive triangular shape.
 
 
 ## Generator
