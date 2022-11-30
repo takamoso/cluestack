@@ -88,6 +88,7 @@ Kanji characters are included up to the first level.
   - [とらいあんぐるDemo](https://www.flopdesign.com/syotai/triangle.html) - Cute round gothic for title logos and headlines with an impressive triangular shape.
   - [どきどきファンタジア](https://booth.pm/ja/items/4106184) - Cute and POP, Round Gothic for headlines and logos. Sentence.
   - [レトロランプフォント](https://booth.pm/ja/items/3592632) - This font was inspired by the lettering of the logo of the incandescent light bulb "Tou-Lamp®" sold by the now defunct Toko Electric Co.
+  - [エビハラのくせ字](https://booth.pm/ja/items/3965615) - I actually made a font of my own handwriting, which is often said to be "font-like.
 
 
 ## Generator
