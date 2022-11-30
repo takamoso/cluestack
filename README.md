@@ -87,6 +87,7 @@ Kanji characters are included up to the first level.
   - [クラフト明朝](https://booth.pm/ja/items/3308018) - This is a hand-drawn Mincho font with a good degree of fading.
   - [とらいあんぐるDemo](https://www.flopdesign.com/syotai/triangle.html) - Cute round gothic for title logos and headlines with an impressive triangular shape.
   - [どきどきファンタジア](https://booth.pm/ja/items/4106184) - Cute and POP, Round Gothic for headlines and logos. Sentence.
+  - [レトロランプフォント](https://booth.pm/ja/items/3592632) - This font was inspired by the lettering of the logo of the incandescent light bulb "Tou-Lamp®" sold by the now defunct Toko Electric Co.
 
 
 ## Generator
