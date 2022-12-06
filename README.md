@@ -73,6 +73,7 @@ Vuesax framework.
   - [Feather](https://github.com/feathericons/feather) ([Website](https://feathericons.com/)) - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
   - [Ionicons](https://github.com/ionic-team/ionicons) ([Website](https://ionic.io/ionicons)) - About
 Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.
+  - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-icons) - A flexible icon family for the web.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
 - Illustration
