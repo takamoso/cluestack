@@ -108,6 +108,7 @@ Kanji characters are included up to the first level.
   - [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) - Generate gradients for your shadows with pure CSS. This generator makes it easy for you.
 - Image
   - [SVG Crop](https://svgcrop.com/) - Remove blank space from around any SVG instantly.
+  - [cssFilters.co](https://www.cssfilters.co/) - Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
 - Font
   - [Fallback Font Generator](https://screenspan.net/fallback) - Reduce Cumulative Layout Shift (CLS) by adjusting web fonts and system font fallbacks using @font-face.
 
