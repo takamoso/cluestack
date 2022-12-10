@@ -5,6 +5,7 @@
     - [attriCSS](https://github.com/raj457036/attriCSS) - AttriCSS is a classless css framework that style normal ugly html to beautiful website.
     - [axist](https://github.com/ruanmartinelli/axist) - Minimal (5kb) drop-in CSS library.
     - [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup.
+    - [Bahunya](https://github.com/Kimeiga/bahunya) - 10KB classless CSS framework with a navbar and dark styling.
   - Component
     - [system.css](https://github.com/sakofchit/system.css) ([Website](https://sakofchit.github.io/system.css/)) - A design system for building retro Apple interfaces.
     - [Paper Prototype CSS](https://gitlab.com/edent/paper-prototype-css) ([Website](https://edent.gitlab.io/paper-prototype-css/)) - CSS Designed to look a bit like a paper prototype.
