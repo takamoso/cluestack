@@ -50,6 +50,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [npkill](https://github.com/voidcosmos/npkill) - List any node_modules dir in your system and how heavy they are. You can then select which ones you want to erase to free up space.
   - API
     - [follower-count](https://github.com/egoist/follower-count) - Get follower count for Instagram, Twitter, TikTok, Youtube accounts.
+  - Performance
+    - [fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics.
   - Bash
     - [zx](https://github.com/google/zx) - A tool for writing better scripts.
   - Util
