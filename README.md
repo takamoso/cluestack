@@ -52,6 +52,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [follower-count](https://github.com/egoist/follower-count) - Get follower count for Instagram, Twitter, TikTok, Youtube accounts.
   - Performance
     - [fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics.
+    - [lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
   - Bash
     - [zx](https://github.com/google/zx) - A tool for writing better scripts.
   - Util
