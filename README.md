@@ -123,6 +123,7 @@ Kanji characters are included up to the first level.
   - [SVG Crop](https://svgcrop.com/) - Remove blank space from around any SVG instantly.
   - [cssFilters.co](https://www.cssfilters.co/) - Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
   - [Base64 Image Encoder](https://www.base64-image.de/) - Optimize your images and convert them to base64 online. Drag & Drop your files, copy to clipboard with a click and use the result in HTML and CSS.
+  - [vectormaker](https://vectormaker.co/) - Convert images to SVG vectors, PNG-to-SVG Vectors. Vectormaker outlines your pixel based images and turns them into colored SVG vector files.
 - Font
   - [Fallback Font Generator](https://screenspan.net/fallback) - Reduce Cumulative Layout Shift (CLS) by adjusting web fonts and system font fallbacks using @font-face.
 
