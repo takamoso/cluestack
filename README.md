@@ -84,6 +84,7 @@ Vuesax framework.
   - [Ionicons](https://github.com/ionic-team/ionicons) ([Website](https://ionic.io/ionicons)) - About
 Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.
   - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-icons) - A flexible icon family for the web.
+  - [ClockFace-font](https://github.com/ocodo/ClockFace-font) - Icon font for displaying the time.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
 - Illustration
