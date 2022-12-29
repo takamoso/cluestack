@@ -132,6 +132,11 @@ Kanji characters are included up to the first level.
   - [Fallback Font Generator](https://screenspan.net/fallback) - Reduce Cumulative Layout Shift (CLS) by adjusting web fonts and system font fallbacks using @font-face.
 
 
+## Chrome Extension
+
+- [PixelZoomer](https://chrome.google.com/webstore/detail/pixelzoomer/fogkjckfkdcnmnnfmbieljpkmmihhpao) - PixelZoomer takes a website screenshot and provides a measuring tool, a zoom and an eye dropper.
+
+
 ## Web Design
 
 - Gallery
