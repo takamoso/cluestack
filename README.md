@@ -43,6 +43,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [canvas-confetti](https://github.com/catdad/canvas-confetti) ([Website](https://www.kirilv.com/canvas-confetti/)) - On-demand confetti gun.
   - Animation
     - [motionone](https://github.com/motiondivision/motionone) ([Website](https://motion.dev/)) - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
+    - [Scene.js](https://github.com/daybrush/scenejs) - Scene.js is JavaScript & CSS timeline-based animation library.
   - Visual
     - [matrix](https://github.com/Rezmason/matrix) ([Website](https://rezmason.github.io/matrix/)) - matrix (web-based green code rain, made with love).
   - Media
