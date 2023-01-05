@@ -116,6 +116,7 @@ Kanji characters are included up to the first level.
 - Shape
   - [CSS Clothoid Corners](https://onotakehiko.dev/clothoid/) - Generate clothoid rounded corners by CSS clip-path.
   - [Haikei](https://app.haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
+  - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/) - A visual generator to build organic looking shapes with the help of CSS3 border-radius property.
 - Background
   - [Hero Patterns](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
 - Gradient
