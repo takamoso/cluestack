@@ -88,6 +88,7 @@ Vuesax framework.
 Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.
   - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-icons) - A flexible icon family for the web.
   - [ClockFace-font](https://github.com/ocodo/ClockFace-font) - Icon font for displaying the time.
+  - [Forge Icons](https://icons.theforgesmith.com/) - Free Download of over 300 SVG icons for your next project. Pick thickness, color and size. Icons ideal for e-commerce, travel, social media, app design and much more.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
 - Illustration
