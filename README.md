@@ -93,6 +93,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   - [ClockFace-font](https://github.com/ocodo/ClockFace-font) - Icon font for displaying the time.
   - [Forge Icons](https://icons.theforgesmith.com/) - Free Download of over 300 SVG icons for your next project. Pick thickness, color and size. Icons ideal for e-commerce, travel, social media, app design and much more.
   - [Iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
+  - [MingCute Icon](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
 - Illustration
