@@ -23,6 +23,7 @@
     - [playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
   - Application
     - [Neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework.
+    - [Gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.
   - Menu
     - [kmenu](https://github.com/harshhhdev/kmenu) ([Website](https://kmenu.hxrsh.in/)) - An animated and accessible command menu.
   - Slider
