@@ -43,6 +43,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [svg-path-morph](https://github.com/Minibrams/svg-path-morph) - Smoothly interpolate between variations of SVG paths.
   - Canvas
     - [canvas-confetti](https://github.com/catdad/canvas-confetti) ([Website](https://www.kirilv.com/canvas-confetti/)) - On-demand confetti gun.
+    - [lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device.
   - Animation
     - [motionone](https://github.com/motiondivision/motionone) ([Website](https://motion.dev/)) - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
     - [Scene.js](https://github.com/daybrush/scenejs) - Scene.js is JavaScript & CSS timeline-based animation library.
