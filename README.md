@@ -60,6 +60,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   - Performance
     - [fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics.
     - [lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+    - [Barba.js](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
   - Bash
     - [zx](https://github.com/google/zx) - A tool for writing better scripts.
   - Util
