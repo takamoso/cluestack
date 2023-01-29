@@ -139,6 +139,7 @@ Kanji characters are included up to the first level.
 - Shadow
   - [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) - Generate gradients for your shadows with pure CSS. This generator makes it easy for you.
   - [Smooth Shadow](https://shadows.brumm.af/) - Make a smooth css shadow.
+  - [CSS Text Shadow Generator](https://cssbud.com/css-generator/css-text-shadow-generator/) - A simple generator that creates code for the CSS text shadow. Just add your variables using the slider, adjust to your liking, and copy the code.
 - Image
   - [SVG Crop](https://svgcrop.com/) - Remove blank space from around any SVG instantly.
   - [cssFilters.co](https://www.cssfilters.co/) - Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
