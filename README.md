@@ -54,6 +54,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [matrix](https://github.com/Rezmason/matrix) ([Website](https://rezmason.github.io/matrix/)) - matrix (web-based green code rain, made with love).
   - Media
     - [YouTube.js](https://github.com/LuanRT/YouTube.js) - Full-featured wrapper around YouTube's private API — reverse engineering InnerTube.
+    - [Responsive Video Poster](https://github.com/NigelOToole/responsive-video-poster) - Responsive poster image for videos to improve performance and allow full control of video placeholders.
   - File
     - [check-html-links](https://github.com/modernweb-dev/rocket/tree/main/packages/check-html-links) - A fast checker for broken links/references in HTML.
     - [npkill](https://github.com/voidcosmos/npkill) - List any node_modules dir in your system and how heavy they are. You can then select which ones you want to erase to free up space.
