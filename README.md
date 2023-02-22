@@ -12,6 +12,7 @@
     - [Pokemon Cards CSS](https://github.com/simeydotme/pokemon-cards-css) ([Website](https://poke-holo.simey.me/)) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
     - [Devices.css](https://github.com/picturepan2/devices.css) ([Website](https://devicescss.xyz/)) - Modern devices crafted in pure CSS.
     - [MetalliCSS](https://github.com/MikaeI/metallicss) - Versatile metallic finish for CSS.
+    - [Charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
   - Util
     - [open-props](https://github.com/argyleink/open-props) ([Website](https://open-props.style/)) - CSS custom properties to help accelerate adaptive and consistent design.
 
