@@ -39,6 +39,7 @@
     - [sticky-sidebar-v2](https://github.com/blixhavn/sticky-sidebar-v2) ([Website](https://blixhavn.github.io/sticky-sidebar-v2/)) - About
 Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+    - [ScrollTrigger](https://github.com/terwanerik/ScrollTrigger) - Let your page react to scroll changes.
   - Drag
     - [neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all.
   - SVG
