@@ -52,6 +52,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [motionone](https://github.com/motiondivision/motionone) ([Website](https://motion.dev/)) - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
     - [Scene.js](https://github.com/daybrush/scenejs) - Scene.js is JavaScript & CSS timeline-based animation library.
     - [URL Animations](https://github.com/LunarFang416/url-animations) - Add loading animations to your website in your browser URL field.
+    - [Rough Notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page.
   - Typography
     - [Hyphenopoly](https://github.com/mnater/Hyphenopoly) - Hyphenation for node and Polyfill for client-side hyphenation.
   - Visual
