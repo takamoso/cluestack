@@ -31,6 +31,7 @@
     - [Swiper](https://github.com/nolimits4web/Swiper) ([Website](https://swiperjs.com/)) - Most modern mobile touch slider with hardware accelerated transitions.
     - [Splide](https://github.com/Splidejs/splide) ([Website](https://splidejs.com/)) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
     - [keen-slider](https://github.com/rcbyr/keen-slider) ([Website](https://keen-slider.io/)) - The HTML touch slider carousel with the most native feeling you will get.
+    - [Glide.js](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more.
   - Picker
     - [Vanilla Colorful](https://github.com/web-padawan/vanilla-colorful) - A tiny color picker custom element for modern web apps.
   - Text Editor
