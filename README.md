@@ -87,6 +87,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
     - [UUID.js](https://github.com/LiosK/UUID.js) - RFC-compliant UUID Generator for JavaScript.
     - [Colord](https://github.com/omgovich/colord) - A tiny yet powerful tool for high-performance color manipulations and conversions.
+    - [jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 
