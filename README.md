@@ -91,6 +91,10 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 
 
+## Dataset
+  - [japanese-addresses](https://github.com/geolonia/japanese-addresses) - Open data on addresses at the town and street level nationwide.
+
+
 ## API
 
 - [Randomuser.me-Node](https://github.com/RandomAPI/Randomuser.me-Node) ([Website](https://randomuser.me/)) - A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
