@@ -150,6 +150,7 @@ Kanji characters are included up to the first level.
   - [Palette](https://palette.fm/) - A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram, free, and no sign-up required!
   - [Color Tool](https://m2.material.io/resources/color/#!/) - Create and share color palettes for your UI, and measure the accessibility of any color combination.
   - [ColorMagic](https://colormagic.app/) - ColorMagic is a service that uses AI to create original color palettes. It can easily generate color schemes that can be used right now, based on keywords for atmosphere and images.
+  - [Tailwind CSS 10-color Palette Generator and API](https://www.tints.dev) - A fast and flexible, HSL-tweakable palette generator and API for Tailwind CSS.
 - Typography
   - [CSS Underline Generator](https://cssbud.com/css-generator/css-underline-generator/) - An easy, modern and fresh CSS underline generator for your creative & design needs. Just tweak the parameters, copy, and paste!
 - Shape
