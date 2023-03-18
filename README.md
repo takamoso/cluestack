@@ -81,6 +81,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [StatiCrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page.
   - Bash
     - [zx](https://github.com/google/zx) - A tool for writing better scripts.
+  - Full-text Search
+    - [MiniSearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node.
   - Util
     - [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier.
     - [fast-equals](https://github.com/planttheidea/fast-equals) - A blazing fast equality comparison, either shallow or deep.
