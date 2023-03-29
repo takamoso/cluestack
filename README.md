@@ -81,6 +81,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [Barba.js](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
   - Security
     - [StatiCrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page.
+  - CLI
+    - [yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
   - Bash
     - [zx](https://github.com/google/zx) - A tool for writing better scripts.
   - Full-text Search
