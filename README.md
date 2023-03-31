@@ -89,6 +89,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [MiniSearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node.
   - Date
     - [Chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript.
+  - Ofiice
+    - [docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
   - Util
     - [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier.
     - [fast-equals](https://github.com/planttheidea/fast-equals) - A blazing fast equality comparison, either shallow or deep.
