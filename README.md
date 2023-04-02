@@ -84,6 +84,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [StatiCrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page.
   - CLI
     - [yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
+    - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
   - Bash
     - [zx](https://github.com/google/zx) - A tool for writing better scripts.
   - Full-text Search
