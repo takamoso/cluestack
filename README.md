@@ -62,6 +62,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   - Image
     - [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - Extract prominent colors from an image.
     - [Cropper.js](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
+  - Search
+    - [Text Highlighter](https://github.com/wstaeblein/texthighlighter) - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality.
   - Visual
     - [matrix](https://github.com/Rezmason/matrix) ([Website](https://rezmason.github.io/matrix/)) - matrix (web-based green code rain, made with love).
   - Media
