@@ -64,6 +64,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [Cropper.js](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
   - Search
     - [Text Highlighter](https://github.com/wstaeblein/texthighlighter) - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality.
+    - [uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck.
   - Visual
     - [matrix](https://github.com/Rezmason/matrix) ([Website](https://rezmason.github.io/matrix/)) - matrix (web-based green code rain, made with love).
   - Media
@@ -99,7 +100,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier.
     - [fast-equals](https://github.com/planttheidea/fast-equals) - A blazing fast equality comparison, either shallow or deep.
     - [microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
-    - [uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck.
     - [big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
     - [UUID.js](https://github.com/LiosK/UUID.js) - RFC-compliant UUID Generator for JavaScript.
     - [Colord](https://github.com/omgovich/colord) - A tiny yet powerful tool for high-performance color manipulations and conversions.
