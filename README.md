@@ -195,6 +195,8 @@ Kanji characters are included up to the first level.
   - [Base64 Image Encoder](https://www.base64-image.de/) - Optimize your images and convert them to base64 online. Drag & Drop your files, copy to clipboard with a click and use the result in HTML and CSS.
   - [vectormaker](https://vectormaker.co/) - Convert images to SVG vectors, PNG-to-SVG Vectors. Vectormaker outlines your pixel based images and turns them into colored SVG vector files.
   - [PicWish](https://picwish.com/jp/remove-background) - Free photo and image background cropping online tool. It automatically recognizes the background of an image or photo and neatly removes it and makes it transparent; based on AI technology, it crops almost everything with high accuracy, including people, products, animals, logos, watermarks, watermarks, etc.
+- Code
+  - [CodeImage](https://codeimage.dev/) - CodeImage is the newest tool to help developers to manage their snippets and create beautiful screenshots of their source code
 - Mockup
   - [BrowserFrame](https://browserframe.com/) - Browser Frame is a free tool that helps you wrap screenshots in different browser frames. Supports Chrome, Firefox, Safari, and more.
 - Font
