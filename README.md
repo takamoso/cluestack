@@ -169,6 +169,7 @@ Kanji characters are included up to the first level.
   - [Tailwind CSS 10-color Palette Generator and API](https://www.tints.dev) - A fast and flexible, HSL-tweakable palette generator and API for Tailwind CSS.
 - Typography
   - [CSS Underline Generator](https://cssbud.com/css-generator/css-underline-generator/) - An easy, modern and fresh CSS underline generator for your creative & design needs. Just tweak the parameters, copy, and paste!
+  - [Min-Max-Value Interpolation](https://min-max-calculator.9elements.com/) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
 - Shape
   - [CSS Clothoid Corners](https://onotakehiko.dev/clothoid/) - Generate clothoid rounded corners by CSS clip-path.
   - [Haikei](https://app.haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
