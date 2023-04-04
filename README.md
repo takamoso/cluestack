@@ -176,6 +176,7 @@ Kanji characters are included up to the first level.
   - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/) - A visual generator to build organic looking shapes with the help of CSS3 border-radius property.
   - [Svg Wave](https://svgwave.in/) - SVG Wave is a minimal svg wave generator with lot of customization. It lets you abiltiy to generate and export pngs and svgs of beautiful waves. SVG wave also lets you layer multiple waves. Create SVGs for your website designs.
   - [Scrollbar](https://scrollbar.app/) - Simple CSS scrollbar editor.
+  - [Get Waves](https://getwaves.io/) - A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!
 - Background
   - [Hero Patterns](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
   - [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS and HTML components using the glassmorphism design specifications based on the Glass UI library.
