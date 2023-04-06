@@ -141,6 +141,8 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   - [Atlas icons](https://github.com/Vectopus/Atlas-icons-font) - Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
+- Pattern
+  - [Hero Patterns](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
 - Illustration
   - [Nice Illustrations](https://niceillustrations.com/free-illustrations/) - Free illustrations you can use for your design projects. Click to download hundreds of beautiful vector illustrations for free today!
 
