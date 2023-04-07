@@ -90,6 +90,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
   - Bash
     - [zx](https://github.com/google/zx) - A tool for writing better scripts.
+  - Lint
+    - [markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
   - Full-text Search
     - [MiniSearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node.
   - Date
