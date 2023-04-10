@@ -145,6 +145,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   - [MingCute Icon](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
   - [Unicorn icons](https://unicornicons.com/) - Unicorn icons are a collection of animated icons for your next project.
   - [Atlas icons](https://github.com/Vectopus/Atlas-icons-font) - Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
+  - [Simple Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
 - Pattern
