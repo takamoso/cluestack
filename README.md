@@ -111,6 +111,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [Colord](https://github.com/omgovich/colord) - A tiny yet powerful tool for high-performance color manipulations and conversions.
     - [jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
     - [finder](https://github.com/antonmedv/finder) - CSS Selector Generator.
+    - [Eruda](https://github.com/liriliri/eruda) - Console for mobile browsers.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 
