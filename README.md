@@ -112,6 +112,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
     - [finder](https://github.com/antonmedv/finder) - CSS Selector Generator.
     - [Eruda](https://github.com/liriliri/eruda) - Console for mobile browsers.
+    - [Croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 
