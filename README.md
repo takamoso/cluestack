@@ -26,6 +26,7 @@
     - [Neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework.
     - [Gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.
     - [PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.
+    - [Framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps.
   - Menu
     - [kmenu](https://github.com/harshhhdev/kmenu) ([Website](https://kmenu.hxrsh.in/)) - An animated and accessible command menu.
   - Slider
