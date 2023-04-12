@@ -64,6 +64,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [Granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
   - Typography
     - [Hyphenopoly](https://github.com/mnater/Hyphenopoly) - Hyphenation for node and Polyfill for client-side hyphenation.
+    - [BudouX](https://github.com/google/budoux/) - BudouX is the successor to Budou, the machine learning powered line break organizer tool.
   - Image
     - [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - Extract prominent colors from an image.
     - [Cropper.js](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
