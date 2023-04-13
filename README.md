@@ -182,6 +182,7 @@ Kanji characters are included up to the first level.
   - [Color Tool](https://m2.material.io/resources/color/#!/) - Create and share color palettes for your UI, and measure the accessibility of any color combination.
   - [ColorMagic](https://colormagic.app/) - ColorMagic is a service that uses AI to create original color palettes. It can easily generate color schemes that can be used right now, based on keywords for atmosphere and images.
   - [Tailwind CSS 10-color Palette Generator and API](https://www.tints.dev) - A fast and flexible, HSL-tweakable palette generator and API for Tailwind CSS.
+  - [Colorbase](https://colorbase.app/) - All-in-one color tool for creators.
 - Typography
   - [CSS Underline Generator](https://cssbud.com/css-generator/css-underline-generator/) - An easy, modern and fresh CSS underline generator for your creative & design needs. Just tweak the parameters, copy, and paste!
   - [Min-Max-Value Interpolation](https://min-max-calculator.9elements.com/) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
