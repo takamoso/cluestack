@@ -117,6 +117,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [Eruda](https://github.com/liriliri/eruda) - Console for mobile browsers.
     - [Croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
     - [jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript.
+    - [queue](https://github.com/jessetane/queue) - Asynchronous function queue with adjustable concurrency.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 
