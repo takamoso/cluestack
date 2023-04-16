@@ -119,6 +119,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript.
     - [queue](https://github.com/jessetane/queue) - Asynchronous function queue with adjustable concurrency.
     - [minimatch](https://github.com/isaacs/minimatch) - A glob matcher in javascript.
+    - [Ranger](https://github.com/jonrandy/js-ranger) - avascript library to add range syntax functionality to any object.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 
