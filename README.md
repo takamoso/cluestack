@@ -156,6 +156,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   - [Unicorn icons](https://unicornicons.com/) - Unicorn icons are a collection of animated icons for your next project.
   - [Atlas icons](https://github.com/Vectopus/Atlas-icons-font) - Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
   - [Simple Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
+  - [Atlas icons](https://github.com/Vectopus/Atlas-icons-font) - Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
 - Pattern
