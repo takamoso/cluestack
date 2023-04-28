@@ -66,6 +66,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [URL Animations](https://github.com/LunarFang416/url-animations) - Add loading animations to your website in your browser URL field.
     - [Rough Notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page.
     - [Granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
+    - [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG.
   - Typography
     - [Hyphenopoly](https://github.com/mnater/Hyphenopoly) - Hyphenation for node and Polyfill for client-side hyphenation.
     - [BudouX](https://github.com/google/budoux/) - BudouX is the successor to Budou, the machine learning powered line break organizer tool.
