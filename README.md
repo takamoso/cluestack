@@ -92,6 +92,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   - API
     - [follower-count](https://github.com/egoist/follower-count) - Get follower count for Instagram, Twitter, TikTok, Youtube accounts.
     - [Wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+    - [redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
   - DOM
     - [DOMPurify](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks.
   - Performance
