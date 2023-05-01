@@ -32,6 +32,8 @@
     - [Ark UI](https://github.com/chakra-ui/ark) - Universal headless UI components for the web. Powered by Zag.js.
   - Menu
     - [kmenu](https://github.com/harshhhdev/kmenu) ([Website](https://kmenu.hxrsh.in/)) - An animated and accessible command menu.
+  - Modal
+    - [Micromodal](https://github.com/ghosh/Micromodal) - Tiny javascript library for creating accessible modal dialogs.
   - Slider
     - [Swiper](https://github.com/nolimits4web/Swiper) ([Website](https://swiperjs.com/)) - Most modern mobile touch slider with hardware accelerated transitions.
     - [Splide](https://github.com/Splidejs/splide) ([Website](https://splidejs.com/)) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
