@@ -39,6 +39,7 @@
     - [Splide](https://github.com/Splidejs/splide) ([Website](https://splidejs.com/)) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
     - [keen-slider](https://github.com/rcbyr/keen-slider) ([Website](https://keen-slider.io/)) - The HTML touch slider carousel with the most native feeling you will get.
     - [Glide.js](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more.
+    - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework.
   - Form
     - input
       - [imaskjs](https://github.com/uNmAnNeR/imaskjs) - Vanilla javascript input mask.
