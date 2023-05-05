@@ -97,6 +97,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
   - DOM
     - [DOMPurify](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks.
+    - [sanitize-html](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance.
   - Performance
     - [fontaine](https://github.com/danielroe/fontaine) - Automatic font fallback based on font metrics.
     - [lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
