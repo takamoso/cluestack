@@ -117,6 +117,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [MiniSearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node.
   - Date
     - [Chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript.
+    - [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
   - Ofiice
     - [docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
     - [SheetJS](https://github.com/SheetJS/sheetjs) - SheetJS Spreadsheet Data Toolkit.
