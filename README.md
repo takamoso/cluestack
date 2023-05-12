@@ -43,6 +43,7 @@
   - Form
     - input
       - [imaskjs](https://github.com/uNmAnNeR/imaskjs) - Vanilla javascript input mask.
+      - [autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
   - Picker
     - [Vanilla Colorful](https://github.com/web-padawan/vanilla-colorful) - A tiny color picker custom element for modern web apps.
   - Text Editor
