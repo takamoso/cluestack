@@ -138,6 +138,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [minimatch](https://github.com/isaacs/minimatch) - A glob matcher in javascript.
     - [Ranger](https://github.com/jonrandy/js-ranger) - avascript library to add range syntax functionality to any object.
     - [ohash](https://github.com/unjs/ohash) - Super fast hashing library based on murmurhash3 written in Vanilla JS.
+    - [JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 
