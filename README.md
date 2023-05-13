@@ -256,6 +256,7 @@ Kanji characters are included up to the first level.
 ## Chrome Extension
 
 - [PixelZoomer](https://chrome.google.com/webstore/detail/pixelzoomer/fogkjckfkdcnmnnfmbieljpkmmihhpao) - PixelZoomer takes a website screenshot and provides a measuring tool, a zoom and an eye dropper.
+- [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) - This extension measures the Core Web Vitals, providing instant feedback on loading, interactivity and layout shift metrics. It is consistent with how these metrics are measured by Chrome and reported to other Google tools.
 
 
 ## Web Design
