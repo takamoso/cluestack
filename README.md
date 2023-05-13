@@ -78,6 +78,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   - Image
     - [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - Extract prominent colors from an image.
     - [Cropper.js](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
+    - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
   - Search
     - [Text Highlighter](https://github.com/wstaeblein/texthighlighter) - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality.
     - [uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck.
