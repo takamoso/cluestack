@@ -93,6 +93,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [check-html-links](https://github.com/modernweb-dev/rocket/tree/main/packages/check-html-links) - A fast checker for broken links/references in HTML.
     - [npkill](https://github.com/voidcosmos/npkill) - List any node_modules dir in your system and how heavy they are. You can then select which ones you want to erase to free up space.
     - [Uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers.
+    - [node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs().
   - API
     - [follower-count](https://github.com/egoist/follower-count) - Get follower count for Instagram, Twitter, TikTok, Youtube accounts.
     - [Wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
