@@ -20,6 +20,8 @@
 ## JavaScript
 
 - Library
+  - Bundler
+    - [Bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one.
   - Framework
     - [playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
   - Application
