@@ -57,6 +57,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [Lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be.
   - Drag
     - [neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all.
+  - Chart
+    - [js2flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
   - SVG
     - [satori](https://github.com/vercel/satori) ([Website](https://og-playground.vercel.app/)) - Enlightened library to convert HTML and CSS to SVG.
     - [svg-path-morph](https://github.com/Minibrams/svg-path-morph) - Smoothly interpolate between variations of SVG paths.
