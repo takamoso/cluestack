@@ -51,6 +51,8 @@
   - Text Editor
     - [BlockNote](https://github.com/YousefED/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
     - [Marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+  - Syntax Highlighting
+    - [starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub.
   - Scroll
     - [sticky-sidebar-v2](https://github.com/blixhavn/sticky-sidebar-v2) ([Website](https://blixhavn.github.io/sticky-sidebar-v2/)) - About
 Pure JavaScript tool for making smart and high performance sticky sidebar.
