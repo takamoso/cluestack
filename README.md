@@ -150,6 +150,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [ohash](https://github.com/unjs/ohash) - Super fast hashing library based on murmurhash3 written in Vanilla JS.
     - [JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js.
     - [headless-qr](https://github.com/Rich-Harris/headless-qr) - A simple, modern QR code library.
+    - [Hashids](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 
