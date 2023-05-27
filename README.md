@@ -82,6 +82,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   - Typography
     - [Hyphenopoly](https://github.com/mnater/Hyphenopoly) - Hyphenation for node and Polyfill for client-side hyphenation.
     - [BudouX](https://github.com/google/budoux/) - BudouX is the successor to Budou, the machine learning powered line break organizer tool.
+    - [Alfaaz](https://github.com/thecodrr/alfaaz) - The fastest multilingual word counter that can count millions of words per second.
   - Image
     - [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - Extract prominent colors from an image.
     - [Cropper.js](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
