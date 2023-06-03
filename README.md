@@ -159,6 +159,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 ## Dataset
   - [japanese-addresses](https://github.com/geolonia/japanese-addresses) - Open data on addresses at the town and street level nationwide.
+  - [Color Names](https://github.com/meodai/color-names) - Large list of handpicked color names.
 
 
 ## API
