@@ -126,6 +126,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [zx](https://github.com/google/zx) - A tool for writing better scripts.
   - Lint
     - [markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
+    - [ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem.
   - Full-text Search
     - [MiniSearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node.
   - Date
