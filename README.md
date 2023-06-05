@@ -155,6 +155,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [headless-qr](https://github.com/Rich-Harris/headless-qr) - A simple, modern QR code library.
     - [Hashids](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
     - [Aimless.js](https://github.com/ChrisCavs/aimless.js) - The missing JavaScript randomness library.
+    - [KV.JS](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
 
