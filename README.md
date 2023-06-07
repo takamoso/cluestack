@@ -92,6 +92,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [Text Highlighter](https://github.com/wstaeblein/texthighlighter) - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality.
     - [uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck.
     - [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript.
+    - [FZF for JavaScript](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript.
   - Visual
     - [matrix](https://github.com/Rezmason/matrix) ([Website](https://rezmason.github.io/matrix/)) - matrix (web-based green code rain, made with love).
   - Media
