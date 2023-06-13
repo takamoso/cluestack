@@ -159,6 +159,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [KV.JS](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
+    - [ScrollyFills](https://github.com/argyleink/scrollyfills) - grab and go polyfill functions for web scroll features.
 
 
 ## Dataset
