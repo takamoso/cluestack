@@ -60,6 +60,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
     - [ScrollTrigger](https://github.com/terwanerik/ScrollTrigger) - Let your page react to scroll changes.
     - [Lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be.
+    - [detect-scroll](https://github.com/egstad-construct/detect-scroll) - A performant and lightweight (~1.6kb) ES6 module for detecting scroll activity (direction + location) for X and/or Y axis.
   - Drag
     - [neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all.
   - Chart
