@@ -161,6 +161,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [Aimless.js](https://github.com/ChrisCavs/aimless.js) - The missing JavaScript randomness library.
     - [KV.JS](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
     - [Radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful.
+    - [modern-async](https://github.com/nicolas-van/modern-async) - A modern JavaScript tooling library for asynchronous operations using async/await, promises and async generators.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
     - [ScrollyFills](https://github.com/argyleink/scrollyfills) - grab and go polyfill functions for web scroll features.
