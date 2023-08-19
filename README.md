@@ -201,6 +201,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   - [Simple Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
   - [Atlas icons](https://github.com/Vectopus/Atlas-icons-font) - Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
   - [Iconsans](https://github.com/mortezasabihi/iconsans) - +320 Free Icons for your next project (Vue & React).
+  - [Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android.
 - Emoji
   - [Noto Emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts.
 - Logo
