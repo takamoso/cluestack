@@ -53,6 +53,7 @@
     - [BlockNote](https://github.com/YousefED/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
     - [Marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
     - [Novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions.
+    - [MathLive](https://github.com/arnog/mathlive) - A web component for easy math input.
   - Syntax Highlighting
     - [starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub.
   - Scroll
