@@ -227,6 +227,7 @@ Kanji characters are included up to the first level.
   - [どきどきファンタジア](https://booth.pm/ja/items/4106184) - Cute and POP, Round Gothic for headlines and logos. Sentence.
   - [レトロランプフォント](https://booth.pm/ja/items/3592632) - This font was inspired by the lettering of the logo of the incandescent light bulb "Tou-Lamp®" sold by the now defunct Toko Electric Co.
   - [エビハラのくせ字](https://booth.pm/ja/items/3965615) - I actually made a font of my own handwriting, which is often said to be "font-like.
+  - [トレゴ](https://typographish.booth.pm/items/5047791) - This font was inspired by the European typeface Trajan Sans. It has a retro feel, like a signboard of a beauty parlor or women's clothing shop in an old shopping street.
 
 
 ## Generator
