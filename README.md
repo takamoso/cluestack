@@ -272,6 +272,7 @@ Kanji characters are included up to the first level.
   - [PicWish](https://picwish.com/jp/remove-background) - Free photo and image background cropping online tool. It automatically recognizes the background of an image or photo and neatly removes it and makes it transparent; based on AI technology, it crops almost everything with high accuracy, including people, products, animals, logos, watermarks, watermarks, etc.
   - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Easy & visual compression of SVG images.
   - [Favicon Generator](https://www.favicon.software/) - Generate Windows icon (.ico) and other favicons in right sizes for multiple browsers & platforms. Convert your logo or image to favicons in a snap.
+  - [OptimizeImages](https://www.optimizeimages.com/tool) - Optimize images Online with this free optimizer tool, compress, convert and optimize images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and get SEO tags for your html.
 - Code
   - [CodeImage](https://codeimage.dev/) - CodeImage is the newest tool to help developers to manage their snippets and create beautiful screenshots of their source code
 - Mockup
