@@ -181,6 +181,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 ## API
 
 - [Randomuser.me-Node](https://github.com/RandomAPI/Randomuser.me-Node) ([Website](https://randomuser.me/)) - A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.
+- [thumbnail.video](https://github.com/timb-103/thumbnail.video) - Get thumbnail images from any public video URL via API or browser.
 
 
 ## Media
