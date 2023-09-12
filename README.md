@@ -104,6 +104,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [YouTube.js](https://github.com/LuanRT/YouTube.js) - Full-featured wrapper around YouTube's private API — reverse engineering InnerTube.
     - [Responsive Video Poster](https://github.com/NigelOToole/responsive-video-poster) - Responsive poster image for videos to improve performance and allow full control of video placeholders.
     - [embetty](https://github.com/heiseonline/embetty) - Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
+    - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly.
   - Audio
     - [peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms.
   - File
