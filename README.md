@@ -172,6 +172,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
     - [ScrollyFills](https://github.com/argyleink/scrollyfills) - grab and go polyfill functions for web scroll features.
+    - [scroll-timeline](https://github.com/flackr/scroll-timeline) - A polyfill of ScrollTimeline.
 
 
 ## Dataset
