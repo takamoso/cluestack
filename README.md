@@ -215,6 +215,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   - [Jam icons](https://github.com/michaelampr/jam) - Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT.
   - [Mage Icons](https://github.com/Mage-Icons/mage-icons) - Finely constructed icons, perfect for deployment in web, iOS, Android, and desktop environments. Features support for SVG and web font technologies. Completely open-source, governed by the Apache License 2.0.
   - [Material Icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
+  - [IconPark](https://github.com/bytedance/iconpark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons.
 - Emoji
   - [Noto Emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts.
 - Logo
