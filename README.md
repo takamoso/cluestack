@@ -220,6 +220,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   - [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
+  - [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools.
 - National Flags
   - [circle-flags](https://github.com/HatScripts/circle-flags) - A collection of 400+ minimal circular SVG country and state flags.
 - Pattern
