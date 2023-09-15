@@ -218,6 +218,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   - [IconPark](https://github.com/bytedance/iconpark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons.
 - Emoji
   - [Noto Emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts.
+  - [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft.
 - Logo
   - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
 - Pattern
