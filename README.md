@@ -145,6 +145,8 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   - Ofiice
     - [docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
     - [SheetJS](https://github.com/SheetJS/sheetjs) - SheetJS Spreadsheet Data Toolkit.
+  - Regex
+    - [graphemesplit](https://github.com/orisano/graphemesplit) - A JavaScript implementation of the Unicode 15.0 grapheme cluster breaking algorithm.
   - Util
     - [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier.
     - [fast-equals](https://github.com/planttheidea/fast-equals) - A blazing fast equality comparison, either shallow or deep.
