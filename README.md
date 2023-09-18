@@ -147,6 +147,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [SheetJS](https://github.com/SheetJS/sheetjs) - SheetJS Spreadsheet Data Toolkit.
   - Regex
     - [graphemesplit](https://github.com/orisano/graphemesplit) - A JavaScript implementation of the Unicode 15.0 grapheme cluster breaking algorithm.
+    - [emoji-regex](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard.
   - Util
     - [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier.
     - [fast-equals](https://github.com/planttheidea/fast-equals) - A blazing fast equality comparison, either shallow or deep.
@@ -172,7 +173,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [modern-async](https://github.com/nicolas-van/modern-async) - A modern JavaScript tooling library for asynchronous operations using async/await, promises and async generators.
     - [copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB).
     - [default-composer](https://github.com/aralroca/default-composer) - A tiny (~500B) JavaScript library that allows you to set default values for nested objects.
-    - [emoji-regex](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard.
     - [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
