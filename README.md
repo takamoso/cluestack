@@ -115,6 +115,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs().
     - [fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package.
     - [Papa Parse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input.
+    - [downloads-folder](https://github.com/juliangruber/downloads-folder) - Get the local downloads folder, for all major platforms.
   - API
     - [follower-count](https://github.com/egoist/follower-count) - Get follower count for Instagram, Twitter, TikTok, Youtube accounts.
     - [Wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
