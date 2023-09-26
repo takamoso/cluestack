@@ -326,3 +326,7 @@ Kanji characters are included up to the first level.
 - [Check WebTech](https://cwt.jp/) - A collection of website links focusing on technologies for adoption. A gallery of websites that can be used as a reference for trend research, technology selection, web design, coding, and development.
 - [Awwwards](https://www.awwwards.com/) - The awards of design, creativity and innovation on the internet.
 - [Modulesss…](https://modulesss.com/) - This is a gallery site of "parts" such as charts and headlines for Web sites.
+
+### Parts
+
+- [UI LIBRARY](https://design-library.jp/ui/) - Gallery site of good quality designs organized by UI parts.
