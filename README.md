@@ -48,6 +48,8 @@
       - [imaskjs](https://github.com/uNmAnNeR/imaskjs) - Vanilla javascript input mask.
       - [autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
       - [text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
+    - Validation
+      - [validator.js](https://github.com/validatorjs/validator.js) - A library of string validators and sanitizers.
   - Picker
     - [Vanilla Colorful](https://github.com/web-padawan/vanilla-colorful) - A tiny color picker custom element for modern web apps.
   - Text Editor
