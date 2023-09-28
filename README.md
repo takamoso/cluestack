@@ -198,45 +198,54 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 ## Media
 
-- Icon
-  - [Radix Icons](https://github.com/radix-ui/icons) ([Website](https://icons.radix-ui.com/)) - A crisp set of 15×15 icons designed by the @workos team.
-  - [iconsax](https://github.com/lusaxweb/iconsax) ([Website](https://iconsax.io/)) - Hello welcome to iconsax
+### Icon
+
+- [Radix Icons](https://github.com/radix-ui/icons) ([Website](https://icons.radix-ui.com/)) - A crisp set of 15×15 icons designed by the @workos team.
+- [iconsax](https://github.com/lusaxweb/iconsax) ([Website](https://iconsax.io/)) - Hello welcome to iconsax
 the official icons of the
 Vuesax framework.
-  - [Remix Icon](https://github.com/Remix-Design/remixicon) ([Website](https://remixicon.com/)) - A set of open-source neutral-style system symbols for designers and developers.
-  - [icons.download](https://icons.download/) - Free vector icons in 16 styles for any project. Solid and outline, sharp and rounded, 4 widths.
-  - [Boxicons](https://github.com/atisawd/boxicons) ([Website](https://boxicons.com/)) - High Quality web friendly icons.
-  - [Sargam Icons](https://github.com/planetabhi/sargam-icons) ([Website](https://sargamicons.com/)) - A collection of 700+ open-source icons devoted to match your exquisite designs. Every single detail in each icon was carefully tuned to present minimalism and elegance.
-  - [Feather](https://github.com/feathericons/feather) ([Website](https://feathericons.com/)) - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
-  - [Ionicons](https://github.com/ionic-team/ionicons) ([Website](https://ionic.io/ionicons)) - About
+- [Remix Icon](https://github.com/Remix-Design/remixicon) ([Website](https://remixicon.com/)) - A set of open-source neutral-style system symbols for designers and developers.
+- [icons.download](https://icons.download/) - Free vector icons in 16 styles for any project. Solid and outline, sharp and rounded, 4 widths.
+- [Boxicons](https://github.com/atisawd/boxicons) ([Website](https://boxicons.com/)) - High Quality web friendly icons.
+- [Sargam Icons](https://github.com/planetabhi/sargam-icons) ([Website](https://sargamicons.com/)) - A collection of 700+ open-source icons devoted to match your exquisite designs. Every single detail in each icon was carefully tuned to present minimalism and elegance.
+- [Feather](https://github.com/feathericons/feather) ([Website](https://feathericons.com/)) - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
+- [Ionicons](https://github.com/ionic-team/ionicons) ([Website](https://ionic.io/ionicons)) - About
 Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.
-  - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-icons) - A flexible icon family for the web.
-  - [ClockFace-font](https://github.com/ocodo/ClockFace-font) - Icon font for displaying the time.
-  - [Forge Icons](https://icons.theforgesmith.com/) - Free Download of over 300 SVG icons for your next project. Pick thickness, color and size. Icons ideal for e-commerce, travel, social media, app design and much more.
-  - [Iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
-  - [MingCute Icon](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
-  - [Unicorn icons](https://unicornicons.com/) - Unicorn icons are a collection of animated icons for your next project.
-  - [Atlas icons](https://github.com/Vectopus/Atlas-icons-font) - Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
-  - [Simple Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
-  - [Iconsans](https://github.com/mortezasabihi/iconsans) - +320 Free Icons for your next project (Vue & React).
-  - [Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android.
-  - [coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
-  - [Jam icons](https://github.com/michaelampr/jam) - Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT.
-  - [Mage Icons](https://github.com/Mage-Icons/mage-icons) - Finely constructed icons, perfect for deployment in web, iOS, Android, and desktop environments. Features support for SVG and web font technologies. Completely open-source, governed by the Apache License 2.0.
-  - [Material Icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
-  - [IconPark](https://github.com/bytedance/iconpark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons.
-- Emoji
-  - [Noto Emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts.
-  - [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft.
-- Logo
-  - [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
-  - [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools.
-- National Flags
-  - [circle-flags](https://github.com/HatScripts/circle-flags) - A collection of 400+ minimal circular SVG country and state flags.
-- Pattern
-  - [Hero Patterns](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
+- [Phosphor Icons](https://github.com/phosphor-icons/phosphor-icons) - A flexible icon family for the web.
+- [ClockFace-font](https://github.com/ocodo/ClockFace-font) - Icon font for displaying the time.
+- [Forge Icons](https://icons.theforgesmith.com/) - Free Download of over 300 SVG icons for your next project. Pick thickness, color and size. Icons ideal for e-commerce, travel, social media, app design and much more.
+- [Iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
+- [MingCute Icon](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
+- [Unicorn icons](https://unicornicons.com/) - Unicorn icons are a collection of animated icons for your next project.
+- [Atlas icons](https://github.com/Vectopus/Atlas-icons-font) - Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
+- [Simple Icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands.
+- [Iconsans](https://github.com/mortezasabihi/iconsans) - +320 Free Icons for your next project (Vue & React).
+- [Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android.
+- [coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
+- [Jam icons](https://github.com/michaelampr/jam) - Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT.
+- [Mage Icons](https://github.com/Mage-Icons/mage-icons) - Finely constructed icons, perfect for deployment in web, iOS, Android, and desktop environments. Features support for SVG and web font technologies. Completely open-source, governed by the Apache License 2.0.
+- [Material Icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
+- [IconPark](https://github.com/bytedance/iconpark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons.
+
+### Emoji
+
+- [Noto Emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts.
+- [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft.
+
+### Logo
+
+- [browser-logos](https://github.com/alrra/browser-logos) - High resolution web browser logos.
+- [Devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools.
+
+### National Flags
+
+- [circle-flags](https://github.com/HatScripts/circle-flags) - A collection of 400+ minimal circular SVG country and state flags.
+
+### Pattern
+
+- [Hero Patterns](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
 - Illustration
-  - [Nice Illustrations](https://niceillustrations.com/free-illustrations/) - Free illustrations you can use for your design projects. Click to download hundreds of beautiful vector illustrations for free today!
+- [Nice Illustrations](https://niceillustrations.com/free-illustrations/) - Free illustrations you can use for your design projects. Click to download hundreds of beautiful vector illustrations for free today!
 
 
 ## Font
