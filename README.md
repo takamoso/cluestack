@@ -136,6 +136,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   - CLI
     - [yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
     - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+    - [clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps.
   - Bash
     - [zx](https://github.com/google/zx) - A tool for writing better scripts.
   - Lint
