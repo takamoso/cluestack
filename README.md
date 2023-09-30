@@ -179,6 +179,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
     - [copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB).
     - [default-composer](https://github.com/aralroca/default-composer) - A tiny (~500B) JavaScript library that allows you to set default values for nested objects.
     - [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
+    - [node-chardet](https://github.com/runk/node-chardet) - Character encoding detection tool for NodeJS.
   - Polyfill
     - [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill) - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
     - [ScrollyFills](https://github.com/argyleink/scrollyfills) - grab and go polyfill functions for web scroll features.
