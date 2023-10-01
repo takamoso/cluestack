@@ -16,6 +16,10 @@
 - [MetalliCSS](https://github.com/MikaeI/metallicss) - Versatile metallic finish for CSS.
 - [Charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 
+### Animations
+
+- [mimic.css](https://github.com/erictreacy/mimic.css) - Mimic.css is an css animations library because everyone else is doing it.
+
 ### Util
 
 - [open-props](https://github.com/argyleink/open-props) ([Website](https://open-props.style/)) - CSS custom properties to help accelerate adaptive and consistent design.
