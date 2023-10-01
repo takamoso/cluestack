@@ -1,20 +1,24 @@
 ## CSS
 
-- Library
-  - Classless
-    - [attriCSS](https://github.com/raj457036/attriCSS) - AttriCSS is a classless css framework that style normal ugly html to beautiful website.
-    - [axist](https://github.com/ruanmartinelli/axist) - Minimal (5kb) drop-in CSS library.
-    - [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup.
-    - [Bahunya](https://github.com/Kimeiga/bahunya) - 10KB classless CSS framework with a navbar and dark styling.
-  - Component
-    - [system.css](https://github.com/sakofchit/system.css) ([Website](https://sakofchit.github.io/system.css/)) - A design system for building retro Apple interfaces.
-    - [Paper Prototype CSS](https://gitlab.com/edent/paper-prototype-css) ([Website](https://edent.gitlab.io/paper-prototype-css/)) - CSS Designed to look a bit like a paper prototype.
-    - [Pokemon Cards CSS](https://github.com/simeydotme/pokemon-cards-css) ([Website](https://poke-holo.simey.me/)) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
-    - [Devices.css](https://github.com/picturepan2/devices.css) ([Website](https://devicescss.xyz/)) - Modern devices crafted in pure CSS.
-    - [MetalliCSS](https://github.com/MikaeI/metallicss) - Versatile metallic finish for CSS.
-    - [Charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
-  - Util
-    - [open-props](https://github.com/argyleink/open-props) ([Website](https://open-props.style/)) - CSS custom properties to help accelerate adaptive and consistent design.
+### Classless
+
+- [attriCSS](https://github.com/raj457036/attriCSS) - AttriCSS is a classless css framework that style normal ugly html to beautiful website.
+- [axist](https://github.com/ruanmartinelli/axist) - Minimal (5kb) drop-in CSS library.
+- [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup.
+- [Bahunya](https://github.com/Kimeiga/bahunya) - 10KB classless CSS framework with a navbar and dark styling.
+
+### Component
+
+- [system.css](https://github.com/sakofchit/system.css) ([Website](https://sakofchit.github.io/system.css/)) - A design system for building retro Apple interfaces.
+- [Paper Prototype CSS](https://gitlab.com/edent/paper-prototype-css) ([Website](https://edent.gitlab.io/paper-prototype-css/)) - CSS Designed to look a bit like a paper prototype.
+- [Pokemon Cards CSS](https://github.com/simeydotme/pokemon-cards-css) ([Website](https://poke-holo.simey.me/)) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
+- [Devices.css](https://github.com/picturepan2/devices.css) ([Website](https://devicescss.xyz/)) - Modern devices crafted in pure CSS.
+- [MetalliCSS](https://github.com/MikaeI/metallicss) - Versatile metallic finish for CSS.
+- [Charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
+
+### Util
+
+- [open-props](https://github.com/argyleink/open-props) ([Website](https://open-props.style/)) - CSS custom properties to help accelerate adaptive and consistent design.
 
 
 ## JavaScript
