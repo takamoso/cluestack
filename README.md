@@ -101,12 +101,18 @@
 Pure JavaScript tool for making smart and high performance sticky sidebar.  
   ![](https://img.shields.io/github/stars/blixhavn/sticky-sidebar-v2?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/blixhavn/sticky-sidebar-v2?style=social)
-- <a href="https://github.com/blixhavn/sticky-sidebar-v2">blixhavn/<b>sticky-sidebar-v2</b></a> - About
-Pure JavaScript tool for making smart and high performance sticky sidebar.
-- <a href="https://github.com/KingSora/OverlayScrollbars">KingSora/<b>OverlayScrollbars</b></a> - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
-- <a href="https://github.com/terwanerik/ScrollTrigger">terwanerik/<b>ScrollTrigger</b></a> - Let your page react to scroll changes.
-- <a href="https://github.com/studio-freight/lenis">studio-freight/<b>lenis</b></a> - How smooth scroll should be.
-- <a href="https://github.com/egstad-construct/detect-scroll">egstad-construct/<b>detect-scroll</b></a> - A performant and lightweight (~1.6kb) ES6 module for detecting scroll activity (direction + location) for X and/or Y axis.
+- **[OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)** - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.  
+  ![](https://img.shields.io/github/stars/KingSora/OverlayScrollbars?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/KingSora/OverlayScrollbars?style=social)
+- **[ScrollTrigger](https://github.com/terwanerik/ScrollTrigger)** - Let your page react to scroll changes.  
+  ![](https://img.shields.io/github/stars/terwanerik/ScrollTrigger?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/terwanerik/ScrollTrigger?style=social)
+- **[lenis]()** - How smooth scroll should be.  
+  ![](https://img.shields.io/github/stars/studio-freight/lenis?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/studio-freight/lenis?style=social)
+- **[detect-scroll](https://github.com/egstad-construct/detect-scroll)** - A performant and lightweight (~1.6kb) ES6 module for detecting scroll activity (direction + location) for X and/or Y axis.  
+  ![](https://img.shields.io/github/stars/egstad-construct/detect-scroll?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/egstad-construct/detect-scroll?style=social)
 
 ### Drag
 
