@@ -97,11 +97,10 @@
 
 ### Scroll
 
-- [blixhavn/](https://github.com/blixhavn/sticky-sidebar-v2)
+- **[sticky-sidebar-v2](https://github.com/blixhavn/sticky-sidebar-v2)** - About
+Pure JavaScript tool for making smart and high performance sticky sidebar.  
   ![](https://img.shields.io/github/stars/blixhavn/sticky-sidebar-v2?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/blixhavn/sticky-sidebar-v2?label=%20&color=fff)  
-  **[sticky-sidebar-v2](https://github.com/blixhavn/sticky-sidebar-v2)** - About
-Pure JavaScript tool for making smart and high performance sticky sidebar.
+  ![](https://img.shields.io/github/last-commit/blixhavn/sticky-sidebar-v2?style=social)
 - <a href="https://github.com/blixhavn/sticky-sidebar-v2">blixhavn/<b>sticky-sidebar-v2</b></a> - About
 Pure JavaScript tool for making smart and high performance sticky sidebar.
 - <a href="https://github.com/KingSora/OverlayScrollbars">KingSora/<b>OverlayScrollbars</b></a> - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
