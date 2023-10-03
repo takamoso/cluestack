@@ -100,19 +100,19 @@
 - **[sticky-sidebar-v2](https://github.com/blixhavn/sticky-sidebar-v2)** - About
 Pure JavaScript tool for making smart and high performance sticky sidebar.  
   ![](https://img.shields.io/github/stars/blixhavn/sticky-sidebar-v2?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/blixhavn/sticky-sidebar-v2?style=social)
+  ![](https://img.shields.io/github/last-commit/blixhavn/sticky-sidebar-v2?style=social&label=Update)
 - **[OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)** - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.  
   ![](https://img.shields.io/github/stars/KingSora/OverlayScrollbars?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/KingSora/OverlayScrollbars?style=social)
+  ![](https://img.shields.io/github/last-commit/KingSora/OverlayScrollbars?style=social&label=Update)
 - **[ScrollTrigger](https://github.com/terwanerik/ScrollTrigger)** - Let your page react to scroll changes.  
   ![](https://img.shields.io/github/stars/terwanerik/ScrollTrigger?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/terwanerik/ScrollTrigger?style=social)
+  ![](https://img.shields.io/github/last-commit/terwanerik/ScrollTrigger?style=social&label=Update)
 - **[lenis]()** - How smooth scroll should be.  
   ![](https://img.shields.io/github/stars/studio-freight/lenis?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/studio-freight/lenis?style=social)
+  ![](https://img.shields.io/github/last-commit/studio-freight/lenis?style=social&label=Update)
 - **[detect-scroll](https://github.com/egstad-construct/detect-scroll)** - A performant and lightweight (~1.6kb) ES6 module for detecting scroll activity (direction + location) for X and/or Y axis.  
   ![](https://img.shields.io/github/stars/egstad-construct/detect-scroll?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/egstad-construct/detect-scroll?style=social)
+  ![](https://img.shields.io/github/last-commit/egstad-construct/detect-scroll?style=social&label=Update)
 
 ### Drag
 
