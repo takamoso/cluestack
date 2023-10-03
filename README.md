@@ -97,7 +97,9 @@
 
 ### Scroll
 
-- [blixhavn/](https://github.com/blixhavn/sticky-sidebar-v2) ![GitHub Repo stars](https://img.shields.io/github/stars/blixhavn/sticky-sidebar-v2?style=social&label=Star) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/blixhavn/sticky-sidebar-v2?style=social&label=%E2%9F%B3)  
+- [blixhavn/](https://github.com/blixhavn/sticky-sidebar-v2)
+  ![](https://img.shields.io/github/stars/blixhavn/sticky-sidebar-v2?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/blixhavn/sticky-sidebar-v2?label=%20&color=fbfbfb)  
   **[sticky-sidebar-v2](https://github.com/blixhavn/sticky-sidebar-v2)** - About
 Pure JavaScript tool for making smart and high performance sticky sidebar.
 - <a href="https://github.com/blixhavn/sticky-sidebar-v2">blixhavn/<b>sticky-sidebar-v2</b></a> - About
