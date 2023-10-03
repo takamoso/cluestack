@@ -86,14 +86,24 @@
 
 ### Text Editor
 
-- <a href="https://github.com/YousefED/BlockNote">YousefED/<b>BlockNote</b></a> - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
-- <a href="https://github.com/markedjs/marked">markedjs/<b>marked</b></a> - A markdown parser and compiler. Built for speed.
-- <a href="https://github.com/steven-tey/novel">steven-tey/<b>novel</b></a> - Notion-style WYSIWYG editor with AI-powered autocompletions.
-- <a href="https://github.com/arnog/mathlive">arnog/<b>mathlive</b></a> - A web component for easy math input.
+- **[BlockNote](https://github.com/YousefED/BlockNote)** - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.  
+  ![](https://img.shields.io/github/stars/YousefED/BlockNote?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/YousefED/BlockNote?style=social&label=Update)
+- **[marked](https://github.com/markedjs/marked)** - A markdown parser and compiler. Built for speed.  
+  ![](https://img.shields.io/github/stars/markedjs/marked?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/markedjs/marked?style=social&label=Update)
+- **[novel](https://github.com/steven-tey/novel)** - Notion-style WYSIWYG editor with AI-powered autocompletions.  
+  ![](https://img.shields.io/github/stars/steven-tey/novel?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/steven-tey/novel?style=social&label=Update)
+- **[mathlive](https://github.com/arnog/mathlive)** - A web component for easy math input.  
+  ![](https://img.shields.io/github/stars/arnog/mathlive?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/arnog/mathlive?style=social&label=Update)
 
 ### Syntax Highlighting
 
-- <a href="https://github.com/wooorm/starry-night">wooorm/<b>starry-night</b></a> - Syntax highlighting, like GitHub.
+- **[starry-night](https://github.com/wooorm/starry-night)** - Syntax highlighting, like GitHub.  
+  ![](https://img.shields.io/github/stars/wooorm/starry-night?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/wooorm/starry-night?style=social&label=Update)
 
 ### Scroll
 
