@@ -43,7 +43,7 @@
 
 - <a href="https://github.com/neutralinojs/neutralinojs">neutralinojs/<b>neutralinojs</b></a> - Portable and lightweight cross-platform desktop application development framework.
 - <a href="https://github.com/gluon-framework/gluon">gluon-framework/<b>gluon</b></a> - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.
-- <a href="https://github.com/pwa-builder/PWABuilder">pwa-builder/<b>PWABuilder/b></a> - The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.
+- <a href="https://github.com/pwa-builder/PWABuilder">pwa-builder/<b>PWABuilder</b></a> - The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.
 - <a href="https://github.com/framework7io/framework7">framework7io/<b>framework7</b></a> - Full featured HTML framework for building iOS & Android apps.
 - <a href="https://github.com/tauri-apps/tauri">tauri-apps/<b>tauri</b></a> - Build smaller, faster, and more secure desktop applications with a web frontend.
 
