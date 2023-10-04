@@ -51,6 +51,12 @@
 
 - <a href="https://github.com/chakra-ui/ark">chakra-ui/<b>ark</b></a> - Universal headless UI components for the web. Powered by Zag.js.
 
+### Components
+
+- **[mantine](hhttps://github.com/mantinedev/mantine)** - A fully featured React components library.  
+  ![](https://img.shields.io/github/stars/mantinedev/mantine?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/mantinedev/mantine?style=social&label=Update)
+
 ### Menu
 
 - <a href="https://github.com/harshhhdev/kmenu">harshhhdev/<b>kmenu</b></a> - An animated and accessible command menu.
