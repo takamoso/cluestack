@@ -483,6 +483,7 @@ Kanji characters are included up to the first level.
 - [Check WebTech](https://cwt.jp/) - A collection of website links focusing on technologies for adoption. A gallery of websites that can be used as a reference for trend research, technology selection, web design, coding, and development.
 - [Awwwards](https://www.awwwards.com/) - The awards of design, creativity and innovation on the internet.
 - [URAGAWA](https://uragawa.work/) - Collection of web design galleries and reference sites where you can see the creativity of Japan's top-class production and business companies, including "which company made it.
+- [デザインのこと](https://designnokoto.com) - We collect domestic and international web designs, "stylish" websites that are responsive and easy to view on PCs, tablets, and smartphones.
 
 ### Parts
 
