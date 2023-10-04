@@ -57,6 +57,12 @@
   ![](https://img.shields.io/github/stars/mantinedev/mantine?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/mantinedev/mantine?style=social&label=Update)
 
+### Collections
+
+- **[ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev)** - Mantine UI website and components.  
+  ![](https://img.shields.io/github/stars/mantinedev/ui.mantine.dev?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/mantinedev/ui.mantine.dev?style=social&label=Update)
+
 ### Menu
 
 - <a href="https://github.com/harshhhdev/kmenu">harshhhdev/<b>kmenu</b></a> - An animated and accessible command menu.
