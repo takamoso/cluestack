@@ -412,7 +412,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
 - **[material-design-icons](https://github.com/google/material-design-icons)** - Material Design icons by Google.  
   ![](https://img.shields.io/github/stars/google/material-design-icons?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/google/material-design-icons?style=social&label=Update)
-- **[iconpark](https://github.com/bytedance/iconpark)** - Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons.  
+- **[iconpark](https://github.com/bytedance/iconpark)** - Transform an SVG icon into multiple themes, and generate React icons, Vue icons, svg icons.  
   ![](https://img.shields.io/github/stars/bytedance/iconpark?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/bytedance/iconpark?style=social&label=Update)
 
