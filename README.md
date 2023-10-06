@@ -2,31 +2,54 @@
 
 ### Reset
 
-- <a href="https://github.com/sindresorhus/modern-normalize">sindresorhus/<b>modern-normalize</b></a> - Normalize browsers' default style.
+- **[modern-normalize](https://github.com/sindresorhus/modern-normalize)** - Normalize browsers' default style.  
+  ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/modern-normalize?style=social&label=Update)
 
 ### Classless
 
-- <a href="https://github.com/raj457036/attriCSS">raj457036/<b>attriCSS</b></a> - AttriCSS is a classless css framework that style normal ugly html to beautiful website.
-- <a href="https://github.com/ruanmartinelli/axist">ruanmartinelli/<b>axist</b></a> - Minimal (5kb) drop-in CSS library.
-- <a href="https://github.com/igoradamenko/awsm.css">igoradamenko/<b>awsm.css</b></a> - Simple CSS library for semantic HTML markup.
-- <a href="https://github.com/Kimeiga/bahunya">Kimeiga/<b>bahunya</b></a> - 10KB classless CSS framework with a navbar and dark styling.
+- **[attriCSS](https://github.com/raj457036/attriCSS)** - AttriCSS is a classless css framework that style normal ugly html to beautiful website.  
+  ![](https://img.shields.io/github/stars/raj457036/attriCSS?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/raj457036/attriCSS?style=social&label=Update)
+- **[axist](https://github.com/ruanmartinelli/axist)** - Minimal (5kb) drop-in CSS library.  
+  ![](https://img.shields.io/github/stars/ruanmartinelli/axist?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ruanmartinelli/axist?style=social&label=Update)
+- **[bahunya](https://github.com/Kimeiga/bahunya)** - 10KB classless CSS framework with a navbar and dark styling.  
+  ![](https://img.shields.io/github/stars/Kimeiga/bahunya?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/Kimeiga/bahunya?style=social&label=Update)
 
 ### Component
 
-- <a href="https://github.com/sakofchit/system.css">sakofchit/<b>system.css</b></a> - A design system for building retro Apple interfaces.
-- <a href="https://gitlab.com/edent/paper-prototype-css">edent/<b>paper-prototype-css</b></a> - CSS Designed to look a bit like a paper prototype.
-- <a href="https://github.com/simeydotme/pokemon-cards-css">simeydotme/<b>pokemon-cards-css</b></a> - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
-- <a href="https://github.com/picturepan2/devices.css">picturepan2/<b>devices.css</b></a> - Modern devices crafted in pure CSS.
-- <a href="https://github.com/MikaeI/metallicss">MikaeI/<b>metallicss</b></a> - Versatile metallic finish for CSS.
-- <a href="https://github.com/ChartsCSS/charts.css">ChartsCSS/<b>charts.css</b></a> - Open source CSS framework for data visualization.
+- **[system.css](https://github.com/sakofchit/system.css)** - A design system for building retro Apple interfaces.  
+  ![](https://img.shields.io/github/stars/sakofchit/system.css?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sakofchit/system.css?style=social&label=Update)
+- **[paper-prototype-css](https://gitlab.com/edent/paper-prototype-css)** - CSS Designed to look a bit like a paper prototype.  
+  ![](https://img.shields.io/gitlab/stars/edent%2Fpaper-prototype-css?style=social&label=Star)
+  ![](https://img.shields.io/gitlab/last-commit/edent%2Fpaper-prototype-css?style=social&label=Update)
+- **[pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css)** - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.  
+  ![](https://img.shields.io/github/stars/simeydotme/pokemon-cards-css?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/simeydotme/pokemon-cards-css?style=social&label=Update)
+- **[devices.css](https://github.com/picturepan2/devices.css)** - Modern devices crafted in pure CSS.  
+  ![](https://img.shields.io/github/stars/picturepan2/devices.css?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/picturepan2/devices.css?style=social&label=Update)
+- **[metallicss](https://github.com/MikaeI/metallicss)** - Versatile metallic finish for CSS.  
+  ![](https://img.shields.io/github/stars/MikaeI/metallicss?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/MikaeI/metallicss?style=social&label=Update)
+- **[charts.css](https://github.com/ChartsCSS/charts.css)** - Open source CSS framework for data visualization.  
+  ![](https://img.shields.io/github/stars/ChartsCSS/charts.css?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ChartsCSS/charts.css?style=social&label=Update)
 
 ### Animations
 
-- <a href="https://github.com/erictreacy/mimic.css">erictreacy/<b>mimic.css</b></a> - Mimic.css is an css animations library because everyone else is doing it.
+- **[mimic.css](https://github.com/erictreacy/mimic.css)** - Mimic.css is an css animations library because everyone else is doing it.  
+  ![](https://img.shields.io/github/stars/erictreacy/mimic.css?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/erictreacy/mimic.css?style=social&label=Update)
 
 ### Util
 
-- <a href="https://github.com/argyleink/open-props">argyleink/<b>open-props</b></a> - CSS custom properties to help accelerate adaptive and consistent design.
+- **[open-props](https://github.com/argyleink/open-props)** - CSS custom properties to help accelerate adaptive and consistent design.  
+  ![](https://img.shields.io/github/stars/argyleink/open-props?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/argyleink/open-props?style=social&label=Update)
 
 
 ## JavaScript
