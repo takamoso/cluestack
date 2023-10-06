@@ -306,6 +306,11 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - <a href="https://github.com/oddbird/popover-polyfill">oddbird/<b>popover-polyfill</b></a> - This polyfills the HTML popover attribute and showPopover/hidePopover/togglePopover methods onto HTMLElement, as well as the popovertarget and popovertargetaction attributes on Button elements.
 
 
+## Guidelines
+
+- **[SmartHR Design System](https://smarthr.design)** - It is a design system that allows anyone to create SmartHR-like expressions efficiently and without hesitation.
+
+
 ## Dataset
 
 - <a href="https://github.com/geolonia/japanese-addresses">geolonia/<b>japanese-addresses</b></a> - Open data on addresses at the town and street level nationwide.
