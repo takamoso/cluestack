@@ -374,6 +374,8 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
 
 ## Font
 
+- **[フォントダス](https://fontdasu.com/)** - A site where you can find free and commercially available free fonts.
+
 ### Japanese
 
 - [LINE Seed JP](https://seed.line.me/index_jp.html) - Meet LINE Seed. LINE'S very first typeface is born.
