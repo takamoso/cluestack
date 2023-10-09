@@ -248,6 +248,9 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 - <a href="https://github.com/cure53/DOMPurify">cure53/<b>DOMPurify</b></a> - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks.
 - <a href="https://github.com/apostrophecms/sanitize-html">apostrophecms/<b>sanitize-html</b></a> - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance.
+- **[article-extractor](https://github.com/extractus/article-extractor)** - To extract main article from given URL with Node.js.  
+  ![](https://img.shields.io/github/stars/extractus/article-extractor?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/extractus/article-extractor?style=social&label=Update)
 
 ### Performance
 
