@@ -527,6 +527,7 @@ Kanji characters are included up to the first level.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Easy & visual compression of SVG images.
 - [Favicon Generator](https://www.favicon.software/) - Generate Windows icon (.ico) and other favicons in right sizes for multiple browsers & platforms. Convert your logo or image to favicons in a snap.
 - [OptimizeImages](https://www.optimizeimages.com/tool) - Optimize images Online with this free optimizer tool, compress, convert and optimize images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and get SEO tags for your html.
+- **[Sprite your SVGs](https://sprite-your-svgs.vercel.app)** - Transform and optimize your SVGs by generating an efficient sprite. Reduce HTTP requests, style with CSS, and externalize icon data for a smaller JS bundle.
 
 ### Code
 
