@@ -18,7 +18,7 @@
   ![](https://img.shields.io/github/stars/Kimeiga/bahunya?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/Kimeiga/bahunya?style=social&label=Update)
 
-### Component
+### Components
 
 - **[system.css](https://github.com/sakofchit/system.css)** - A design system for building retro Apple interfaces.  
   ![](https://img.shields.io/github/stars/sakofchit/system.css?style=social&label=Star)
@@ -54,7 +54,7 @@
 
 ## JavaScript
 
-### Bundler
+### Bundlers
 
 - <a href="https://github.com/oven-sh/bun">oven-sh/<b>bun</b></a> - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one.
 
@@ -62,7 +62,7 @@
 
 - <a href="https://github.com/microsoft/playwright">microsoft/<b>playwright</b></a> - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
-### Application
+### Applications
 
 - <a href="https://github.com/neutralinojs/neutralinojs">neutralinojs/<b>neutralinojs</b></a> - Portable and lightweight cross-platform desktop application development framework.
 - <a href="https://github.com/gluon-framework/gluon">gluon-framework/<b>gluon</b></a> - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.
@@ -89,7 +89,7 @@
   ![](https://img.shields.io/github/stars/mantinedev/ui.mantine.dev?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/mantinedev/ui.mantine.dev?style=social&label=Update)
 
-### Menu
+### Menus
 
 - <a href="https://github.com/harshhhdev/kmenu">harshhhdev/<b>kmenu</b></a> - An animated and accessible command menu.
 
@@ -98,7 +98,7 @@
 - <a href="https://github.com/ghosh/Micromodal">ghosh/<b>Micromodal</b></a> - Tiny javascript library for creating accessible modal dialogs.
 - <a href="https://github.com/KittyGiraudel/a11y-dialog">KittyGiraudel/<b>a11y-dialog</b></a> - A very lightweight and flexible accessible modal dialog script.
 
-### Slider
+### Sliders
 
 - <a href="https://github.com/nolimits4web/Swiper">nolimits4web/<b>Swiper</b></a> - Most modern mobile touch slider with hardware accelerated transitions.
 - <a href="https://github.com/Splidejs/splide">Splidejs/<b>splide</b></a> - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
@@ -108,7 +108,7 @@
 
 ### Form
 
-#### input
+#### Input
 
 - <a href="https://github.com/uNmAnNeR/imaskjs">uNmAnNeR/<b>imaskjs</b></a> - Vanilla javascript input mask.
 - <a href="https://github.com/TarekRaafat/autoComplete.js">TarekRaafat/<b>autoComplete.js</b></a> - Simple autocomplete pure vanilla Javascript library.
@@ -122,7 +122,7 @@
 
 - <a href="https://github.com/web-padawan/vanilla-colorful">web-padawan/<b>vanilla-colorful</b></a> - A tiny color picker custom element for modern web apps.
 
-### Text Editor
+### Text Editors
 
 - **[BlockNote](https://github.com/YousefED/BlockNote)** - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.  
   ![](https://img.shields.io/github/stars/YousefED/BlockNote?style=social&label=Star)
@@ -166,7 +166,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 - <a href="https://github.com/PuruVJ/neodrag">PuruVJ/<b>neodrag</b></a> - One Draggable to rule them all.
 
-### Chart
+### Charts
 
 - <a href="https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart">Bogdan-Lyashenko/<b>js-code-to-svg-flowchart</b></a> - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - <a href="https://github.com/observablehq/plot">observablehq/<b>plot</b></a> - A concise API for exploratory data visualization.
@@ -183,7 +183,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - <a href="https://github.com/idrawjs/idraw">idrawjs/<b>idraw</b></a> - A simple JavaScript framework for Drawing on the web.
 - <a href="https://github.com/steveruizok/perfect-freehand">steveruizok/<b>perfect-freehand</b></a> - Draw perfect pressure-sensitive freehand lines.
 
-### Animation
+### Animations
 
 - <a href="https://github.com/motiondivision/motionone">motiondivision/<b>motionone</b></a> - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
 - <a href="https://github.com/daybrush/scenejs">daybrush/<b>scenejs</b></a> - Scene.js is JavaScript & CSS timeline-based animation library.
@@ -198,7 +198,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - <a href="https://github.com/google/budoux">google/<b>budoux</b></a> - BudouX is the successor to Budou, the machine learning powered line break organizer tool.
 - <a href="https://github.com/thecodrr/alfaaz">thecodrr/<b>alfaaz</b></a> - The fastest multilingual word counter that can count millions of words per second.
 
-### Image
+### Images
 
 - <a href="https://github.com/Vibrant-Colors/node-vibrant">Vibrant-Colors/<b>node-vibrant</b></a> - Extract prominent colors from an image.
 - <a href="https://github.com/fengyuanchen/cropperjs">fengyuanchen/<b>cropperjs</b></a> - JavaScript image cropper.
@@ -228,7 +228,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 - <a href="https://github.com/bbc/peaks.js">bbc/<b>peaks.js</b></a> - JavaScript UI component for interacting with audio waveforms.
 
-### File
+### Files
 
 - <a href="https://github.com/modernweb-dev/rocket/tree/main/packages/check-html-links">modernweb-dev/<b>check-html-links</b></a> - A fast checker for broken links/references in HTML.
 - <a href="https://github.com/voidcosmos/npkill">voidcosmos/<b>npkill</b></a> - List any node_modules dir in your system and how heavy they are. You can then select which ones you want to erase to free up space.
@@ -352,7 +352,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 ## Media
 
-### Icon
+### Icons
 
 - **[radix-icons](https://github.com/radix-ui/icons)** - A crisp set of 15×15 icons designed by the @workos team.  
   ![](https://img.shields.io/github/stars/radix-ui/icons?style=social&label=Star)
@@ -419,7 +419,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   ![](https://img.shields.io/github/stars/bytedance/iconpark?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/bytedance/iconpark?style=social&label=Update)
 
-### Emoji
+### Emojis
 
 - **[noto-emoji](https://github.com/googlefonts/noto-emoji)** - Noto Emoji fonts.  
   ![](https://img.shields.io/github/stars/googlefonts/noto-emoji?style=social&label=Star)
@@ -428,7 +428,7 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   ![](https://img.shields.io/github/stars/microsoft/fluentui-emoji?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/microsoft/fluentui-emoji?style=social&label=Update)
 
-### Logo
+### Logos
 
 - **[browser-logos](https://github.com/alrra/browser-logos)** - High resolution web browser logos.  
   ![](https://img.shields.io/github/stars/alrra/browser-logos?style=social&label=Star)
@@ -443,16 +443,16 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   ![](https://img.shields.io/github/stars/HatScripts/circle-flags?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/HatScripts/circle-flags?style=social&label=Update)
 
-### Pattern
+### Patterns
 
 - **[hero-patterns](https://heropatterns.com)** - A collection of repeatable SVG background patterns for you to use on your digital projects.
 
-### Illustration
+### Illustrations
 
 - **[nice-illustrations](https://niceillustrations.com/free-illustrations)** - Free illustrations you can use for your design projects. Click to download hundreds of beautiful vector illustrations for free today!
 
 
-## Font
+## Fonts
 
 - **[フォントダス](https://fontdasu.com/)** - A site where you can find free and commercially available free fonts.
 
@@ -470,9 +470,9 @@ Kanji characters are included up to the first level.
 - [トレゴ](https://typographish.booth.pm/items/5047791) - This font was inspired by the European typeface Trajan Sans. It has a retro feel, like a signboard of a beauty parlor or women's clothing shop in an old shopping street.
 
 
-## Generator
+## Generators
 
-### Color
+### Colors
 
 - [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations.
 - [Palette](https://palette.fm/) - A new AI colorizer. Colorize anything from old black and white photos, style your artworks, or give modern images a fresh look. It's as simple as instagram, free, and no sign-up required!
@@ -487,7 +487,7 @@ Kanji characters are included up to the first level.
 - [CSS Underline Generator](https://cssbud.com/css-generator/css-underline-generator/) - An easy, modern and fresh CSS underline generator for your creative & design needs. Just tweak the parameters, copy, and paste!
 - [Min-Max-Value Interpolation](https://min-max-calculator.9elements.com/) - A tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range.
 
-### Shape
+### Shapes
 
 - [CSS Clothoid Corners](https://onotakehiko.dev/clothoid/) - Generate clothoid rounded corners by CSS clip-path.
 - [Haikei](https://app.haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
@@ -496,19 +496,19 @@ Kanji characters are included up to the first level.
 - [Scrollbar](https://scrollbar.app/) - Simple CSS scrollbar editor.
 - [Get Waves](https://getwaves.io/) - A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!
 
-### Background
+### Backgrounds
 
 - [Hero Patterns](https://heropatterns.com/) - A collection of repeatable SVG background patterns for you to use on your digital projects.
 - [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS and HTML components using the glassmorphism design specifications based on the Glass UI library.
 
-### Gradient
+### Gradients
 
 - [Mesher](https://csshero.org/mesher/) - CSS mesh gradients generator.
 - [Easing Gradients](https://larsenwork.com/easing-gradients/) - Supercharge your gradients with non-linear color mix and custom color spaces.
 - [Mesh·y](https://meshgradient.in/) - Generate beautiful and colorful mesh gradients | Download Mesh Gradients PNG | Export mesh gradients PNG.
 - [CSS HD Gradients](https://gradient.style/) - Wide gamut Color 4 compliant CSS gradient builder.
 
-### Shadow
+### Shadows
 
 - [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) - Generate gradients for your shadows with pure CSS. This generator makes it easy for you.
 - [Smooth Shadow](https://shadows.brumm.af/) - Make a smooth css shadow.
@@ -517,7 +517,7 @@ Kanji characters are included up to the first level.
 - [CSS Box Shadow Generator](https://cssbud.com/css-generator/css-box-shadow-generator/) - The best, cleanest and most modern CSS Box Shadow Generator on the Internet. We allow custom colors, transparency, and blurs for your creative needs. Enjoy!
 - [CSS Text Glow Generator](https://cssbud.com/css-generator/css-text-glow-generator/) - The best place for CSS text glow - just change the values of the sliders, copy the code, and you're done! Enjoy your CSS glows!
 
-### Image
+### Images
 
 - [SVG Crop](https://svgcrop.com/) - Remove blank space from around any SVG instantly.
 - [cssFilters.co](https://www.cssfilters.co/) - Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
@@ -537,7 +537,7 @@ Kanji characters are included up to the first level.
 
 - [BrowserFrame](https://browserframe.com/) - Browser Frame is a free tool that helps you wrap screenshots in different browser frames. Supports Chrome, Firefox, Safari, and more.
 
-### Font
+### Fonts
 
 - [Fallback Font Generator](https://screenspan.net/fallback) - Reduce Cumulative Layout Shift (CLS) by adjusting web fonts and system font fallbacks using @font-face.
 
@@ -550,7 +550,7 @@ Kanji characters are included up to the first level.
 - [ProfileMe.dev](https://www.profileme.dev/) - Create an amazing GitHub profile in minutes.
 
 
-## Chrome Extension
+## Chrome Extensions
 
 - [PixelZoomer](https://chrome.google.com/webstore/detail/pixelzoomer/fogkjckfkdcnmnnfmbieljpkmmihhpao) - PixelZoomer takes a website screenshot and provides a measuring tool, a zoom and an eye dropper.
 - [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) - This extension measures the Core Web Vitals, providing instant feedback on loading, interactivity and layout shift metrics. It is consistent with how these metrics are measured by Chrome and reported to other Google tools.
@@ -558,7 +558,7 @@ Kanji characters are included up to the first level.
 
 ## Web Design
 
-### Gallery
+### Galleries
 
 - [I/O 3000](https://io3000.com/) - This is a web design gallery site for people involved in web design. We have selected sites, both domestic and international, that can be used as a reference for web production.
 - [MUUUUU.ORG](https://muuuuu.org/) - This is a site that collects links to high quality web designs with long and narrow layouts that can be used as a reference in web production.
