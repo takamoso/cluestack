@@ -531,6 +531,7 @@ Kanji characters are included up to the first level.
 - [Favicon Generator](https://www.favicon.software/) - Generate Windows icon (.ico) and other favicons in right sizes for multiple browsers & platforms. Convert your logo or image to favicons in a snap.
 - [OptimizeImages](https://www.optimizeimages.com/tool) - Optimize images Online with this free optimizer tool, compress, convert and optimize images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and get SEO tags for your html.
 - **[Sprite your SVGs](https://sprite-your-svgs.vercel.app)** - Transform and optimize your SVGs by generating an efficient sprite. Reduce HTTP requests, style with CSS, and externalize icon data for a smaller JS bundle.
+- **[AI Emoji Generator](https://emojis.sh)** - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
 
 ### Code
 
