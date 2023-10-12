@@ -326,6 +326,9 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - <a href="https://github.com/aralroca/default-composer">aralroca/<b>default-composer</b></a> - A tiny (~500B) JavaScript library that allows you to set default values for nested objects.
 - <a href="https://github.com/RobertWHurst/KeyboardJS">RobertWHurst/<b>KeyboardJS</b></a> - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
 - <a href="https://github.com/runk/node-chardet">runk/<b>node-chardet</b></a> - Character encoding detection tool for NodeJS.
+- **[sort-on](https://github.com/sindresorhus/sort-on)** - Sort an array on an object property.  
+  ![](https://img.shields.io/github/stars/sindresorhus/sort-on?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/sort-on?style=social&label=Update)
 
 ### Polyfill
 
