@@ -182,6 +182,9 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - <a href="https://github.com/dulnan/lazy-brush">dulnan/<b>lazy-brush</b></a> - Smooth drawing with mouse, finger or other pointing device.
 - <a href="https://github.com/idrawjs/idraw">idrawjs/<b>idraw</b></a> - A simple JavaScript framework for Drawing on the web.
 - <a href="https://github.com/steveruizok/perfect-freehand">steveruizok/<b>perfect-freehand</b></a> - Draw perfect pressure-sensitive freehand lines.
+- **[atrament.js](https://github.com/jakubfiala/atrament.js)** - A small JS library for beautiful drawing and handwriting on the HTML Canvas.  
+  ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/jakubfiala/atrament.js?style=social&label=Update)
 
 ### Animations
 
