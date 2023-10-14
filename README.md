@@ -56,23 +56,39 @@
 
 ### Bundlers
 
-- <a href="https://github.com/oven-sh/bun">oven-sh/<b>bun</b></a> - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one.
+- **[bun](https://github.com/oven-sh/bun)** - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one.  
+  ![](https://img.shields.io/github/stars/oven-sh/bun?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/oven-sh/bun?style=social&label=Update)
 
 ### Framework
 
-- <a href="https://github.com/microsoft/playwright">microsoft/<b>playwright</b></a> - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- **[playwright](https://github.com/microsoft/playwright)** - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  
+  ![](https://img.shields.io/github/stars/microsoft/playwright?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/microsoft/playwright?style=social&label=Update)
 
 ### Applications
 
-- <a href="https://github.com/neutralinojs/neutralinojs">neutralinojs/<b>neutralinojs</b></a> - Portable and lightweight cross-platform desktop application development framework.
-- <a href="https://github.com/gluon-framework/gluon">gluon-framework/<b>gluon</b></a> - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.
-- <a href="https://github.com/pwa-builder/PWABuilder">pwa-builder/<b>PWABuilder</b></a> - The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.
-- <a href="https://github.com/framework7io/framework7">framework7io/<b>framework7</b></a> - Full featured HTML framework for building iOS & Android apps.
-- <a href="https://github.com/tauri-apps/tauri">tauri-apps/<b>tauri</b></a> - Build smaller, faster, and more secure desktop applications with a web frontend.
+- **[neutralinojs](https://github.com/neutralinojs/neutralinojs)** - Portable and lightweight cross-platform desktop application development framework.  
+  ![](https://img.shields.io/github/stars/neutralinojs/neutralinojs?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/neutralinojs/neutralinojs?style=social&label=Update)
+- **[gluon](https://github.com/gluon-framework/gluon)** - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.  
+  ![](https://img.shields.io/github/stars/gluon-framework/gluon?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/gluon-framework/gluon?style=social&label=Update)
+- **[PWABuilder](https://github.com/pwa-builder/PWABuilder)** - The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.  
+  ![](https://img.shields.io/github/stars/pwa-builder/PWABuilder?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/pwa-builder/PWABuilder?style=social&label=Update)
+- **[framework7](https://github.com/framework7io/framework7")** - Full featured HTML framework for building iOS & Android apps.  
+  ![](https://img.shields.io/github/stars/framework7io/framework7?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/framework7io/framework7?style=social&label=Update)
+- **[tauri](https://github.com/tauri-apps/tauri)** - Build smaller, faster, and more secure desktop applications with a web frontend.  
+  ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/tauri-apps/tauri?style=social&label=Update)
 
 ### Headless UI
 
-- <a href="https://github.com/chakra-ui/ark">chakra-ui/<b>ark</b></a> - Universal headless UI components for the web. Powered by Zag.js.
+- **[ark](https://github.com/chakra-ui/ark)** - Universal headless UI components for the web. Powered by Zag.js.  
+  ![](https://img.shields.io/github/stars/chakra-ui/ark?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/chakra-ui/ark?style=social&label=Update)
 
 ### Components
 
