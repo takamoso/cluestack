@@ -547,6 +547,7 @@ Kanji characters are included up to the first level.
 - [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/) - A modern and clearn CSS Glow Generator. Custom colors, transparency, and blurs for your creative needs. Enjoy!
 - [CSS Box Shadow Generator](https://cssbud.com/css-generator/css-box-shadow-generator/) - The best, cleanest and most modern CSS Box Shadow Generator on the Internet. We allow custom colors, transparency, and blurs for your creative needs. Enjoy!
 - [CSS Text Glow Generator](https://cssbud.com/css-generator/css-text-glow-generator/) - The best place for CSS text glow - just change the values of the sliders, copy the code, and you're done! Enjoy your CSS glows!
+- **[CSS Box Shadows Generator](https://boxshadows.xyz)** - Create, edit, and generate multiple custom CSS box shadows with ease.
 
 ### Images
 
