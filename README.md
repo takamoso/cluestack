@@ -129,6 +129,9 @@
 - <a href="https://github.com/uNmAnNeR/imaskjs">uNmAnNeR/<b>imaskjs</b></a> - Vanilla javascript input mask.
 - <a href="https://github.com/TarekRaafat/autoComplete.js">TarekRaafat/<b>autoComplete.js</b></a> - Simple autocomplete pure vanilla Javascript library.
 - <a href="https://github.com/text-mask/text-mask">text-mask/<b>text-mask</b></a> - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
+- **[autocomp.js](https://github.com/knadh/autocomp.js)** - A super tiny Javascript autocomplete / autosuggestions library. Zero dependencies, ~800 bytes min+gzip.  
+  ![](https://img.shields.io/github/stars/knadh/autocomp.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/knadh/autocomp.js?style=social&label=Update)
 
 #### Validation
 
