@@ -605,6 +605,7 @@ Kanji characters are included up to the first level.
 - [デザインのこと](https://designnokoto.com) - We collect domestic and international web designs, "stylish" websites that are responsive and easy to view on PCs, tablets, and smartphones.
 - **[Siteinspire](https://www.siteinspire.com)** - Siteinspire is a showcase of the finest web and interactive design.
 - **[Httpster](https://httpster.net)** - The best website design inspiration. Get inspired by our gallery of creative design ideas and great examples of beautiful award-winning sites.
+- **[Minimal Gallery](https://minimal.gallery)** - Hand-picked design inspiration, curated daily.
 
 ### Parts
 
