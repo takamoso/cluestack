@@ -107,39 +107,65 @@
 
 ### Menus
 
-- <a href="https://github.com/harshhhdev/kmenu">harshhhdev/<b>kmenu</b></a> - An animated and accessible command menu.
+- **[kmenu](https://github.com/harshhhdev/kmenu)** - An animated and accessible command menu.  
+  ![](https://img.shields.io/github/stars/harshhhdev/kmenu?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/harshhhdev/kmenu?style=social&label=Update)
 
 ### Modal
 
-- <a href="https://github.com/ghosh/Micromodal">ghosh/<b>Micromodal</b></a> - Tiny javascript library for creating accessible modal dialogs.
-- <a href="https://github.com/KittyGiraudel/a11y-dialog">KittyGiraudel/<b>a11y-dialog</b></a> - A very lightweight and flexible accessible modal dialog script.
+- **[Micromodal](https://github.com/ghosh/Micromodal)** - Tiny javascript library for creating accessible modal dialogs.  
+  ![](https://img.shields.io/github/stars/ghosh/Micromodal?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ghosh/Micromodal?style=social&label=Update)
+- **[a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog)** - A very lightweight and flexible accessible modal dialog script.  
+  ![](https://img.shields.io/github/stars/KittyGiraudel/a11y-dialog?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/KittyGiraudel/a11y-dialog?style=social&label=Update)
 
 ### Sliders
 
-- <a href="https://github.com/nolimits4web/Swiper">nolimits4web/<b>Swiper</b></a> - Most modern mobile touch slider with hardware accelerated transitions.
-- <a href="https://github.com/Splidejs/splide">Splidejs/<b>splide</b></a> - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
-- <a href="https://github.com/rcbyr/keen-slider">rcbyr/<b>keen-slider</b></a> - The HTML touch slider carousel with the most native feeling you will get.
-- <a href="https://github.com/glidejs/glide">glidejs/<b>glide</b></a> - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more.
-- <a href="https://github.com/hakimel/reveal.js">hakimel/<b>reveal.js</b></a> - The HTML Presentation Framework.
+- **[Swiper](https://github.com/nolimits4web/Swiper)** - Most modern mobile touch slider with hardware accelerated transitions.  
+  ![](https://img.shields.io/github/stars/nolimits4web/Swiper?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/nolimits4web/Swiper?style=social&label=Update)
+- **[splide](https://github.com/Splidejs/splide)** - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.  
+  ![](https://img.shields.io/github/stars/Splidejs/splide?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/Splidejs/splide?style=social&label=Update)
+- **[keen-slider](https://github.com/rcbyr/keen-slider)** - The HTML touch slider carousel with the most native feeling you will get.  
+  ![](https://img.shields.io/github/stars/rcbyr/keen-slider?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/rcbyr/keen-slider?style=social&label=Update)
+- **[glide](https://github.com/glidejs/glide)** - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more.  
+  ![](https://img.shields.io/github/stars/glidejs/glide?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/glidejs/glide?style=social&label=Update)
+- **[reveal.js](https://github.com/hakimel/reveal.js)** - The HTML Presentation Framework.  
+  ![](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/hakimel/reveal.js?style=social&label=Update)
 
 ### Form
 
 #### Input
 
-- <a href="https://github.com/uNmAnNeR/imaskjs">uNmAnNeR/<b>imaskjs</b></a> - Vanilla javascript input mask.
-- <a href="https://github.com/TarekRaafat/autoComplete.js">TarekRaafat/<b>autoComplete.js</b></a> - Simple autocomplete pure vanilla Javascript library.
-- <a href="https://github.com/text-mask/text-mask">text-mask/<b>text-mask</b></a> - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
+- **[imaskjs](https://github.com/uNmAnNeR/imaskjs)** - Vanilla javascript input mask.  
+  ![](https://img.shields.io/github/stars/uNmAnNeR/imaskjs?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/uNmAnNeR/imaskjs?style=social&label=Update)
+- **[autoComplete.js](https://github.com/TarekRaafat/autoComplete.js)** - Simple autocomplete pure vanilla Javascript library.  
+  ![](https://img.shields.io/github/stars/TarekRaafat/autoComplete.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/TarekRaafat/autoComplete.js?style=social&label=Update)
+- **[text-mask](https://github.com/text-mask/text-mask)** - Input mask for React, Angular, Ember, Vue, & plain JavaScript.  
+  ![](https://img.shields.io/github/stars/text-mask/text-mask?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/text-mask/text-mask?style=social&label=Update)
 - **[autocomp.js](https://github.com/knadh/autocomp.js)** - A super tiny Javascript autocomplete / autosuggestions library. Zero dependencies, ~800 bytes min+gzip.  
   ![](https://img.shields.io/github/stars/knadh/autocomp.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/knadh/autocomp.js?style=social&label=Update)
 
 #### Validation
 
-- <a href="https://github.com/validatorjs/validator.js">validatorjs/<b>validator.js</b></a> - A library of string validators and sanitizers.
+- **[validator.js](https://github.com/validatorjs/validator.js)** - A library of string validators and sanitizers.  
+  ![](https://img.shields.io/github/stars/validatorjs/validator.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/validatorjs/validator.js?style=social&label=Update)
 
 #### Picker
 
-- <a href="https://github.com/web-padawan/vanilla-colorful">web-padawan/<b>vanilla-colorful</b></a> - A tiny color picker custom element for modern web apps.
+- **[vanilla-colorful](https://github.com/web-padawan/vanilla-colorful)** - A tiny color picker custom element for modern web apps.  
+  ![](https://img.shields.io/github/stars/web-padawan/vanilla-colorful?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/web-padawan/vanilla-colorful?style=social&label=Update)
 
 ### Text Editors
 
