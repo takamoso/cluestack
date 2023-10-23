@@ -300,6 +300,12 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
   ![](https://img.shields.io/github/stars/extractus/article-extractor?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/extractus/article-extractor?style=social&label=Update)
 
+### Detections
+
+- **[what-input](https://github.com/ten1seven/what-input)** - A global utility for tracking the current input method (mouse/pointer, keyboard or touch).  
+  ![](https://img.shields.io/github/stars/ten1seven/what-input?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ten1seven/what-input?style=social&label=Update)
+
 ### Performance
 
 - <a href="https://github.com/danielroe/fontaine">danielroe/<b>fontaine</b></a> - Automatic font fallback based on font metrics.
