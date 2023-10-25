@@ -181,6 +181,9 @@
 - **[mathlive](https://github.com/arnog/mathlive)** - A web component for easy math input.  
   ![](https://img.shields.io/github/stars/arnog/mathlive?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/arnog/mathlive?style=social&label=Update)
+- **[ckeditor5](https://github.com/ckeditor/ckeditor5)** - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.  
+  ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=social&label=Update)
 
 ### Syntax Highlighting
 
