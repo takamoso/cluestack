@@ -104,6 +104,9 @@
 - **[ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev)** - Mantine UI website and components.  
   ![](https://img.shields.io/github/stars/mantinedev/ui.mantine.dev?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/mantinedev/ui.mantine.dev?style=social&label=Update)
+- **[tailblocks](https://github.com/mertJF/tailblocks)** - Ready-to-use Tailwind CSS blocks.  
+  ![](https://img.shields.io/github/stars/mertJF/tailblocks?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/mertJF/tailblocks?style=social&label=Update)
 
 ### Menus
 
