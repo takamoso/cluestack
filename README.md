@@ -254,6 +254,9 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - <a href="https://github.com/mnater/Hyphenopoly">mnater/<b>Hyphenopoly</b></a> - Hyphenation for node and Polyfill for client-side hyphenation.
 - <a href="https://github.com/google/budoux">google/<b>budoux</b></a> - BudouX is the successor to Budou, the machine learning powered line break organizer tool.
 - <a href="https://github.com/thecodrr/alfaaz">thecodrr/<b>alfaaz</b></a> - The fastest multilingual word counter that can count millions of words per second.
+- **[fontsource](https://github.com/fontsource/fontsource)** - Self-host Open Source fonts in neatly bundled NPM packages.  
+  ![](https://img.shields.io/github/stars/fontsource/fontsource?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/fontsource/fontsource?style=social&label=Update)
 
 ### Images
 
