@@ -98,6 +98,9 @@
 - **[Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements)** - Huge collection of Tailwind components, sections and templates.  
   ![](https://img.shields.io/github/stars/mdbootstrap/Tailwind-Elements?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/mdbootstrap/Tailwind-Elements?style=social&label=Update)
+- **[radix-vue](https://github.com/radix-vue/radix-vue)** - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.  
+  ![](https://img.shields.io/github/stars/radix-vue/radix-vue?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/radix-vue/radix-vue?style=social&label=Update)
 
 ### Collections
 
