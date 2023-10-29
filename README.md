@@ -77,6 +77,7 @@
   - [GitHub](#github)
 - [Chrome Extensions](#chrome-extensions)
 - [Web Design](#web-design)
+  - [Practicing](#practicing)
   - [Galleries](#galleries)
   - [Parts](#parts)
 
@@ -764,6 +765,10 @@ Kanji characters are included up to the first level.
 
 
 ## Web Design
+
+### Practicing
+
+- **[Codejump](https://code-jump.com)** - This is a coding learning site for those who have completed basic learning of HTML, CSS, and JavaScript to acquire more practical website production skills through copy coding and coding practice from design compilations.
 
 ### Galleries
 
