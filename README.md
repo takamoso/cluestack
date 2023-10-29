@@ -221,42 +221,78 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 ### Drag
 
-- <a href="https://github.com/PuruVJ/neodrag">PuruVJ/<b>neodrag</b></a> - One Draggable to rule them all.
-
+- **[neodrag](https://github.com/PuruVJ/neodrag)** - One Draggable to rule them all.  
+  ![](https://img.shields.io/github/stars/PuruVJ/neodrag?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/PuruVJ/neodrag?style=social&label=Update)
+ 
 ### Charts
 
-- <a href="https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart">Bogdan-Lyashenko/<b>js-code-to-svg-flowchart</b></a> - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
-- <a href="https://github.com/observablehq/plot">observablehq/<b>plot</b></a> - A concise API for exploratory data visualization.
+- **[js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)** - A visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.  
+  ![](https://img.shields.io/github/stars/Bogdan-Lyashenko/js-code-to-svg-flowchart?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/Bogdan-Lyashenko/js-code-to-svg-flowchart?style=social&label=Update)
+- **[plot](https://github.com/observablehq/plot)** - A concise API for exploratory data visualization.  
+  ![](https://img.shields.io/github/stars/observablehq/plot?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/observablehq/plot?style=social&label=Update)
 
 ### SVG
 
-- <a href="https://github.com/vercel/satori">vercel/<b>satori</b></a> - Enlightened library to convert HTML and CSS to SVG.
-- <a href="https://github.com/Minibrams/svg-path-morph">Minibrams/<b>svg-path-morph</b></a> - Smoothly interpolate between variations of SVG paths.
+- **[satori](https://github.com/vercel/satori)** - Enlightened library to convert HTML and CSS to SVG.  
+  ![](https://img.shields.io/github/stars/vercel/satori?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/vercel/satori?style=social&label=Update)
+- **[svg-path-morph](https://github.com/Minibrams/svg-path-morph)** - Smoothly interpolate between variations of SVG paths.  
+  ![](https://img.shields.io/github/stars/Minibrams/svg-path-morph?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/Minibrams/svg-path-morph?style=social&label=Update)
 
 ### Canvas
 
-- <a href="https://github.com/catdad/canvas-confetti">catdad/<b>canvas-confetti</b></a> - On-demand confetti gun.
-- <a href="https://github.com/dulnan/lazy-brush">dulnan/<b>lazy-brush</b></a> - Smooth drawing with mouse, finger or other pointing device.
-- <a href="https://github.com/idrawjs/idraw">idrawjs/<b>idraw</b></a> - A simple JavaScript framework for Drawing on the web.
-- <a href="https://github.com/steveruizok/perfect-freehand">steveruizok/<b>perfect-freehand</b></a> - Draw perfect pressure-sensitive freehand lines.
+- **[canvas-confetti](https://github.com/catdad/canvas-confetti)** - On-demand confetti gun.  
+  ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/catdad/canvas-confetti?style=social&label=Update)
+- **[lazy-brush](https://github.com/dulnan/lazy-brush)** - Smooth drawing with mouse, finger or other pointing device.  
+  ![](https://img.shields.io/github/stars/dulnan/lazy-brush?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/dulnan/lazy-brush?style=social&label=Update)
+- **[idraw](https://github.com/idrawjs/idraw)** - A simple JavaScript framework for Drawing on the web.  
+  ![](https://img.shields.io/github/stars/idrawjs/idraw?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/idrawjs/idraw?style=social&label=Update)
+- **[perfect-freehand](https://github.com/steveruizok/perfect-freehand)** - Draw perfect pressure-sensitive freehand lines.  
+  ![](https://img.shields.io/github/stars/steveruizok/perfect-freehand?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/steveruizok/perfect-freehand?style=social&label=Update)
 - **[atrament.js](https://github.com/jakubfiala/atrament.js)** - A small JS library for beautiful drawing and handwriting on the HTML Canvas.  
   ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/jakubfiala/atrament.js?style=social&label=Update)
 
 ### Animations
 
-- <a href="https://github.com/motiondivision/motionone">motiondivision/<b>motionone</b></a> - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.
-- <a href="https://github.com/daybrush/scenejs">daybrush/<b>scenejs</b></a> - Scene.js is JavaScript & CSS timeline-based animation library.
-- <a href="https://github.com/LunarFang416/url-animations">LunarFang416/<b>url-animations</b></a> - Add loading animations to your website in your browser URL field.
-- <a href="https://github.com/rough-stuff/rough-notation">rough-stuff/<b>rough-notation</b></a> - Create and animate hand-drawn annotations on a web page.
-- <a href="https://github.com/sarcadass/granim.js">sarcadass/<b>granim.js</b></a> - Create fluid and interactive gradient animations with this small javascript library.
-- <a href="https://github.com/maxwellito/vivus">maxwellito/<b>vivus</b></a> - JavaScript library to make drawing animation on SVG.
+- **[motionone](https://github.com/motiondivision/motionone)** - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.  
+  ![](https://img.shields.io/github/stars/motiondivision/motionone?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/motiondivision/motionone?style=social&label=Update)
+- **[scenejs](https://github.com/daybrush/scenejs)** - Scene.js is JavaScript & CSS timeline-based animation library.  
+  ![](https://img.shields.io/github/stars/daybrush/scenejs?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/daybrush/scenejs?style=social&label=Update)
+- **[url-animations](https://github.com/LunarFang416/url-animations)** - Add loading animations to your website in your browser URL field.  
+  ![](https://img.shields.io/github/stars/LunarFang416/url-animations?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/LunarFang416/url-animations?style=social&label=Update)
+- **[rough-notation](https://github.com/rough-stuff/rough-notation)** - Create and animate hand-drawn annotations on a web page.  
+  ![](https://img.shields.io/github/stars/rough-stuff/rough-notation?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/rough-stuff/rough-notation?style=social&label=Update)
+- **[granim.js](https://github.com/sarcadass/granim.js)** - Create fluid and interactive gradient animations with this small javascript library.  
+  ![](https://img.shields.io/github/stars/sarcadass/granim.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sarcadass/granim.js?style=social&label=Update)
+- **[vivus](https://github.com/maxwellito/vivus)** - JavaScript library to make drawing animation on SVG.  
+  ![](https://img.shields.io/github/stars/maxwellito/vivus?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/maxwellito/vivus?style=social&label=Update)
 
 ### Typography
 
-- <a href="https://github.com/mnater/Hyphenopoly">mnater/<b>Hyphenopoly</b></a> - Hyphenation for node and Polyfill for client-side hyphenation.
-- <a href="https://github.com/google/budoux">google/<b>budoux</b></a> - BudouX is the successor to Budou, the machine learning powered line break organizer tool.
-- <a href="https://github.com/thecodrr/alfaaz">thecodrr/<b>alfaaz</b></a> - The fastest multilingual word counter that can count millions of words per second.
+- **[Hyphenopoly](https://github.com/mnater/Hyphenopoly)** - Hyphenation for node and Polyfill for client-side hyphenation.  
+  ![](https://img.shields.io/github/stars/mnater/Hyphenopoly?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/mnater/Hyphenopoly?style=social&label=Update)
+- **[budoux](https://github.com/google/budoux)** - BudouX is the successor to Budou, the machine learning powered line break organizer tool.  
+  ![](https://img.shields.io/github/stars/google/budoux?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/google/budoux?style=social&label=Update)
+- **[alfaaz](https://github.com/thecodrr/alfaaz)** - The fastest multilingual word  
+  ![](https://img.shields.io/github/stars/thecodrr/alfaaz?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/thecodrr/alfaaz?style=social&label=Update)
 - **[fontsource](https://github.com/fontsource/fontsource)** - Self-host Open Source fonts in neatly bundled NPM packages.  
   ![](https://img.shields.io/github/stars/fontsource/fontsource?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fontsource/fontsource?style=social&label=Update)
