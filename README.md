@@ -398,6 +398,9 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - **[sort-on](https://github.com/sindresorhus/sort-on)** - Sort an array on an object property.  
   ![](https://img.shields.io/github/stars/sindresorhus/sort-on?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/sindresorhus/sort-on?style=social&label=Update)
+- **[clipboardy](https://github.com/sindresorhus/clipboardy)** - Access the system clipboard (copy/paste).  
+  ![](https://img.shields.io/github/stars/sindresorhus/clipboardy?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/clipboardy?style=social&label=Update)
 
 ### Polyfill
 
