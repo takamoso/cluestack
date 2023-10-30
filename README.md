@@ -744,6 +744,7 @@ Kanji characters are included up to the first level.
 
 - [BrowserFrame](https://browserframe.com/) - Browser Frame is a free tool that helps you wrap screenshots in different browser frames. Supports Chrome, Firefox, Safari, and more.
 - **[UI Skeleton Gallery](https://www.brandbird.app/tools/ui-skeleton-gallery)** - A free customizable collection of SVG skeleton loader UI elements for design wireframes & mockups.
+- **[Responsive Samples by unshift](https://responsive-samples.unshift.co.jp)** - A collection of samples to explore how to implement responsive design on a website.
 
 ### Fonts
 
