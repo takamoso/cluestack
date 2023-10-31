@@ -196,6 +196,7 @@
 - **[tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components)** - Free Tailwind CSS UI Components - Crafted for modern websites, landing pages and web apps. TailGrids Core is free and open-source so, feel free to use with your personal or commercial projects.  
   ![](https://img.shields.io/github/stars/TailGrids/tailwind-ui-components?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/TailGrids/tailwind-ui-components?style=social&label=Update)
+- **[Tailwind UI](https://tailwindui.com)** - Beautiful UI components and templates by the creators of Tailwind CSS.
 
 ### Menus
 
