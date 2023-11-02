@@ -739,7 +739,8 @@ Kanji characters are included up to the first level.
 
 ### Code
 
-- [CodeImage](https://codeimage.dev/) - CodeImage is the newest tool to help developers to manage their snippets and create beautiful screenshots of their source code
+- [CodeImage](https://codeimage.dev/) - CodeImage is the newest tool to help developers to manage their snippets and create beautiful screenshots of their source code.
+- **[snappify](https://snappify.com)** - A powerful design tool to animate your code snippets in various ways.
 
 ### Mockup
 
