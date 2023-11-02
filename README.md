@@ -197,6 +197,9 @@
   ![](https://img.shields.io/github/stars/TailGrids/tailwind-ui-components?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/TailGrids/tailwind-ui-components?style=social&label=Update)
 - **[Tailwind UI](https://tailwindui.com)** - Beautiful UI components and templates by the creators of Tailwind CSS.
+- **[flowrift](https://github.com/n6ai/flowrift)** - Beautifully designed Tailwind CSS UI blocks.  
+  ![](https://img.shields.io/github/stars/n6ai/flowrift?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/n6ai/flowrift?style=social&label=Update)
 
 ### Menus
 
