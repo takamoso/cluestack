@@ -14,3 +14,6 @@
 - **[gulp](https://github.com/gulpjs/gulp)** - A toolkit to automate & enhance your workflow.  
   ![](https://img.shields.io/github/stars/gulpjs/gulp?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/gulpjs/gulp?style=social&label=Update)
+- **[webpack](https://github.com/webpack/webpack)** - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.  
+  ![](https://img.shields.io/github/stars/webpack/webpack?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/webpack/webpack?style=social&label=Update)
