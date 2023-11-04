@@ -20,3 +20,6 @@
 - **[rollup](https://github.com/rollup/rollup)** - Next-generation ES module bundler.  
   ![](https://img.shields.io/github/stars/rollup/rollup?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/rollup/rollup?style=social&label=Update)
+- **[parcel](https://github.com/parcel-bundler/parcel)** - The zero configuration build tool for the web.  
+  ![](https://img.shields.io/github/stars/parcel-bundler/parcel?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/parcel-bundler/parcel?style=social&label=Update)
