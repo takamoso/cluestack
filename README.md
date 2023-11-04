@@ -143,6 +143,12 @@
   ![](https://img.shields.io/github/stars/oven-sh/bun?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/oven-sh/bun?style=social&label=Update)
 
+#### Plugins
+
+- **[critical](https://github.com/addyosmani/critical)** - Extract & Inline Critical-path CSS in HTML pages.  
+  ![](https://img.shields.io/github/stars/addyosmani/critical?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/addyosmani/critical?style=social&label=Update)
+
 ### Framework
 
 - **[playwright](https://github.com/microsoft/playwright)** - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  
