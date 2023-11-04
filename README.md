@@ -145,12 +145,6 @@
   ![](https://img.shields.io/github/stars/addyosmani/critical?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/addyosmani/critical?style=social&label=Update)
 
-### Framework
-
-- **[playwright](https://github.com/microsoft/playwright)** - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  
-  ![](https://img.shields.io/github/stars/microsoft/playwright?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/microsoft/playwright?style=social&label=Update)
-
 ### Applications
 
 - **[neutralinojs](https://github.com/neutralinojs/neutralinojs)** - Portable and lightweight cross-platform desktop application development framework.  

@@ -2,6 +2,7 @@
 
 - [Package Manager](#package-manager)
 - [Bundlers](#bundlers)
+- [Testing](#testing)
 
 ## Package Manager
 
@@ -29,3 +30,9 @@
 - **[vite](https://github.com/vitejs/vite)** - Next generation frontend tooling. It's fast!  
   ![](https://img.shields.io/github/stars/vitejs/vite?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/vitejs/vite?style=social&label=Update)
+
+## Testing
+
+- **[playwright](https://github.com/microsoft/playwright)** - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  
+  ![](https://img.shields.io/github/stars/microsoft/playwright?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/microsoft/playwright?style=social&label=Update)
