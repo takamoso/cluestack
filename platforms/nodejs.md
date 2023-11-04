@@ -26,3 +26,6 @@
 - **[pkg](https://github.com/vercel/pkg)** - Package your Node.js project into an executable.  
   ![](https://img.shields.io/github/stars/vercel/pkg?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/vercel/pkg?style=social&label=Update)
+- **[vite](https://github.com/vitejs/vite)** - Next generation frontend tooling. It's fast!  
+  ![](https://img.shields.io/github/stars/vitejs/vite?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/vitejs/vite?style=social&label=Update)
