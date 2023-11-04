@@ -23,3 +23,6 @@
 - **[parcel](https://github.com/parcel-bundler/parcel)** - The zero configuration build tool for the web.  
   ![](https://img.shields.io/github/stars/parcel-bundler/parcel?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/parcel-bundler/parcel?style=social&label=Update)
+- **[pkg](https://github.com/vercel/pkg)** - Package your Node.js project into an executable.  
+  ![](https://img.shields.io/github/stars/vercel/pkg?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/vercel/pkg?style=social&label=Update)
