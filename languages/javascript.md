@@ -4,9 +4,6 @@
 
 ## Polyfills
 
-- **[popover-polyfill](https://github.com/oddbird/popover-polyfill)** - This polyfills the HTML popover attribute and showPopover/hidePopover/togglePopover methods onto HTMLElement, as well as the popovertarget and popovertargetaction attributes on Button elements.  
-  ![](https://img.shields.io/github/stars/oddbird/popover-polyfill?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/oddbird/popover-polyfill?style=social&label=Update)
 - **[container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill)** - A polyfill for CSS Container Queries.  
   ![](https://img.shields.io/github/stars/GoogleChromeLabs/container-query-polyfill?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/GoogleChromeLabs/container-query-polyfill?style=social&label=Update)

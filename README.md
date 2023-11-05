@@ -9,6 +9,8 @@
 
 ## Languages
 
+- [HTML](languages/html.md)
+  - [Polyfills](languages/html.md#polyfills)
 - [JavsScript](languages/javascript.md)
   - [Polyfills](languages/javascript.md#polyfills)
 
