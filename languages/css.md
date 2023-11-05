@@ -1,6 +1,13 @@
 # CSS
 
+- [Reset and Normalize](#reset-and-normalize)
 - [Polyfills](#polyfills)
+
+## Reset and Normalize
+
+- **[modern-normalize](https://github.com/sindresorhus/modern-normalize)** - Normalize browsers' default style.  
+  ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/modern-normalize?style=social&label=Update)
 
 ## Polyfills
 

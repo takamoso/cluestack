@@ -12,6 +12,7 @@
 - [HTML](languages/html.md)
   - [Polyfills](languages/html.md#polyfills)
 - [CSS](languages/css.md)
+  - [Reset and Normalize](languages/css.md#reset-and-normalize)
   - [Polyfills](languages/css.md#polyfills)
 - [JavsScript](languages/javascript.md)
   - [Polyfills](languages/javascript.md#polyfills)
@@ -100,12 +101,6 @@
   - [Parts](#parts)
 
 ## CSS
-
-### Reset
-
-- **[modern-normalize](https://github.com/sindresorhus/modern-normalize)** - Normalize browsers' default style.  
-  ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/sindresorhus/modern-normalize?style=social&label=Update)
 
 ### Classless
 
