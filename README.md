@@ -1,6 +1,17 @@
 # Cluestack
 
+## Platforms
+
 - [Node.js](platforms/nodejs.md)
+  - [Package Managers](platforms/nodejs.md#package-managers)
+  - [Bundlers](platforms/nodejs.md#bundlers)
+  - [Testing](platforms/nodejs.md#testing)
+
+## Languages
+
+- [JavsScript](languages/javascript.md)
+  - [Polyfilss](languages/javascript.md#polyfills)
+
 
 - [CSS](#css)
   - [Reset](#reset)
@@ -520,13 +531,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - **[clipboardy](https://github.com/sindresorhus/clipboardy)** - Access the system clipboard (copy/paste).  
   ![](https://img.shields.io/github/stars/sindresorhus/clipboardy?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/sindresorhus/clipboardy?style=social&label=Update)
-
-### Polyfill
-
-- <a href="https://github.com/lgarron/clipboard-polyfill">lgarron/<b>clipboard-polyfill</b></a> - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)
-- <a href="https://github.com/argyleink/scrollyfills">argyleink/<b>scrollyfills</b></a> - grab and go polyfill functions for web scroll features.
-- <a href="https://github.com/flackr/scroll-timeline">flackr/<b>scroll-timeline</b></a> - A polyfill of ScrollTimeline.
-- <a href="https://github.com/oddbird/popover-polyfill">oddbird/<b>popover-polyfill</b></a> - This polyfills the HTML popover attribute and showPopover/hidePopover/togglePopover methods onto HTMLElement, as well as the popovertarget and popovertargetaction attributes on Button elements.
 
 
 ## AI

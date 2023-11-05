@@ -1,10 +1,10 @@
 # Node.js
 
-- [Package Manager](#package-manager)
+- [Package Managers](#package-managers)
 - [Bundlers](#bundlers)
 - [Testing](#testing)
 
-## Package Manager
+## Package Managers
 
 - **[bun](https://github.com/oven-sh/bun)** - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one.  
   ![](https://img.shields.io/github/stars/oven-sh/bun?style=social&label=Star)
