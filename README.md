@@ -10,7 +10,7 @@
 ## Languages
 
 - [JavsScript](languages/javascript.md)
-  - [Polyfilss](languages/javascript.md#polyfills)
+  - [Polyfills](languages/javascript.md#polyfills)
 
 
 - [CSS](#css)
