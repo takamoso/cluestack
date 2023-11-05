@@ -15,6 +15,7 @@
   - [Reset and Normalize](languages/css.md#reset-and-normalize)
   - [Polyfills](languages/css.md#polyfills)
 - [JavsScript](languages/javascript.md)
+  - [Editors](languages/javascript.md#editors)
   - [Polyfills](languages/javascript.md#polyfills)
 
 ## Contents
@@ -269,24 +270,6 @@
 - **[vanilla-colorful](https://github.com/web-padawan/vanilla-colorful)** - A tiny color picker custom element for modern web apps.  
   ![](https://img.shields.io/github/stars/web-padawan/vanilla-colorful?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/web-padawan/vanilla-colorful?style=social&label=Update)
-
-### Text Editors
-
-- **[BlockNote](https://github.com/YousefED/BlockNote)** - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.  
-  ![](https://img.shields.io/github/stars/YousefED/BlockNote?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/YousefED/BlockNote?style=social&label=Update)
-- **[marked](https://github.com/markedjs/marked)** - A markdown parser and compiler. Built for speed.  
-  ![](https://img.shields.io/github/stars/markedjs/marked?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/markedjs/marked?style=social&label=Update)
-- **[novel](https://github.com/steven-tey/novel)** - Notion-style WYSIWYG editor with AI-powered autocompletions.  
-  ![](https://img.shields.io/github/stars/steven-tey/novel?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/steven-tey/novel?style=social&label=Update)
-- **[mathlive](https://github.com/arnog/mathlive)** - A web component for easy math input.  
-  ![](https://img.shields.io/github/stars/arnog/mathlive?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/arnog/mathlive?style=social&label=Update)
-- **[ckeditor5](https://github.com/ckeditor/ckeditor5)** - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.  
-  ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=social&label=Update)
 
 ### Syntax Highlighting
 
