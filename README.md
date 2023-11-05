@@ -11,9 +11,12 @@
 
 - [HTML](languages/html.md)
   - [Polyfills](languages/html.md#polyfills)
+- [CSS](languages/css.md)
+  - [Polyfills](languages/css.md#polyfills)
 - [JavsScript](languages/javascript.md)
   - [Polyfills](languages/javascript.md#polyfills)
 
+## Contents
 
 - [CSS](#css)
   - [Reset](#reset)
