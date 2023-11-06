@@ -15,6 +15,7 @@
   - [Reset and Normalize](languages/css.md#reset-and-normalize)
   - [Polyfills](languages/css.md#polyfills)
 - [JavsScript](languages/javascript.md)
+  - [UI Components](languages/javascript.md#ui-components)
   - [Editors](languages/javascript.md#editors)
   - [Video](languages/javascript.md#video)
   - [Audio](languages/javascript.md#audio)
@@ -170,9 +171,6 @@
 - **[PWABuilder](https://github.com/pwa-builder/PWABuilder)** - The simplest way to create progressive web apps across platforms and devices. Start here. This repo is home to several projects in the PWABuilder family of tools.  
   ![](https://img.shields.io/github/stars/pwa-builder/PWABuilder?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/pwa-builder/PWABuilder?style=social&label=Update)
-- **[framework7](https://github.com/framework7io/framework7")** - Full featured HTML framework for building iOS & Android apps.  
-  ![](https://img.shields.io/github/stars/framework7io/framework7?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/framework7io/framework7?style=social&label=Update)
 - **[tauri](https://github.com/tauri-apps/tauri)** - Build smaller, faster, and more secure desktop applications with a web frontend.  
   ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/tauri-apps/tauri?style=social&label=Update)
@@ -182,18 +180,6 @@
 - **[ark](https://github.com/chakra-ui/ark)** - Universal headless UI components for the web. Powered by Zag.js.  
   ![](https://img.shields.io/github/stars/chakra-ui/ark?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/chakra-ui/ark?style=social&label=Update)
-
-### Components
-
-- **[mantine](https://github.com/mantinedev/mantine)** - A fully featured React components library.  
-  ![](https://img.shields.io/github/stars/mantinedev/mantine?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/mantinedev/mantine?style=social&label=Update)
-- **[Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements)** - Huge collection of Tailwind components, sections and templates.  
-  ![](https://img.shields.io/github/stars/mdbootstrap/Tailwind-Elements?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/mdbootstrap/Tailwind-Elements?style=social&label=Update)
-- **[radix-vue](https://github.com/radix-vue/radix-vue)** - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.  
-  ![](https://img.shields.io/github/stars/radix-vue/radix-vue?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/radix-vue/radix-vue?style=social&label=Update)
 
 ### Collections
 

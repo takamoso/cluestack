@@ -1,9 +1,25 @@
 # JavaScript
 
+- [UI Components](#ui-components)
 - [Editors](#editors)
 - [Video](#video)
 - [Audio](#audio)
 - [Polyfills](#polyfills)
+
+## UI Components
+
+- **[Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements)** - Huge collection of Tailwind components, sections and templates.  
+  ![](https://img.shields.io/github/stars/mdbootstrap/Tailwind-Elements?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/mdbootstrap/Tailwind-Elements?style=social&label=Update)
+- **[framework7](https://github.com/framework7io/framework7)** - Full featured HTML framework for building iOS & Android apps.  
+  ![](https://img.shields.io/github/stars/framework7io/framework7?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/framework7io/framework7?style=social&label=Update)
+- **[radix-vue](https://github.com/radix-vue/radix-vue)** - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.  
+  ![](https://img.shields.io/github/stars/radix-vue/radix-vue?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/radix-vue/radix-vue?style=social&label=Update)
+- **[mantine](https://github.com/mantinedev/mantine)** - A fully featured React components library.  
+  ![](https://img.shields.io/github/stars/mantinedev/mantine?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/mantinedev/mantine?style=social&label=Update)
 
 ## Editors
 
