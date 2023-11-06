@@ -16,6 +16,7 @@
   - [Polyfills](languages/css.md#polyfills)
 - [JavsScript](languages/javascript.md)
   - [Editors](languages/javascript.md#editors)
+  - [Audio](languages/javascript.md#audio)
   - [Polyfills](languages/javascript.md#polyfills)
 
 ## Contents
@@ -399,10 +400,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - <a href="https://github.com/NigelOToole/responsive-video-poster">NigelOToole/<b>responsive-video-poster</b></a> - Responsive poster image for videos to improve performance and allow full control of video placeholders.
 - <a href="https://github.com/heiseonline/embetty">heiseonline/<b>embetty</b></a> - Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - <a href="https://github.com/ffmpegwasm/ffmpeg.wasm">ffmpegwasm/<b>ffmpeg.wasm</b></a> - FFmpeg for browser, powered by WebAssembly.
-
-### Audio
-
-- <a href="https://github.com/bbc/peaks.js">bbc/<b>peaks.js</b></a> - JavaScript UI component for interacting with audio waveforms.
 
 ### Files
 

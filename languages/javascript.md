@@ -21,6 +21,12 @@
   ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=social&label=Update)
 
+## Audio
+
+- **[peaks.js](https://github.com/bbc/peaks.js)** - JavaScript UI component for interacting with audio waveforms.  
+  ![](https://img.shields.io/github/stars/bbc/peaks.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/bbc/peaks.js?style=social&label=Update)
+
 ## Polyfills
 
 - **[scrollyfills](https://github.com/argyleink/scrollyfills)** - grab and go polyfill functions for web scroll features.  
