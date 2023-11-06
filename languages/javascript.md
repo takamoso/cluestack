@@ -1,6 +1,7 @@
 # JavaScript
 
 - [Editors](#editors)
+- [Audio](#audio)
 - [Polyfills](#polyfills)
 
 ## Editors
@@ -26,6 +27,9 @@
 - **[peaks.js](https://github.com/bbc/peaks.js)** - JavaScript UI component for interacting with audio waveforms.  
   ![](https://img.shields.io/github/stars/bbc/peaks.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/bbc/peaks.js?style=social&label=Update)
+- **[siriwave](https://github.com/kopiro/siriwave)** - The Apple® Siri wave-form replicated in a JS library.  
+  ![](https://img.shields.io/github/stars/kopiro/siriwave?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/kopiro/siriwave?style=social&label=Update)
 
 ## Polyfills
 
