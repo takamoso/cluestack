@@ -1,6 +1,7 @@
 # JavaScript
 
 - [Editors](#editors)
+- [Video](#video)
 - [Audio](#audio)
 - [Polyfills](#polyfills)
 
@@ -21,6 +22,21 @@
 - **[ckeditor5](https://github.com/ckeditor/ckeditor5)** - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.  
   ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=social&label=Update)
+
+## Video
+
+- **[responsive-video-poster](https://github.com/NigelOToole/responsive-video-poster)** - Responsive poster image for videos to improve performance and allow full control of video placeholders.  
+  ![](https://img.shields.io/github/stars/NigelOToole/responsive-video-poster?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/NigelOToole/responsive-video-poster?style=social&label=Update)
+- **[embetty](https://github.com/heiseonline/embetty)** - Embetty displays remote content like tweets or YouTube videos without compromising your privacy.  
+  ![](https://img.shields.io/github/stars/heiseonline/embetty?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/heiseonline/embetty?style=social&label=Update)
+- **[YouTube.js](https://github.com/LuanRT/YouTube.js)** - Full-featured wrapper around YouTube's private API — reverse engineering InnerTube.  
+  ![](https://img.shields.io/github/stars/LuanRT/YouTube.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/LuanRT/YouTube.js?style=social&label=Update)
+- **[ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)** - FFmpeg for browser, powered by WebAssembly.  
+  ![](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ffmpegwasm/ffmpeg.wasm?style=social&label=Update)
 
 ## Audio
 

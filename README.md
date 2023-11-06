@@ -16,6 +16,7 @@
   - [Polyfills](languages/css.md#polyfills)
 - [JavsScript](languages/javascript.md)
   - [Editors](languages/javascript.md#editors)
+  - [Video](languages/javascript.md#video)
   - [Audio](languages/javascript.md#audio)
   - [Polyfills](languages/javascript.md#polyfills)
 
@@ -393,13 +394,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 ### Visual
 
 - <a href="https://github.com/Rezmason/matrix">Rezmason/<b>matrix</b></a>> - matrix (web-based green code rain, made with love).
-
-### Media
-
-- <a href="https://github.com/LuanRT/YouTube.js">LuanRT/<b>YouTube.js</b></a> - Full-featured wrapper around YouTube's private API — reverse engineering InnerTube.
-- <a href="https://github.com/NigelOToole/responsive-video-poster">NigelOToole/<b>responsive-video-poster</b></a> - Responsive poster image for videos to improve performance and allow full control of video placeholders.
-- <a href="https://github.com/heiseonline/embetty">heiseonline/<b>embetty</b></a> - Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
-- <a href="https://github.com/ffmpegwasm/ffmpeg.wasm">ffmpegwasm/<b>ffmpeg.wasm</b></a> - FFmpeg for browser, powered by WebAssembly.
 
 ### Files
 
