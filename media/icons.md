@@ -65,3 +65,6 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
   ![](https://img.shields.io/github/stars/bytedance/iconpark?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/bytedance/iconpark?style=social&label=Update)
 - **[EXPERIENCE JAPAN PICTOGRAMS](https://experience-japan.info)** - EXPERIENCE JAPAN PICTOGRAMS are a novel set of visual symbols developed for people of all cultures and ages to enhance their tourism experience in Japan.
+- **[lucide](https://github.com/lucide-icons/lucide)** - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.  
+  ![](https://img.shields.io/github/stars/lucide-icons/lucide?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/lucide-icons/lucide?style=social&label=Update)
