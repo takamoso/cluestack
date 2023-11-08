@@ -63,6 +63,7 @@
 
 - **[Base64 Image Encoder](https://www.base64-image.de)** - Optimize your images and convert them to base64 online. Drag & Drop your files, copy to clipboard with a click and use the result in HTML and CSS.
 - **[vectormaker](https://vectormaker.co)** - Convert images to SVG vectors, PNG-to-SVG Vectors. Vectormaker outlines your pixel based images and turns them into colored SVG vector files.
+- **[Vectorizer.AI](https://vectorizer.ai)** - Trace pixels to vectors in full color using AI.
 - **[PicWish](https://picwish.com/jp/remove-background)** - Free photo and image background cropping online tool. It automatically recognizes the background of an image or photo and neatly removes it and makes it transparent; based on AI technology, it crops almost everything with high accuracy, including people, products, animals, logos, watermarks, watermarks, etc.
 - **[SVG Crop](https://svgcrop.com)** - Remove blank space from around any SVG instantly.
 - **[SVGOMG](https://jakearchibald.github.io/svgomg)** - Easy & visual compression of SVG images.
