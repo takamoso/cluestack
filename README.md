@@ -37,6 +37,10 @@
   - [Fonts](media/generators.md#fonts)
   - [Performance](media/generators.md#performance)
   - [GitHub](media/generators.md#github)
+- [Web Design](media/web-design.md)
+  - [Practicing](media/web-design.md#practicing)
+  - [Galleries](media/web-design.md#galleries)
+  - [Parts](media/web-design.md#parts)
 
 ## Contents
 
@@ -592,28 +596,3 @@ Kanji characters are included up to the first level.
 
 - [PixelZoomer](https://chrome.google.com/webstore/detail/pixelzoomer/fogkjckfkdcnmnnfmbieljpkmmihhpao) - PixelZoomer takes a website screenshot and provides a measuring tool, a zoom and an eye dropper.
 - [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) - This extension measures the Core Web Vitals, providing instant feedback on loading, interactivity and layout shift metrics. It is consistent with how these metrics are measured by Chrome and reported to other Google tools.
-
-
-## Web Design
-
-### Practicing
-
-- **[Codejump](https://code-jump.com)** - This is a coding learning site for those who have completed basic learning of HTML, CSS, and JavaScript to acquire more practical website production skills through copy coding and coding practice from design compilations.
-
-### Galleries
-
-- [I/O 3000](https://io3000.com/) - This is a web design gallery site for people involved in web design. We have selected sites, both domestic and international, that can be used as a reference for web production.
-- [MUUUUU.ORG](https://muuuuu.org/) - This is a site that collects links to high quality web designs with long and narrow layouts that can be used as a reference in web production.
-- [ちょうどいいWebデザインギャラリー](https://choooodoii.com/) - This is a new type of website gallery collection that focuses on the viewpoints of creators involved in web production as "just the right points" to gain new perspectives.
-- [Check WebTech](https://cwt.jp/) - A collection of website links focusing on technologies for adoption. A gallery of websites that can be used as a reference for trend research, technology selection, web design, coding, and development.
-- [Awwwards](https://www.awwwards.com/) - The awards of design, creativity and innovation on the internet.
-- [URAGAWA](https://uragawa.work/) - Collection of web design galleries and reference sites where you can see the creativity of Japan's top-class production and business companies, including "which company made it.
-- [デザインのこと](https://designnokoto.com) - We collect domestic and international web designs, "stylish" websites that are responsive and easy to view on PCs, tablets, and smartphones.
-- **[Siteinspire](https://www.siteinspire.com)** - Siteinspire is a showcase of the finest web and interactive design.
-- **[Httpster](https://httpster.net)** - The best website design inspiration. Get inspired by our gallery of creative design ideas and great examples of beautiful award-winning sites.
-- **[Minimal Gallery](https://minimal.gallery)** - Hand-picked design inspiration, curated daily.
-
-### Parts
-
-- [UI LIBRARY](https://design-library.jp/ui/) - Gallery site of good quality designs organized by UI parts.
-- [Modulesss…](https://modulesss.com/) - This is a gallery site of "parts" such as charts and headlines for Web sites.
