@@ -7,6 +7,7 @@
 ## Practicing
 
 - **[Codejump](https://code-jump.com)** - This is a coding learning site for those who have completed basic learning of HTML, CSS, and JavaScript to acquire more practical website production skills through copy coding and coding practice from design compilations.
+- **[無料コーディング練習所](https://webdesigner-go.com/coding-practice)** - This is a completely free coding material. The curriculum is designed to help you acquire basic skills in HTML, CSS, and jQuery by coding 6 sites from introductory to advanced level. Come on, let's study together while having fun!
 
 ## Galleries
 
