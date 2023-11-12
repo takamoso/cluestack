@@ -11,6 +11,7 @@
 - **[模写修行](https://moshashugyo.com)** - Sells practical coding practice materials to experience the working level.
 - **[PENGIN BLOG](https://pengi-n.co.jp/blog/coding-distribution)** - We distribute and publish design comps and explanatory articles free of charge for those learning to code with no experience.
 - **[Web鍛](https://webtan.tech/category/training/cording)** - Free design comps images are available.
+- **[吉川ウェブ](https://yoshikawaweb.com/html-css-stepup.html)** - Practice exercises to level up your HTML and CSS skills.
 
 ## Galleries
 
