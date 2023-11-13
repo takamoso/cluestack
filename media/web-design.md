@@ -13,6 +13,7 @@
 - **[Web鍛](https://webtan.tech/category/training/cording)** - Free design comps images are available.
 - **[吉川ウェブ](https://yoshikawaweb.com/html-css-stepup.html)** - Practice exercises to level up your HTML and CSS skills.
 - **[Shogo](https://note.com/samuraibrass/n/n793ab571a88e)** - Coding practice from design comps.
+- **[ひらともや](https://note.com/tmy_schaf/n/n49a9b727c5b1)** - LP design for florist for coding practice.
 
 ## Galleries
 
