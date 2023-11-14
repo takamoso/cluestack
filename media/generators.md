@@ -54,6 +54,7 @@
 - **[CSS Text Shadow Generator](https://cssbud.com/css-generator/css-text-shadow-generator)** - A simple generator that creates code for the CSS text shadow. Just add your variables using the slider, adjust to your liking, and copy the code.
 - **[CSS Text Glow Generator](https://cssbud.com/css-generator/css-text-glow-generator)** - The best place for CSS text glow - just change the values of the sliders, copy the code, and you're done! Enjoy your CSS glows!
 - **[Smooth Shadow](https://shadows.brumm.af)** - Make a smooth css shadow.
+- **[CSS Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette)** - Friendly tutorials for developers. Focus on React, CSS, Animation, and more!
 - **[CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients)** - Generate gradients for your shadows with pure CSS. This generator makes it easy for you.
 - **[CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator)** - A modern and clearn CSS Glow Generator. Custom colors, transparency, and blurs for your creative needs. Enjoy!
 - **[CSS Box Shadow Generator](https://cssbud.com/css-generator/css-box-shadow-generator)** - The best, cleanest and most modern CSS Box Shadow Generator on the Internet. We allow custom colors, transparency, and blurs for your creative needs. Enjoy!
