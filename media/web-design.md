@@ -19,6 +19,7 @@
 
 - **[I/O 3000](https://io3000.com)** - This is a web design gallery site for people involved in web design. We have selected sites, both domestic and international, that can be used as a reference for web production.
 - **[MUUUUU.ORG](https://muuuuu.org)** - This is a site that collects links to high quality web designs with long and narrow layouts that can be used as a reference in web production.
+- **[SANKOU!](https://sankoudesign.com)** - A gallery and link collection of Japanese websites and LPs that can be used as reference for web design production. Selected stylish sites!
 - **[ちょうどいいWebデザインギャラリー](https://choooodoii.com)** - This is a new type of website gallery collection that focuses on the viewpoints of creators involved in web production as "just the right points" to gain new perspectives.
 - **[Check WebTech](https://cwt.jp)** - A collection of website links focusing on technologies for adoption. A gallery of websites that can be used as a reference for trend research, technology selection, web design, coding, and development.
 - **[URAGAWA](https://uragawa.work)** - Collection of web design galleries and reference sites where you can see the creativity of Japan's top-class production and business companies, including "which company made it.
