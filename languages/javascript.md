@@ -65,6 +65,7 @@
 
 ## Polyfills
 
+- **[scroll-timeline](https://github.com/flackr/scroll-timeline)** - A polyfill of ScrollTimeline.
 - **[scrollyfills](https://github.com/argyleink/scrollyfills)** - grab and go polyfill functions for web scroll features.  
   ![](https://img.shields.io/github/stars/argyleink/scrollyfills?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/argyleink/scrollyfills?style=social&label=Update)
