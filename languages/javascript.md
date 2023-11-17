@@ -2,6 +2,7 @@
 
 - [UI Components](#ui-components)
 - [Editors](#editors)
+- [Animations](#animations)
 - [Video](#video)
 - [Audio](#audio)
 - [Polyfills](#polyfills)
@@ -38,6 +39,27 @@
 - **[ckeditor5](https://github.com/ckeditor/ckeditor5)** - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.  
   ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=social&label=Update)
+
+## Animations
+
+- **[motionone](https://github.com/motiondivision/motionone)** - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.  
+  ![](https://img.shields.io/github/stars/motiondivision/motionone?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/motiondivision/motionone?style=social&label=Update)
+- **[scenejs](https://github.com/daybrush/scenejs)** - Scene.js is JavaScript & CSS timeline-based animation library.  
+  ![](https://img.shields.io/github/stars/daybrush/scenejs?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/daybrush/scenejs?style=social&label=Update)
+- **[vivus](https://github.com/maxwellito/vivus)** - JavaScript library to make drawing animation on SVG.  
+  ![](https://img.shields.io/github/stars/maxwellito/vivus?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/maxwellito/vivus?style=social&label=Update)
+- **[rough-notation](https://github.com/rough-stuff/rough-notation)** - Create and animate hand-drawn annotations on a web page.  
+  ![](https://img.shields.io/github/stars/rough-stuff/rough-notation?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/rough-stuff/rough-notation?style=social&label=Update)
+- **[granim.js](https://github.com/sarcadass/granim.js)** - Create fluid and interactive gradient animations with this small javascript library.  
+  ![](https://img.shields.io/github/stars/sarcadass/granim.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sarcadass/granim.js?style=social&label=Update)
+- **[url-animations](https://github.com/LunarFang416/url-animations)** - Add loading animations to your website in your browser URL field.  
+  ![](https://img.shields.io/github/stars/LunarFang416/url-animations?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/LunarFang416/url-animations?style=social&label=Update)
 
 ## Video
 
