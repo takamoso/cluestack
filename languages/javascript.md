@@ -1,11 +1,18 @@
 # JavaScript
 
+- [Headless UI](#headless-ui)
 - [UI Components](#ui-components)
 - [Editors](#editors)
 - [Animations](#animations)
 - [Video](#video)
 - [Audio](#audio)
 - [Polyfills](#polyfills)
+
+## Headless UI
+
+- **[ark](https://github.com/chakra-ui/ark)** - Universal headless UI components for the web. Powered by Zag.js.  
+  ![](https://img.shields.io/github/stars/chakra-ui/ark?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/chakra-ui/ark?style=social&label=Update)
 
 ## UI Components
 

@@ -15,6 +15,7 @@
   - [Reset and Normalize](languages/css.md#reset-and-normalize)
   - [Polyfills](languages/css.md#polyfills)
 - [JavsScript](languages/javascript.md)
+  - [Headless UI](languages/javascript.md#headless-ui)
   - [UI Components](languages/javascript.md#ui-components)
   - [Editors](languages/javascript.md#editors)
   - [Animations](languages/javascript.md#animations)
@@ -196,12 +197,6 @@
 - **[tauri](https://github.com/tauri-apps/tauri)** - Build smaller, faster, and more secure desktop applications with a web frontend.  
   ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/tauri-apps/tauri?style=social&label=Update)
-
-### Headless UI
-
-- **[ark](https://github.com/chakra-ui/ark)** - Universal headless UI components for the web. Powered by Zag.js.  
-  ![](https://img.shields.io/github/stars/chakra-ui/ark?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/chakra-ui/ark?style=social&label=Update)
 
 ### Collections
 
