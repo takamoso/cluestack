@@ -78,6 +78,7 @@
 
 - **[CodeImage](https://codeimage.dev)** - CodeImage is the newest tool to help developers to manage their snippets and create beautiful screenshots of their source code.
 - **[snappify](https://snappify.com)** - A powerful design tool to animate your code snippets in various ways.
+- **[CSS to Tailwind Converter](https://www.loopple.com/tools/css-to-tailwind-converter)** - Effortlessly use the CSS to Tailwind Converter to convert your CSS styles to Tailwind CSS classes for efficient and streamlined web development.
 
 ## Mockup
 
