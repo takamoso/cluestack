@@ -54,6 +54,9 @@
 - **[rough-notation](https://github.com/rough-stuff/rough-notation)** - Create and animate hand-drawn annotations on a web page.  
   ![](https://img.shields.io/github/stars/rough-stuff/rough-notation?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/rough-stuff/rough-notation?style=social&label=Update)
+- **[typed.js](https://github.com/mattboldt/typed.js)** - A JavaScript Typing Animation Library.  
+  ![](https://img.shields.io/github/stars/mattboldt/typed.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/mattboldt/typed.js?style=social&label=Update)
 - **[granim.js](https://github.com/sarcadass/granim.js)** - Create fluid and interactive gradient animations with this small javascript library.  
   ![](https://img.shields.io/github/stars/sarcadass/granim.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/sarcadass/granim.js?style=social&label=Update)
