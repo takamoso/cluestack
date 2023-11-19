@@ -32,6 +32,9 @@
 
 ## Menus
 
+- **[mmenu-js](https://github.com/FrDH/mmenu-js)** - The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.  
+  ![](https://img.shields.io/github/stars/FrDH/mmenu-js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/FrDH/mmenu-js?style=social&label=Update)
 - **[kmenu](https://github.com/harshhhdev/kmenu)** - An animated and accessible command menu.  
   ![](https://img.shields.io/github/stars/harshhhdev/kmenu?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/harshhhdev/kmenu?style=social&label=Update)
