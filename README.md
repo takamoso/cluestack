@@ -17,6 +17,7 @@
 - [JavsScript](languages/javascript.md)
   - [Headless UI](languages/javascript.md#headless-ui)
   - [UI Components](languages/javascript.md#ui-components)
+  - [Menus](languages/javascript.md#menus)
   - [Editors](languages/javascript.md#editors)
   - [Animations](languages/javascript.md#animations)
   - [Video](languages/javascript.md#video)
@@ -213,12 +214,6 @@
 - **[flowrift](https://github.com/n6ai/flowrift)** - Beautifully designed Tailwind CSS UI blocks.  
   ![](https://img.shields.io/github/stars/n6ai/flowrift?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/n6ai/flowrift?style=social&label=Update)
-
-### Menus
-
-- **[kmenu](https://github.com/harshhhdev/kmenu)** - An animated and accessible command menu.  
-  ![](https://img.shields.io/github/stars/harshhhdev/kmenu?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/harshhhdev/kmenu?style=social&label=Update)
 
 ### Modal
 

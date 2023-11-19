@@ -2,6 +2,7 @@
 
 - [Headless UI](#headless-ui)
 - [UI Components](#ui-components)
+- [Menus](#menus)
 - [Editors](#editors)
 - [Animations](#animations)
 - [Video](#video)
@@ -28,6 +29,12 @@
 - **[mantine](https://github.com/mantinedev/mantine)** - A fully featured React components library.  
   ![](https://img.shields.io/github/stars/mantinedev/mantine?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/mantinedev/mantine?style=social&label=Update)
+
+## Menus
+
+- **[kmenu](https://github.com/harshhhdev/kmenu)** - An animated and accessible command menu.  
+  ![](https://img.shields.io/github/stars/harshhhdev/kmenu?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/harshhhdev/kmenu?style=social&label=Update)
 
 ## Editors
 
