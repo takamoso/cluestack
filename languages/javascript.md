@@ -97,6 +97,9 @@
 - **[background-removal-js](https://github.com/imgly/background-removal-js)** - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns.  
   ![](https://img.shields.io/github/stars/imgly/background-removal-js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/imgly/background-removal-js?style=social&label=Update)
+- **[image-dimensions](https://github.com/sindresorhus/image-dimensions)** - Get the dimensions of an image.  
+  ![](https://img.shields.io/github/stars/sindresorhus/image-dimensions?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/image-dimensions?style=social&label=Update)
 - **[sharp](https://github.com/lovell/sharp)** - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.  
   ![](https://img.shields.io/github/stars/lovell/sharp?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/lovell/sharp?style=social&label=Update)
