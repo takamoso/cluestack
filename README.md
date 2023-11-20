@@ -22,6 +22,7 @@
   - [Animations](languages/javascript.md#animations)
   - [Video](languages/javascript.md#video)
   - [Audio](languages/javascript.md#audio)
+  - [Detection](languages/javascript.md#detection)
   - [Polyfills](languages/javascript.md#polyfills)
 
 ## Media
@@ -292,9 +293,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - **[lenis]()** - How smooth scroll should be.  
   ![](https://img.shields.io/github/stars/studio-freight/lenis?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/studio-freight/lenis?style=social&label=Update)
-- **[detect-scroll](https://github.com/egstad-construct/detect-scroll)** - A performant and lightweight (~1.6kb) ES6 module for detecting scroll activity (direction + location) for X and/or Y axis.  
-  ![](https://img.shields.io/github/stars/egstad-construct/detect-scroll?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/egstad-construct/detect-scroll?style=social&label=Update)
 
 ### Drag
 
@@ -395,12 +393,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - **[article-extractor](https://github.com/extractus/article-extractor)** - To extract main article from given URL with Node.js.  
   ![](https://img.shields.io/github/stars/extractus/article-extractor?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/extractus/article-extractor?style=social&label=Update)
-
-### Detections
-
-- **[what-input](https://github.com/ten1seven/what-input)** - A global utility for tracking the current input method (mouse/pointer, keyboard or touch).  
-  ![](https://img.shields.io/github/stars/ten1seven/what-input?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/ten1seven/what-input?style=social&label=Update)
 
 ### Performance
 
