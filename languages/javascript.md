@@ -5,6 +5,7 @@
 - [Menus](#menus)
 - [Editors](#editors)
 - [Animations](#animations)
+- [Images](#images)
 - [Video](#video)
 - [Audio](#audio)
 - [Detection](#detection)
@@ -81,6 +82,24 @@
 - **[url-animations](https://github.com/LunarFang416/url-animations)** - Add loading animations to your website in your browser URL field.  
   ![](https://img.shields.io/github/stars/LunarFang416/url-animations?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/LunarFang416/url-animations?style=social&label=Update)
+
+## Images
+
+- **[node-vibrant](https://github.com/Vibrant-Colors/node-vibrant)** - Extract prominent colors from an image.  
+  ![](https://img.shields.io/github/stars/Vibrant-Colors/node-vibrant?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/Vibrant-Colors/node-vibrant?style=social&label=Update)
+- **[fast-average-color](https://github.com/fast-average-color/fast-average-color)** - Fast Average Color.  
+  ![](https://img.shields.io/github/stars/fast-average-color/fast-average-color?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/fast-average-color/fast-average-color?style=social&label=Update)
+- **[cropperjs](https://github.com/fengyuanchen/cropperjs)** - JavaScript image cropper.  
+  ![](https://img.shields.io/github/stars/fengyuanchen/cropperjs?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/fengyuanchen/cropperjs?style=social&label=Update)
+- **[background-removal-js](https://github.com/imgly/background-removal-js)** - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns.  
+  ![](https://img.shields.io/github/stars/imgly/background-removal-js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/imgly/background-removal-js?style=social&label=Update)
+- **[sharp](https://github.com/lovell/sharp)** - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.  
+  ![](https://img.shields.io/github/stars/lovell/sharp?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/lovell/sharp?style=social&label=Update)
 
 ## Video
 

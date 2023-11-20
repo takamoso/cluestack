@@ -20,6 +20,7 @@
   - [Menus](languages/javascript.md#menus)
   - [Editors](languages/javascript.md#editors)
   - [Animations](languages/javascript.md#animations)
+  - [Images](languages/javascript.md#images)
   - [Video](languages/javascript.md#video)
   - [Audio](languages/javascript.md#audio)
   - [Detection](languages/javascript.md#detection)
@@ -350,14 +351,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - **[fontsource](https://github.com/fontsource/fontsource)** - Self-host Open Source fonts in neatly bundled NPM packages.  
   ![](https://img.shields.io/github/stars/fontsource/fontsource?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fontsource/fontsource?style=social&label=Update)
-
-### Images
-
-- <a href="https://github.com/Vibrant-Colors/node-vibrant">Vibrant-Colors/<b>node-vibrant</b></a> - Extract prominent colors from an image.
-- <a href="https://github.com/fengyuanchen/cropperjs">fengyuanchen/<b>cropperjs</b></a> - JavaScript image cropper.
-- <a href="https://github.com/lovell/sharp">lovell/<b>sharp</b></a> - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- <a href="https://github.com/fast-average-color/fast-average-color">fast-average-color/<b>fast-average-color</b></a> - Fast Average Color.
-- <a href="https://github.com/imgly/background-removal-js">imgly/<b>background-removal-js</b></a> - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 
 ### Search
 
