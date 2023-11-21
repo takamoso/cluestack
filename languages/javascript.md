@@ -9,6 +9,8 @@
 - [Video](#video)
 - [Audio](#audio)
 - [Detection](#detection)
+- [Utilities](#utilities)
+  - [Object](#object)
 - [Polyfills](#polyfills)
 
 ## Headless UI
@@ -136,6 +138,14 @@
 - **[detect-scroll](https://github.com/egstad-construct/detect-scroll)** - A performant and lightweight (~1.6kb) ES6 module for detecting scroll activity (direction + location) for X and/or Y axis.  
   ![](https://img.shields.io/github/stars/egstad-construct/detect-scroll?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/egstad-construct/detect-scroll?style=social&label=Update)
+
+## Utilities
+
+### Object
+
+- **[wild-wild-path](https://github.com/ehmicky/wild-wild-path)** - Object property paths with wildcards and regexps.  
+  ![](https://img.shields.io/github/stars/ehmicky/wild-wild-path?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ehmicky/wild-wild-path?style=social&label=Update)
 
 ## Polyfills
 

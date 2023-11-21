@@ -24,6 +24,8 @@
   - [Video](languages/javascript.md#video)
   - [Audio](languages/javascript.md#audio)
   - [Detection](languages/javascript.md#detection)
+  - [Utilities](languages/javascript.md#utilities)
+    - [Object](languages/javascript.md#object)
   - [Polyfills](languages/javascript.md#polyfills)
 
 ## Media
