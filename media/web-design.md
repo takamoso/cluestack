@@ -8,6 +8,7 @@
 
 - **[Codejump](https://code-jump.com)** - This is a coding learning site for those who have completed basic learning of HTML, CSS, and JavaScript to acquire more practical website production skills through copy coding and coding practice from design compilations.
 - **[無料コーディング練習所](https://webdesigner-go.com/coding-practice)** - This is a completely free coding material. The curriculum is designed to help you acquire basic skills in HTML, CSS, and jQuery by coding 6 sites from introductory to advanced level. Come on, let's study together while having fun!
+- **[未経験からWebデザイナーへ！](https://webdesigner-go.com/template)** - We distribute templates and materials useful for design and coding. We will be adding more and more HTML templates for portfolio sites, PSD templates as a base for creating artwork, and even materials for New Year's cards.
 - **[模写修行](https://moshashugyo.com)** - Sells practical coding practice materials to experience the working level.
 - **[PENGIN BLOG](https://pengi-n.co.jp/blog/coding-distribution)** - We distribute and publish design comps and explanatory articles free of charge for those learning to code with no experience.
 - **[Web鍛](https://webtan.tech/category/training/cording)** - Free design comps images are available.
