@@ -73,6 +73,9 @@
   - **[postcss-relative-color-syntax](https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-relative-color-syntax)** - Use the relative color syntax in CSS color functions.
   - **[postcss-font-family-system-ui](https://github.com/JLHwung/postcss-font-family-system-ui)** - Use system-ui in CSS.
   - **[postcss-unset-value](https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-unset-value)** - Use the unset keyword.
+- **[css-anchor-positioning](https://github.com/oddbird/css-anchor-positioning)** - Polyfill for CSS Anchor Positioning.  
+  ![](https://img.shields.io/github/stars/oddbird/css-anchor-positioning?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/oddbird/css-anchor-positioning?style=social&label=Update)
 - **[scroll-timeline](https://github.com/flackr/scroll-timeline)** - A polyfill of ScrollTimeline.  
   ![](https://img.shields.io/github/stars/flackr/scroll-timeline?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/flackr/scroll-timeline?style=social&label=Update)
