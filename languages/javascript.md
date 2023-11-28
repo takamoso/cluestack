@@ -2,6 +2,7 @@
 
 - [Headless UI](#headless-ui)
 - [UI Components](#ui-components)
+- [Typography](#typography)
 - [Menus](#menus)
 - [Editors](#editors)
 - [Animations](#animations)
@@ -33,6 +34,12 @@
 - **[mantine](https://github.com/mantinedev/mantine)** - A fully featured React components library.  
   ![](https://img.shields.io/github/stars/mantinedev/mantine?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/mantinedev/mantine?style=social&label=Update)
+
+## Typography
+
+- **[react-wrap-balancer](https://github.com/shuding/react-wrap-balancer)** - Simple React Component That Makes Titles More Readable.  
+  ![](https://img.shields.io/github/stars/shuding/react-wrap-balancer?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/shuding/react-wrap-balancer?style=social&label=Update)
 
 ## Menus
 

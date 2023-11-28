@@ -17,6 +17,7 @@
 - [JavsScript](languages/javascript.md)
   - [Headless UI](languages/javascript.md#headless-ui)
   - [UI Components](languages/javascript.md#ui-components)
+  - [Typography](languages/javascript.md#typography)
   - [Menus](languages/javascript.md#menus)
   - [Editors](languages/javascript.md#editors)
   - [Animations](languages/javascript.md#animations)
@@ -302,7 +303,7 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - **[neodrag](https://github.com/PuruVJ/neodrag)** - One Draggable to rule them all.  
   ![](https://img.shields.io/github/stars/PuruVJ/neodrag?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/PuruVJ/neodrag?style=social&label=Update)
- 
+
 ### Charts
 
 - **[js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)** - A visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.  
