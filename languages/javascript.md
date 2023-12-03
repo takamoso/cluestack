@@ -34,6 +34,7 @@
 - **[mantine](https://github.com/mantinedev/mantine)** - A fully featured React components library.  
   ![](https://img.shields.io/github/stars/mantinedev/mantine?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/mantinedev/mantine?style=social&label=Update)
+- **[ariakit](https://github.com/ariakit/ariakit)** - Toolkit for building accessible web apps with React.
 
 ## Typography
 
