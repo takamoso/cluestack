@@ -162,6 +162,9 @@
 - **[scrollyfills](https://github.com/argyleink/scrollyfills)** - grab and go polyfill functions for web scroll features.  
   ![](https://img.shields.io/github/stars/argyleink/scrollyfills?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/argyleink/scrollyfills?style=social&label=Update)
+- **[urlpattern-polyfill](https://github.com/kenchris/urlpattern-polyfill)** - This is a polyfill for the URLPattern API so that the feature is available in browsers that don't support it natively.  
+  ![](https://img.shields.io/github/stars/kenchris/urlpattern-polyfill?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/kenchris/urlpattern-polyfill?style=social&label=Update)
 - **[clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill)** - Simple copying on the web, with maximum browser compatibility. (You probably don't need this anymore!)  
   ![](https://img.shields.io/github/stars/lgarron/clipboard-polyfill?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/lgarron/clipboard-polyfill?style=social&label=Update)
