@@ -39,6 +39,7 @@
   - [Backgrounds](media/generators.md#backgrounds)
   - [Gradients](media/generators.md#gradients)
   - [Shadows](media/generators.md#shadows)
+  - [Animations](media/generators.md#animations)
   - [Images](media/generators.md#images)
   - [Code](media/generators.md#code)
   - [Mockup](media/generators.md#mockup)
