@@ -37,6 +37,9 @@
 - **[ariakit](https://github.com/ariakit/ariakit)** - Toolkit for building accessible web apps with React.  
   ![](https://img.shields.io/github/stars/ariakit/ariakit?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/ariakit/ariakit?style=social&label=Update)
+- **[nextui](https://github.com/nextui-org/nextui)** - Beautiful, fast and modern React UI library.  
+  ![](https://img.shields.io/github/stars/nextui-org/nextui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/nextui-org/nextui?style=social&label=Update)
 - **[melt-ui](https://github.com/melt-ui/melt-ui)** - A set of headless, accessible component builders for Svelte.  
   ![](https://img.shields.io/github/stars/melt-ui/melt-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/melt-ui/melt-ui?style=social&label=Update)
