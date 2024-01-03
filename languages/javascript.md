@@ -40,6 +40,9 @@
 - **[nextui](https://github.com/nextui-org/nextui)** - Beautiful, fast and modern React UI library.  
   ![](https://img.shields.io/github/stars/nextui-org/nextui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/nextui-org/nextui?style=social&label=Update)
+- **[yamada-ui](https://github.com/hirotomoyamada/yamada-ui)** - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.  
+  ![](https://img.shields.io/github/stars/hirotomoyamada/yamada-ui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/hirotomoyamada/yamada-ui?style=social&label=Update)
 - **[melt-ui](https://github.com/melt-ui/melt-ui)** - A set of headless, accessible component builders for Svelte.  
   ![](https://img.shields.io/github/stars/melt-ui/melt-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/melt-ui/melt-ui?style=social&label=Update)
