@@ -50,6 +50,7 @@
   - [Practicing](media/web-design.md#practicing)
   - [Galleries](media/web-design.md#galleries)
   - [Parts](media/web-design.md#parts)
+- [Guidelines](media/guidelines.md)
 
 ## Contents
 
@@ -103,7 +104,6 @@
   - [Util](#util)
   - [Polyfill](#polyfill)
 - [AI](#ai)
-- [Guidelines](#guidelines)
 - [Dataset](#dataset)
 - [API](#api)
 - [Media](#media)
@@ -476,14 +476,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 ## AI
 
 - **[japanese-stablelm-instruct-alpha-7b-v2](https://huggingface.co/stabilityai/japanese-stablelm-instruct-alpha-7b-v2)** - A 7B parameter decoder-only language models pre-trained built on top of the Japanese-StableLM-Base-Alpha-7B model and further fine-tuned on various instruction-following datasets.
-
-
-## Guidelines
-
-- **[SmartHR Design System](https://smarthr.design)** - It is a design system that allows anyone to create SmartHR-like expressions efficiently and without hesitation.
-- **[LIFULLアクセシビリティガイドライン](https://lifull.github.io/accessibility-guidelines)** - Formulated to facilitate access to all LIFULL products and services.
-- **[デジタル庁デザインシステム](https://www.digital.go.jp/policies/servicedesign/designsystem)** - As a command post for the formation of a digital society, the Digital Agency will boldly promote future-oriented DX, aiming to create the infrastructure for the public and private sectors in the digital age in a single stroke over the next five years.
-- **[GOV.UK Design System](https://design-system.service.gov.uk)** - Design your service using GOV.UK styles, components and patterns.
 
 
 ## Dataset
