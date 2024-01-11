@@ -29,6 +29,9 @@
 - **[pines](https://github.com/thedevdojo/pines)** - The Pines UI library.  
   ![](https://img.shields.io/github/stars/thedevdojo/pines?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/thedevdojo/pines?style=social&label=Update)
+- **[floatui](https://github.com/MarsX-dev/floatui)** - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.  
+  ![](https://img.shields.io/github/stars/MarsX-dev/floatui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/MarsX-dev/floatui?style=social&label=Update)
 - **[framework7](https://github.com/framework7io/framework7)** - Full featured HTML framework for building iOS & Android apps.  
   ![](https://img.shields.io/github/stars/framework7io/framework7?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/framework7io/framework7?style=social&label=Update)
