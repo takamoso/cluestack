@@ -2,6 +2,7 @@
 
 - [Headless UI](#headless-ui)
 - [UI Components](#ui-components)
+- [Web Components](#web-components)
 - [Typography](#typography)
 - [Menus](#menus)
 - [Editors](#editors)
@@ -52,6 +53,12 @@
 - **[melt-ui](https://github.com/melt-ui/melt-ui)** - A set of headless, accessible component builders for Svelte.  
   ![](https://img.shields.io/github/stars/melt-ui/melt-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/melt-ui/melt-ui?style=social&label=Update)
+
+# Web Components
+
+- **[better-select](https://github.com/siit-dev/better-select)** - A web component for a better select tag.  
+  ![](https://img.shields.io/github/stars/siit-dev/better-select?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/siit-dev/better-select?style=social&label=Update)
 
 ## Typography
 

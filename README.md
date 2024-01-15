@@ -17,6 +17,7 @@
 - [JavsScript](languages/javascript.md)
   - [Headless UI](languages/javascript.md#headless-ui)
   - [UI Components](languages/javascript.md#ui-components)
+  - [Web Components](languages/javascript.md#web-components)
   - [Typography](languages/javascript.md#typography)
   - [Menus](languages/javascript.md#menus)
   - [Editors](languages/javascript.md#editors)
