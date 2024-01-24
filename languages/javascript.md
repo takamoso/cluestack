@@ -54,7 +54,7 @@
   ![](https://img.shields.io/github/stars/melt-ui/melt-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/melt-ui/melt-ui?style=social&label=Update)
 
-# Web Components
+## Web Components
 
 - **[better-select](https://github.com/siit-dev/better-select)** - A web component for a better select tag.  
   ![](https://img.shields.io/github/stars/siit-dev/better-select?style=social&label=Star)
