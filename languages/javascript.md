@@ -59,6 +59,9 @@
 - **[better-select](https://github.com/siit-dev/better-select)** - A web component for a better select tag.  
   ![](https://img.shields.io/github/stars/siit-dev/better-select?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/siit-dev/better-select?style=social&label=Update)
+- **[qr-code](https://github.com/bitjson/qr-code)** - A no-framework, no-dependencies, customizable, animate-able, SVG-based &lt;qr-code&gt; HTML element.  
+  ![](https://img.shields.io/github/stars/bitjson/qr-code?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/bitjson/qr-code?style=social&label=Update)
 
 ## Typography
 
