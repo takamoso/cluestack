@@ -3,6 +3,7 @@
 - [Headless UI](#headless-ui)
 - [UI Components](#ui-components)
 - [Web Components](#web-components)
+- [Sliders](#sliders)
 - [Typography](#typography)
 - [Menus](#menus)
 - [Editors](#editors)
@@ -65,6 +66,24 @@
 - **[qr-code](https://github.com/bitjson/qr-code)** - A no-framework, no-dependencies, customizable, animate-able, SVG-based &lt;qr-code&gt; HTML element.  
   ![](https://img.shields.io/github/stars/bitjson/qr-code?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/bitjson/qr-code?style=social&label=Update)
+
+## Sliders
+
+- **[Swiper](https://github.com/nolimits4web/Swiper)** - Most modern mobile touch slider with hardware accelerated transitions.  
+  ![](https://img.shields.io/github/stars/nolimits4web/Swiper?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/nolimits4web/Swiper?style=social&label=Update)
+- **[splide](https://github.com/Splidejs/splide)** - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.  
+  ![](https://img.shields.io/github/stars/Splidejs/splide?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/Splidejs/splide?style=social&label=Update)
+- **[keen-slider](https://github.com/rcbyr/keen-slider)** - The HTML touch slider carousel with the most native feeling you will get.  
+  ![](https://img.shields.io/github/stars/rcbyr/keen-slider?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/rcbyr/keen-slider?style=social&label=Update)
+- **[glide](https://github.com/glidejs/glide)** - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more.  
+  ![](https://img.shields.io/github/stars/glidejs/glide?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/glidejs/glide?style=social&label=Update)
+- **[reveal.js](https://github.com/hakimel/reveal.js)** - The HTML Presentation Framework.  
+  ![](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/hakimel/reveal.js?style=social&label=Update)
 
 ## Typography
 

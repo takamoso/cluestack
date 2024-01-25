@@ -18,6 +18,7 @@
   - [Headless UI](languages/javascript.md#headless-ui)
   - [UI Components](languages/javascript.md#ui-components)
   - [Web Components](languages/javascript.md#web-components)
+  - [Sliders](languages/javascript.md#sliders)
   - [Typography](languages/javascript.md#typography)
   - [Menus](languages/javascript.md#menus)
   - [Editors](languages/javascript.md#editors)
@@ -70,7 +71,6 @@
   - [Collections](#collections)
   - [Menus](#menus)
   - [Modal](#modal)
-  - [Sliders](#sliders)
   - [Form](#form)
     - [Input](#input)
     - [Validation](#validation)
@@ -230,24 +230,6 @@
 - **[a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog)** - A very lightweight and flexible accessible modal dialog script.  
   ![](https://img.shields.io/github/stars/KittyGiraudel/a11y-dialog?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/KittyGiraudel/a11y-dialog?style=social&label=Update)
-
-### Sliders
-
-- **[Swiper](https://github.com/nolimits4web/Swiper)** - Most modern mobile touch slider with hardware accelerated transitions.  
-  ![](https://img.shields.io/github/stars/nolimits4web/Swiper?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/nolimits4web/Swiper?style=social&label=Update)
-- **[splide](https://github.com/Splidejs/splide)** - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.  
-  ![](https://img.shields.io/github/stars/Splidejs/splide?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/Splidejs/splide?style=social&label=Update)
-- **[keen-slider](https://github.com/rcbyr/keen-slider)** - The HTML touch slider carousel with the most native feeling you will get.  
-  ![](https://img.shields.io/github/stars/rcbyr/keen-slider?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/rcbyr/keen-slider?style=social&label=Update)
-- **[glide](https://github.com/glidejs/glide)** - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more.  
-  ![](https://img.shields.io/github/stars/glidejs/glide?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/glidejs/glide?style=social&label=Update)
-- **[reveal.js](https://github.com/hakimel/reveal.js)** - The HTML Presentation Framework.  
-  ![](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/hakimel/reveal.js?style=social&label=Update)
 
 ### Form
 
