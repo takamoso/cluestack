@@ -81,6 +81,9 @@
 - **[glide](https://github.com/glidejs/glide)** - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more.  
   ![](https://img.shields.io/github/stars/glidejs/glide?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/glidejs/glide?style=social&label=Update)
+- **[slider](https://github.com/p-m-p/slider)** - A modern, light weight content slider.  
+  ![](https://img.shields.io/github/stars/p-m-p/slider?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/p-m-p/slider?style=social&label=Update)
 - **[reveal.js](https://github.com/hakimel/reveal.js)** - The HTML Presentation Framework.  
   ![](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/hakimel/reveal.js?style=social&label=Update)
