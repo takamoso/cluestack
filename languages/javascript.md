@@ -11,6 +11,7 @@
 - [Images](#images)
 - [Video](#video)
 - [Audio](#audio)
+- [Charts](#charts)
 - [Detection](#detection)
 - [Utilities](#utilities)
   - [Object](#object)
@@ -189,6 +190,12 @@
 - **[siriwave](https://github.com/kopiro/siriwave)** - The Apple® Siri wave-form replicated in a JS library.  
   ![](https://img.shields.io/github/stars/kopiro/siriwave?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/kopiro/siriwave?style=social&label=Update)
+
+## Charts
+
+- **[Heat.js](https://github.com/williamtroup/Heat.js)** - A lightweight JavaScript library that generates customizable heat maps and charts to visualize date-based activity and trends.  
+  ![](https://img.shields.io/github/stars/williamtroup/Heat.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/williamtroup/Heat.js?style=social&label=Update)
 
 ## Detection
 
