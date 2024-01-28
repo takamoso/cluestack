@@ -80,7 +80,6 @@
   - [Syntax Highlighting](#syntax-highlighting)
   - [Scroll](#scroll)
   - [Drag](#drag)
-  - [Charts](#charts)
   - [SVG](#svg)
   - [Canvas](#canvas)
   - [Animations](#animations)
@@ -288,15 +287,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - **[neodrag](https://github.com/PuruVJ/neodrag)** - One Draggable to rule them all.  
   ![](https://img.shields.io/github/stars/PuruVJ/neodrag?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/PuruVJ/neodrag?style=social&label=Update)
-
-### Charts
-
-- **[js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)** - A visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.  
-  ![](https://img.shields.io/github/stars/Bogdan-Lyashenko/js-code-to-svg-flowchart?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/Bogdan-Lyashenko/js-code-to-svg-flowchart?style=social&label=Update)
-- **[plot](https://github.com/observablehq/plot)** - A concise API for exploratory data visualization.  
-  ![](https://img.shields.io/github/stars/observablehq/plot?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/observablehq/plot?style=social&label=Update)
 
 ### SVG
 

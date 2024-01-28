@@ -193,6 +193,12 @@
 
 ## Charts
 
+- **[js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)** - A visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.  
+  ![](https://img.shields.io/github/stars/Bogdan-Lyashenko/js-code-to-svg-flowchart?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/Bogdan-Lyashenko/js-code-to-svg-flowchart?style=social&label=Update)
+- **[plot](https://github.com/observablehq/plot)** - A concise API for exploratory data visualization.  
+  ![](https://img.shields.io/github/stars/observablehq/plot?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/observablehq/plot?style=social&label=Update)
 - **[Heat.js](https://github.com/williamtroup/Heat.js)** - A lightweight JavaScript library that generates customizable heat maps and charts to visualize date-based activity and trends.  
   ![](https://img.shields.io/github/stars/williamtroup/Heat.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/williamtroup/Heat.js?style=social&label=Update)
