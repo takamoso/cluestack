@@ -70,6 +70,9 @@
 - **[qr-code](https://github.com/bitjson/qr-code)** - A no-framework, no-dependencies, customizable, animate-able, SVG-based &lt;qr-code&gt; HTML element.  
   ![](https://img.shields.io/github/stars/bitjson/qr-code?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/bitjson/qr-code?style=social&label=Update)
+- **[click-spark](https://github.com/hexagoncircle/click-spark)** - Add a little spark to your clicks.  
+  ![](https://img.shields.io/github/stars/hexagoncircle/click-spark?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/hexagoncircle/click-spark?style=social&label=Update)
 
 ## Sliders
 
