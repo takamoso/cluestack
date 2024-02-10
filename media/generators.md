@@ -78,6 +78,7 @@
 - **[Favicon Generator](https://www.favicon.software)** - Generate Windows icon (.ico) and other favicons in right sizes for multiple browsers & platforms. Convert your logo or image to favicons in a snap.
 - **[cssFilters.co](https://www.cssfilters.co)** - Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
 - **[AI Emoji Generator](https://emojis.sh)** - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click.
+- **[SVG.io](https://svg.io)** - Use text-to-svg to create unique SVG cut files with our AI Generator tool. 100% FREE, no signup.
 
 ## Code
 
