@@ -18,6 +18,9 @@
 - **[webpack](https://github.com/webpack/webpack)** - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.  
   ![](https://img.shields.io/github/stars/webpack/webpack?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/webpack/webpack?style=social&label=Update)
+- **[Rspack](https://github.com/web-infra-dev/rspack)** - A fast Rust-based web bundler.  
+  ![](https://img.shields.io/github/stars/web-infra-dev/rspack?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/web-infra-dev/rspack?style=social&label=Update)
 - **[rollup](https://github.com/rollup/rollup)** - Next-generation ES module bundler.  
   ![](https://img.shields.io/github/stars/rollup/rollup?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/rollup/rollup?style=social&label=Update)
