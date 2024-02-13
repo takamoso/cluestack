@@ -103,6 +103,9 @@
 - **[react-wrap-balancer](https://github.com/shuding/react-wrap-balancer)** - Simple React Component That Makes Titles More Readable.  
   ![](https://img.shields.io/github/stars/shuding/react-wrap-balancer?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/shuding/react-wrap-balancer?style=social&label=Update)
+- **[react-curved-text](https://github.com/obss/react-curved-text)** - A React addon for creating circular / curved texts in React projects.  
+  ![](https://img.shields.io/github/stars/obss/react-curved-text?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/obss/react-curved-text?style=social&label=Update)
 
 ## Menus
 
