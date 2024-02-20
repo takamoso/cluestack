@@ -35,6 +35,7 @@
 ## Media
 
 - [Icons](media/icons.md)
+- [Logos](media/logos.md)
 - [Generators](media/generators.md)
   - [Colors](media/generators.md#colors)
   - [Typography](media/generators.md#typography)
