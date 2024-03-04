@@ -64,6 +64,9 @@
 - **[yamada-ui](https://github.com/hirotomoyamada/yamada-ui)** - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.  
   ![](https://img.shields.io/github/stars/hirotomoyamada/yamada-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/hirotomoyamada/yamada-ui?style=social&label=Update)
+- **[shadcn/ui](https://github.com/shadcn-ui/ui)** - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.  
+  ![](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/shadcn-ui/ui?style=social&label=Update)
 - **[melt-ui](https://github.com/melt-ui/melt-ui)** - A set of headless, accessible component builders for Svelte.  
   ![](https://img.shields.io/github/stars/melt-ui/melt-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/melt-ui/melt-ui?style=social&label=Update)
