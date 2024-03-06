@@ -70,6 +70,9 @@
 - **[melt-ui](https://github.com/melt-ui/melt-ui)** - A set of headless, accessible component builders for Svelte.  
   ![](https://img.shields.io/github/stars/melt-ui/melt-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/melt-ui/melt-ui?style=social&label=Update)
+- **[Chakra UI](https://github.com/chakra-ui/chakra-ui)** - Simple, Modular & Accessible UI Components for your React Applications.  
+  ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui?style=social&label=Update)
 
 ## Web Components
 
