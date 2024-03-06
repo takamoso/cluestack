@@ -3,6 +3,7 @@
 - [Headless UI](#headless-ui)
 - [UI Components](#ui-components)
 - [Web Components](#web-components)
+- [Documentation Builder](#documentation-builder)
 - [Sliders](#sliders)
 - [Typography](#typography)
 - [Menus](#menus)
@@ -85,6 +86,12 @@
 - **[click-spark](https://github.com/hexagoncircle/click-spark)** - Add a little spark to your clicks.  
   ![](https://img.shields.io/github/stars/hexagoncircle/click-spark?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/hexagoncircle/click-spark?style=social&label=Update)
+
+## Documentation Builder
+
+- **[Starlight](https://github.com/withastro/starlight)** - Build beautiful, accessible, high-performance documentation websites with Astro.  
+  ![](https://img.shields.io/github/stars/withastro/starlight?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/withastro/starlight?style=social&label=Update)
 
 ## Sliders
 
