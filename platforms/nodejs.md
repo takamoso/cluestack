@@ -9,6 +9,9 @@
 - **[bun](https://github.com/oven-sh/bun)** - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one.  
   ![](https://img.shields.io/github/stars/oven-sh/bun?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/oven-sh/bun?style=social&label=Update)
+- **[Node Version Manager Desktop](https://github.com/1111mp/nvm-desktop)** - Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.  
+  ![](https://img.shields.io/github/stars/1111mp/nvm-desktop?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/1111mp/nvm-desktop?style=social&label=Update)
 
 ## Bundlers
 
