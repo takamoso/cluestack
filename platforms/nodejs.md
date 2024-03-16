@@ -3,6 +3,7 @@
 - [Package Managers](#package-managers)
 - [Bundlers](#bundlers)
 - [Testing](#testing)
+- [Command Line Interface](#command-line-interface)
 
 ## Package Managers
 
@@ -42,3 +43,9 @@
 - **[playwright](https://github.com/microsoft/playwright)** - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  
   ![](https://img.shields.io/github/stars/microsoft/playwright?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/microsoft/playwright?style=social&label=Update)
+
+## Command Line Interface
+
+- **[Google Indexing Script](https://github.com/goenning/google-indexing-script)** - Script to get your site indexed on Google in less than 48 hours.  
+  ![](https://img.shields.io/github/stars/goenning/google-indexing-script?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/goenning/google-indexing-script?style=social&label=Update)

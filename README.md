@@ -6,6 +6,7 @@
   - [Package Managers](platforms/nodejs.md#package-managers)
   - [Bundlers](platforms/nodejs.md#bundlers)
   - [Testing](platforms/nodejs.md#testing)
+  - [Command Line Interface](platforms/nodejs.md#command-line-interface)
 
 ## Languages
 
