@@ -1,5 +1,6 @@
 # JavaScript
 
+- [Template Engine](#template-engine)
 - [Headless UI](#headless-ui)
 - [UI Components](#ui-components)
 - [Web Components](#web-components)
@@ -17,6 +18,12 @@
 - [Utilities](#utilities)
   - [Object](#object)
 - [Polyfills](#polyfills)
+
+## Template Engine
+
+- **[eta](https://github.com/eta-dev/eta)** - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript.  
+  ![](https://img.shields.io/github/stars/eta-dev/eta?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/eta-dev/eta?style=social&label=Update)
 
 ## Headless UI
 
