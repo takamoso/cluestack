@@ -81,6 +81,10 @@
 - **[Chakra UI](https://github.com/chakra-ui/chakra-ui)** - Simple, Modular & Accessible UI Components for your React Applications.  
   ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui?style=social&label=Update)
+- **[tremor raw](https://github.com/tremorlabs/tremor-raw)** - Copy & Paste React components to build dashboards and modern web applications.  
+  ![](https://img.shields.io/github/stars/tremorlabs/tremor-raw?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/tremorlabs/tremor-raw?style=social&label=Update)
+
 
 ## Web Components
 
