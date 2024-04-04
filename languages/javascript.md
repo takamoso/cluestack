@@ -84,6 +84,9 @@
 - **[tremor raw](https://github.com/tremorlabs/tremor-raw)** - Copy & Paste React components to build dashboards and modern web applications.  
   ![](https://img.shields.io/github/stars/tremorlabs/tremor-raw?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/tremorlabs/tremor-raw?style=social&label=Update)
+- **[Cally](https://github.com/WickyNilliams/cally)** - Small, feature-rich calendar components.  
+  ![](https://img.shields.io/github/stars/WickyNilliams/cally?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/WickyNilliams/cally?style=social&label=Update)
 
 
 ## Web Components
