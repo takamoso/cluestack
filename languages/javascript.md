@@ -232,6 +232,9 @@
 - **[siriwave](https://github.com/kopiro/siriwave)** - The Apple® Siri wave-form replicated in a JS library.  
   ![](https://img.shields.io/github/stars/kopiro/siriwave?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/kopiro/siriwave?style=social&label=Update)
+- **[tonal](https://github.com/tonaljs/tonal)** - A functional music theory library for Javascript.  
+  ![](https://img.shields.io/github/stars/tonaljs/tonal?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/tonaljs/tonal?style=social&label=Update)
 
 ## Charts
 
