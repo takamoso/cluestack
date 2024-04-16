@@ -208,6 +208,9 @@
 - **[sharp](https://github.com/lovell/sharp)** - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.  
   ![](https://img.shields.io/github/stars/lovell/sharp?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/lovell/sharp?style=social&label=Update)
+- **[faces.js](https://github.com/zengm-games/facesjs)** - A JavaScript library for generating vector-based cartoon faces.  
+  ![](https://img.shields.io/github/stars/zengm-games/facesjs?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/zengm-games/facesjs?style=social&label=Update)
 
 ## Video
 
