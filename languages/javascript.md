@@ -163,6 +163,9 @@
 - **[ckeditor5](https://github.com/ckeditor/ckeditor5)** - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.  
   ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=social&label=Update)
+- **[Trix](https://github.com/basecamp/trix)** - A rich text editor for everyday writing.  
+  ![](https://img.shields.io/github/stars/basecamp/trix?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/basecamp/trix?style=social&label=Update)
 
 ## Animations
 
