@@ -15,6 +15,9 @@
 - **[curlwind](https://github.com/stevebauman/curlwind)** - Generate Tailwind utility stylesheets on demand.  
   ![](https://img.shields.io/github/stars/stevebauman/curlwind?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/stevebauman/curlwind?style=social&label=Update)
+- **[Fluid for Tailwind CSS](https://github.com/barvian/fluid-tailwind)** - Smoother responsive styles in less code.  
+  ![](https://img.shields.io/github/stars/barvian/fluid-tailwind?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/barvian/fluid-tailwind?style=social&label=Update)
 
 ## Polyfills
 
