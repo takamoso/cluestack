@@ -68,3 +68,6 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
 - **[lucide](https://github.com/lucide-icons/lucide)** - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.  
   ![](https://img.shields.io/github/stars/lucide-icons/lucide?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/lucide-icons/lucide?style=social&label=Update)
+- **[Popicons](https://github.com/uxthings/popicons)** - Bring life & personality to your projects with Popicons!  
+  ![](https://img.shields.io/github/stars/uxthings/popicons?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/uxthings/popicons?style=social&label=Update)
