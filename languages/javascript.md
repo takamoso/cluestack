@@ -214,6 +214,9 @@
 - **[faces.js](https://github.com/zengm-games/facesjs)** - A JavaScript library for generating vector-based cartoon faces.  
   ![](https://img.shields.io/github/stars/zengm-games/facesjs?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/zengm-games/facesjs?style=social&label=Update)
+- **[Fabric.js](https://github.com/fabricjs/fabric.js)** - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.  
+  ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/zfabricjs/fabric.js?style=social&label=Update)
 
 ## Video
 
