@@ -33,6 +33,7 @@
   - [Charts](languages/javascript.md#charts)
   - [Detection](languages/javascript.md#detection)
   - [Utilities](languages/javascript.md#utilities)
+    - [Array](languages/javascript.md#array)
     - [Object](languages/javascript.md#object)
   - [Polyfills](languages/javascript.md#polyfills)
 
