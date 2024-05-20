@@ -9,6 +9,8 @@
 - [Typography](#typography)
 - [Menus](#menus)
 - [Editors](#editors)
+- [Forms](#forms)
+  - [Pickers](#pickers)
 - [Animations](#animations)
 - [Images](#images)
 - [Video](#video)
