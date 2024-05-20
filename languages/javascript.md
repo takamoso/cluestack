@@ -168,6 +168,14 @@
   ![](https://img.shields.io/github/stars/basecamp/trix?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/basecamp/trix?style=social&label=Update)
 
+## Forms
+
+### Pickers
+
+- **[Emoji Mart](https://github.com/missive/emoji-mart)** - One component to pick them all.  
+  ![](https://img.shields.io/github/stars/missive/emoji-mart?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/missive/emoji-mart?style=social&label=Update)
+
 ## Animations
 
 - **[motionone](https://github.com/motiondivision/motionone)** - A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance.  

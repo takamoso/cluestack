@@ -26,6 +26,8 @@
   - [Typography](languages/javascript.md#typography)
   - [Menus](languages/javascript.md#menus)
   - [Editors](languages/javascript.md#editors)
+  - [Forms](languages/javascript.md#forms)
+    - [Pickers](languages/javascript.md#pickers)
   - [Animations](languages/javascript.md#animations)
   - [Images](languages/javascript.md#images)
   - [Video](languages/javascript.md#video)
