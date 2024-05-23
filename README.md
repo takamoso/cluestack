@@ -7,6 +7,7 @@
   - [Bundlers](platforms/nodejs.md#bundlers)
   - [Testing](platforms/nodejs.md#testing)
   - [Command Line Interface](platforms/nodejs.md#command-line-interface)
+  - [Static Site Generators](platforms/nodejs.md#static-site-generators)
 
 ## Languages
 

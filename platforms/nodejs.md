@@ -4,6 +4,7 @@
 - [Bundlers](#bundlers)
 - [Testing](#testing)
 - [Command Line Interface](#command-line-interface)
+- [Static Site Generators](#static-site-generators)
 
 ## Package Managers
 
@@ -52,3 +53,9 @@
 - **[jnv](https://github.com/ynqa/jnv)** - interactive JSON filter using jq.  
   ![](https://img.shields.io/github/stars/ynqa/jnv?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/ynqa/jnv?style=social&label=Update)
+
+## Static Site Generators
+
+- **[VitePress](https://github.com/vuejs/vitepress)** - Vite & Vue powered static site generator.  
+  ![](https://img.shields.io/github/stars/vuejs/vitepress?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/vuejs/vitepress?style=social&label=Update)
