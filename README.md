@@ -29,6 +29,7 @@
   - [Editors](languages/javascript.md#editors)
   - [Forms](languages/javascript.md#forms)
     - [Pickers](languages/javascript.md#pickers)
+    - [Validation](languages/javascript.md#validation)
   - [Animations](languages/javascript.md#animations)
   - [Images](languages/javascript.md#images)
   - [Video](languages/javascript.md#video)
