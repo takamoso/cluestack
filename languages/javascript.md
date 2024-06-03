@@ -178,6 +178,9 @@
 - **[Emoji Mart](https://github.com/missive/emoji-mart)** - One component to pick them all.  
   ![](https://img.shields.io/github/stars/missive/emoji-mart?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/missive/emoji-mart?style=social&label=Update)
+- **[vanilla-colorful](https://github.com/web-padawan/vanilla-colorful)** - A tiny color picker custom element for modern web apps.  
+  ![](https://img.shields.io/github/stars/web-padawan/vanilla-colorful?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/web-padawan/vanilla-colorful?style=social&label=Update)
 
 ### Validation
 

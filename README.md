@@ -84,7 +84,6 @@
   - [Modal](#modal)
   - [Form](#form)
     - [Input](#input)
-    - [Picker](#picker)
   - [Text Editors](#text-editors)
   - [Syntax Highlighting](#syntax-highlighting)
   - [Scroll](#scroll)
@@ -256,12 +255,6 @@
 - **[autocomp.js](https://github.com/knadh/autocomp.js)** - A super tiny Javascript autocomplete / autosuggestions library. Zero dependencies, ~800 bytes min+gzip.  
   ![](https://img.shields.io/github/stars/knadh/autocomp.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/knadh/autocomp.js?style=social&label=Update)
-
-#### Picker
-
-- **[vanilla-colorful](https://github.com/web-padawan/vanilla-colorful)** - A tiny color picker custom element for modern web apps.  
-  ![](https://img.shields.io/github/stars/web-padawan/vanilla-colorful?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/web-padawan/vanilla-colorful?style=social&label=Update)
 
 ### Syntax Highlighting
 
