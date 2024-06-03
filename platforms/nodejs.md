@@ -62,3 +62,6 @@
 - **[Astro](https://github.com/withastro/astro)** - The web framework for content-driven websites.  
   ![](https://img.shields.io/github/stars/withastro/astro?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/withastro/astro?style=social&label=Update)
+- **[Starlight](https://github.com/withastro/starlight)** - Build beautiful, accessible, high-performance documentation websites with Astro.  
+  ![](https://img.shields.io/github/stars/withastro/starlight?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/withastro/starlight?style=social&label=Update)

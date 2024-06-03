@@ -4,7 +4,6 @@
 - [Headless UI](#headless-ui)
 - [UI Components](#ui-components)
 - [Web Components](#web-components)
-- [Documentation Builder](#documentation-builder)
 - [Sliders](#sliders)
 - [Typography](#typography)
 - [Menus](#menus)
@@ -104,12 +103,6 @@
 - **[Cally](https://github.com/WickyNilliams/cally)** - Small, feature-rich calendar components.  
   ![](https://img.shields.io/github/stars/WickyNilliams/cally?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/WickyNilliams/cally?style=social&label=Update)
-
-## Documentation Builder
-
-- **[Starlight](https://github.com/withastro/starlight)** - Build beautiful, accessible, high-performance documentation websites with Astro.  
-  ![](https://img.shields.io/github/stars/withastro/starlight?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/withastro/starlight?style=social&label=Update)
 
 ## Sliders
 
