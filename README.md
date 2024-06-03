@@ -91,7 +91,6 @@
   - [SVG](#svg)
   - [Canvas](#canvas)
   - [Animations](#animations)
-  - [Typography](#typography)
   - [Images](#images)
   - [Search](#search)
   - [Visual](#visual)
@@ -310,12 +309,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - **[atrament.js](https://github.com/jakubfiala/atrament.js)** - A small JS library for beautiful drawing and handwriting on the HTML Canvas.  
   ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/jakubfiala/atrament.js?style=social&label=Update)
-
-### Typography
-
-- **[fontsource](https://github.com/fontsource/fontsource)** - Self-host Open Source fonts in neatly bundled NPM packages.  
-  ![](https://img.shields.io/github/stars/fontsource/fontsource?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/fontsource/fontsource?style=social&label=Update)
 
 ### Search
 
