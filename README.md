@@ -313,9 +313,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 ### Typography
 
-- **[Hyphenopoly](https://github.com/mnater/Hyphenopoly)** - Hyphenation for node and Polyfill for client-side hyphenation.  
-  ![](https://img.shields.io/github/stars/mnater/Hyphenopoly?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/mnater/Hyphenopoly?style=social&label=Update)
 - **[budoux](https://github.com/google/budoux)** - BudouX is the successor to Budou, the machine learning powered line break organizer tool.  
   ![](https://img.shields.io/github/stars/google/budoux?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/google/budoux?style=social&label=Update)

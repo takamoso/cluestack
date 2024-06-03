@@ -140,6 +140,9 @@
 - **[react-curved-text](https://github.com/obss/react-curved-text)** - A React addon for creating circular / curved texts in React projects.  
   ![](https://img.shields.io/github/stars/obss/react-curved-text?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/obss/react-curved-text?style=social&label=Update)
+- **[Hyphenopoly](https://github.com/mnater/Hyphenopoly)** - Hyphenation for node and Polyfill for client-side hyphenation.  
+  ![](https://img.shields.io/github/stars/mnater/Hyphenopoly?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/mnater/Hyphenopoly?style=social&label=Update)
 
 ## Menus
 
