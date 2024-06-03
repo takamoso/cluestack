@@ -59,3 +59,6 @@
 - **[VitePress](https://github.com/vuejs/vitepress)** - Vite & Vue powered static site generator.  
   ![](https://img.shields.io/github/stars/vuejs/vitepress?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/vuejs/vitepress?style=social&label=Update)
+- **[Astro](https://github.com/withastro/astro)** - The web framework for content-driven websites.  
+  ![](https://img.shields.io/github/stars/withastro/astro?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/withastro/astro?style=social&label=Update)
