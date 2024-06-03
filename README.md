@@ -84,7 +84,6 @@
   - [Modal](#modal)
   - [Form](#form)
     - [Input](#input)
-    - [Validation](#validation)
     - [Picker](#picker)
   - [Text Editors](#text-editors)
   - [Syntax Highlighting](#syntax-highlighting)
@@ -257,12 +256,6 @@
 - **[autocomp.js](https://github.com/knadh/autocomp.js)** - A super tiny Javascript autocomplete / autosuggestions library. Zero dependencies, ~800 bytes min+gzip.  
   ![](https://img.shields.io/github/stars/knadh/autocomp.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/knadh/autocomp.js?style=social&label=Update)
-
-#### Validation
-
-- **[validator.js](https://github.com/validatorjs/validator.js)** - A library of string validators and sanitizers.  
-  ![](https://img.shields.io/github/stars/validatorjs/validator.js?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/validatorjs/validator.js?style=social&label=Update)
 
 #### Picker
 

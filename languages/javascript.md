@@ -184,6 +184,9 @@
 - **[VineJS](https://github.com/vinejs/vine)** - VineJS is a form data validation library for Node.js.  
   ![](https://img.shields.io/github/stars/vinejs/vine?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/vinejs/vine?style=social&label=Update)
+- **[validator.js](https://github.com/validatorjs/validator.js)** - A library of string validators and sanitizers.  
+  ![](https://img.shields.io/github/stars/validatorjs/validator.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/validatorjs/validator.js?style=social&label=Update)
 
 ## Animations
 
