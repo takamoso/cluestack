@@ -313,9 +313,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 ### Typography
 
-- **[alfaaz](https://github.com/thecodrr/alfaaz)** - The fastest multilingual word  
-  ![](https://img.shields.io/github/stars/thecodrr/alfaaz?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/thecodrr/alfaaz?style=social&label=Update)
 - **[fontsource](https://github.com/fontsource/fontsource)** - Self-host Open Source fonts in neatly bundled NPM packages.  
   ![](https://img.shields.io/github/stars/fontsource/fontsource?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fontsource/fontsource?style=social&label=Update)
