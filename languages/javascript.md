@@ -87,6 +87,9 @@
 - **[tremor raw](https://github.com/tremorlabs/tremor-raw)** - Copy & Paste React components to build dashboards and modern web applications.  
   ![](https://img.shields.io/github/stars/tremorlabs/tremor-raw?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/tremorlabs/tremor-raw?style=social&label=Update)
+- **[Wedges](https://github.com/lmsqueezy/wedges)** - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.  
+  ![](https://img.shields.io/github/stars/lmsqueezy/wedges?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/lmsqueezy/wedges?style=social&label=Update)
 
 
 ## Web Components
