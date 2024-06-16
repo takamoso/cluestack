@@ -93,6 +93,9 @@
 - **[Tamagui](https://github.com/tamagui/tamagui)** - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.  
   ![](https://img.shields.io/github/stars/tamagui/tamagui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/tamagui/tamagui?style=social&label=Update)
+- **[Open UI](https://github.com/openui/open-ui)** - Maintain an open standard for UI and promote its adherence and adoption.  
+  ![](https://img.shields.io/github/stars/openui/open-ui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/openui/open-ui?style=social&label=Update)
 
 
 ## Web Components
