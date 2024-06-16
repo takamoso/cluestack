@@ -90,6 +90,9 @@
 - **[Wedges](https://github.com/lmsqueezy/wedges)** - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.  
   ![](https://img.shields.io/github/stars/lmsqueezy/wedges?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/lmsqueezy/wedges?style=social&label=Update)
+- **[Tamagui](https://github.com/tamagui/tamagui)** - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.  
+  ![](https://img.shields.io/github/stars/tamagui/tamagui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/tamagui/tamagui?style=social&label=Update)
 
 
 ## Web Components
