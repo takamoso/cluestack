@@ -184,6 +184,10 @@
 - **[Trix](https://github.com/basecamp/trix)** - A rich text editor for everyday writing.  
   ![](https://img.shields.io/github/stars/basecamp/trix?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/basecamp/trix?style=social&label=Update)
+- **[Quill](https://github.com/slab/quill)** - Quill is a modern WYSIWYG editor built for compatibility and extensibility.  
+  ![](https://img.shields.io/github/stars/slab/quill?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/slab/quill?style=social&label=Update)
+
 
 ## Forms
 
