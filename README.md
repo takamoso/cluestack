@@ -8,6 +8,7 @@
   - [Testing](platforms/nodejs.md#testing)
   - [Command Line Interface](platforms/nodejs.md#command-line-interface)
   - [Static Site Generators](platforms/nodejs.md#static-site-generators)
+  - [Stack Boilerplate](platforms/nodejs.md#stack-boilerplate)
 
 ## Languages
 

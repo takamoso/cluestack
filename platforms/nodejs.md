@@ -5,6 +5,7 @@
 - [Testing](#testing)
 - [Command Line Interface](#command-line-interface)
 - [Static Site Generators](#static-site-generators)
+- [Stack Boilerplate](#stack-boilerplate)
 
 ## Package Managers
 
@@ -65,3 +66,9 @@
 - **[Starlight](https://github.com/withastro/starlight)** - Build beautiful, accessible, high-performance documentation websites with Astro.  
   ![](https://img.shields.io/github/stars/withastro/starlight?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/withastro/starlight?style=social&label=Update)
+
+## Stack Boilerplate
+
+- **[The TEA Stack](https://github.com/mattwaler/tea-stack)** - A starter template for the TEA stack (Tailwind, Eleventy, Alpine).  
+  ![](https://img.shields.io/github/stars/mattwaler/tea-stack?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/mattwaler/tea-stack?style=social&label=Update)
