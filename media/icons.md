@@ -74,3 +74,6 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
 - **[Game Icons](https://github.com/game-icons/icons)** - All SVG icons available on https://game-icons.net.  
   ![](https://img.shields.io/github/stars/game-icons/icons?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/game-icons/icons?style=social&label=Update)
+- **[Heroicons](https://github.com/tailwindlabs/heroicons)** - A set of free MIT-licensed high-quality SVG icons for UI development.  
+  ![](https://img.shields.io/github/stars/tailwindlabs/heroicons?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/tailwindlabs/heroicons?style=social&label=Update)
