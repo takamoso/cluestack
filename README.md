@@ -72,7 +72,6 @@
   - [Reset](#reset)
   - [Classless](#classless)
   - [Animations](#animations)
-  - [Util](#util)
 - [JavaScript](#javascript)
   - [Bundlers](#bundlers)
   - [Framework](#framework)
@@ -161,12 +160,6 @@
 - **[mimic.css](https://github.com/erictreacy/mimic.css)** - Mimic.css is an css animations library because everyone else is doing it.  
   ![](https://img.shields.io/github/stars/erictreacy/mimic.css?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/erictreacy/mimic.css?style=social&label=Update)
-
-### Util
-
-- **[open-props](https://github.com/argyleink/open-props)** - CSS custom properties to help accelerate adaptive and consistent design.  
-  ![](https://img.shields.io/github/stars/argyleink/open-props?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/argyleink/open-props?style=social&label=Update)
 
 
 ## JavaScript

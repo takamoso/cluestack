@@ -40,6 +40,9 @@
 - **[Fluid for Tailwind CSS](https://github.com/barvian/fluid-tailwind)** - Smoother responsive styles in less code.  
   ![](https://img.shields.io/github/stars/barvian/fluid-tailwind?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/barvian/fluid-tailwind?style=social&label=Update)
+- **[open-props](https://github.com/argyleink/open-props)** - CSS custom properties to help accelerate adaptive and consistent design.  
+  ![](https://img.shields.io/github/stars/argyleink/open-props?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/argyleink/open-props?style=social&label=Update)
 
 ## Polyfills
 
