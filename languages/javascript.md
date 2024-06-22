@@ -7,6 +7,7 @@
 - [Sliders](#sliders)
 - [Typography](#typography)
 - [Menus](#menus)
+- [Modals](#modals)
 - [Editors](#editors)
 - [Forms](#forms)
   - [Pickers](#pickers)
@@ -163,6 +164,15 @@
 - **[kmenu](https://github.com/harshhhdev/kmenu)** - An animated and accessible command menu.  
   ![](https://img.shields.io/github/stars/harshhhdev/kmenu?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/harshhhdev/kmenu?style=social&label=Update)
+
+## Modals
+
+- **[Micromodal](https://github.com/ghosh/Micromodal)** - Tiny javascript library for creating accessible modal dialogs.  
+  ![](https://img.shields.io/github/stars/ghosh/Micromodal?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ghosh/Micromodal?style=social&label=Update)
+- **[a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog)** - A very lightweight and flexible accessible modal dialog script.  
+  ![](https://img.shields.io/github/stars/KittyGiraudel/a11y-dialog?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/KittyGiraudel/a11y-dialog?style=social&label=Update)
 
 ## Editors
 

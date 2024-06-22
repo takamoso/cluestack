@@ -27,6 +27,7 @@
   - [Sliders](languages/javascript.md#sliders)
   - [Typography](languages/javascript.md#typography)
   - [Menus](languages/javascript.md#menus)
+  - [Modals](languages/javascript.md#modals)
   - [Editors](languages/javascript.md#editors)
   - [Forms](languages/javascript.md#forms)
     - [Pickers](languages/javascript.md#pickers)
@@ -80,7 +81,6 @@
   - [Components](#components-1)
   - [Collections](#collections)
   - [Menus](#menus)
-  - [Modal](#modal)
   - [Form](#form)
     - [Input](#input)
   - [Text Editors](#text-editors)
@@ -200,15 +200,6 @@
 - **[flowrift](https://github.com/n6ai/flowrift)** - Beautifully designed Tailwind CSS UI blocks.  
   ![](https://img.shields.io/github/stars/n6ai/flowrift?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/n6ai/flowrift?style=social&label=Update)
-
-### Modal
-
-- **[Micromodal](https://github.com/ghosh/Micromodal)** - Tiny javascript library for creating accessible modal dialogs.  
-  ![](https://img.shields.io/github/stars/ghosh/Micromodal?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/ghosh/Micromodal?style=social&label=Update)
-- **[a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog)** - A very lightweight and flexible accessible modal dialog script.  
-  ![](https://img.shields.io/github/stars/KittyGiraudel/a11y-dialog?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/KittyGiraudel/a11y-dialog?style=social&label=Update)
 
 ### Form
 
