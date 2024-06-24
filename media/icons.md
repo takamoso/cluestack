@@ -77,3 +77,6 @@ Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywher
 - **[Heroicons](https://github.com/tailwindlabs/heroicons)** - A set of free MIT-licensed high-quality SVG icons for UI development.  
   ![](https://img.shields.io/github/stars/tailwindlabs/heroicons?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/tailwindlabs/heroicons?style=social&label=Update)
+- **[macOSicons](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)** - Replacement icons for popular apps in the style of macOS Big Sur.  
+  ![](https://img.shields.io/github/stars/elrumo/macOS_Big_Sur_icons_replacements?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/elrumo/macOS_Big_Sur_icons_replacements?style=social&label=Update)
