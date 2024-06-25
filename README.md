@@ -33,6 +33,7 @@
     - [Pickers](languages/javascript.md#pickers)
     - [Validation](languages/javascript.md#validation)
   - [Animations](languages/javascript.md#animations)
+  - [Canvas](languages/javascript.md#canvas)
   - [Images](languages/javascript.md#images)
   - [Video](languages/javascript.md#video)
   - [Audio](languages/javascript.md#audio)
@@ -88,7 +89,6 @@
   - [Scroll](#scroll)
   - [Drag](#drag)
   - [SVG](#svg)
-  - [Canvas](#canvas)
   - [Animations](#animations)
   - [Images](#images)
   - [Search](#search)
@@ -254,24 +254,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 - **[svg-path-morph](https://github.com/Minibrams/svg-path-morph)** - Smoothly interpolate between variations of SVG paths.  
   ![](https://img.shields.io/github/stars/Minibrams/svg-path-morph?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/Minibrams/svg-path-morph?style=social&label=Update)
-
-### Canvas
-
-- **[canvas-confetti](https://github.com/catdad/canvas-confetti)** - On-demand confetti gun.  
-  ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/catdad/canvas-confetti?style=social&label=Update)
-- **[lazy-brush](https://github.com/dulnan/lazy-brush)** - Smooth drawing with mouse, finger or other pointing device.  
-  ![](https://img.shields.io/github/stars/dulnan/lazy-brush?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/dulnan/lazy-brush?style=social&label=Update)
-- **[idraw](https://github.com/idrawjs/idraw)** - A simple JavaScript framework for Drawing on the web.  
-  ![](https://img.shields.io/github/stars/idrawjs/idraw?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/idrawjs/idraw?style=social&label=Update)
-- **[perfect-freehand](https://github.com/steveruizok/perfect-freehand)** - Draw perfect pressure-sensitive freehand lines.  
-  ![](https://img.shields.io/github/stars/steveruizok/perfect-freehand?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/steveruizok/perfect-freehand?style=social&label=Update)
-- **[atrament.js](https://github.com/jakubfiala/atrament.js)** - A small JS library for beautiful drawing and handwriting on the HTML Canvas.  
-  ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/jakubfiala/atrament.js?style=social&label=Update)
 
 ### Search
 

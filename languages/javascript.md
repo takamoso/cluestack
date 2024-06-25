@@ -13,6 +13,7 @@
   - [Pickers](#pickers)
   - [Validation](#validation)
 - [Animations](#animations)
+- [Canvas](#canvas)
 - [Images](#images)
 - [Video](#video)
 - [Audio](#audio)
@@ -244,6 +245,27 @@
 - **[url-animations](https://github.com/LunarFang416/url-animations)** - Add loading animations to your website in your browser URL field.  
   ![](https://img.shields.io/github/stars/LunarFang416/url-animations?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/LunarFang416/url-animations?style=social&label=Update)
+
+## Canvas
+
+- **[canvas-confetti](https://github.com/catdad/canvas-confetti)** - On-demand confetti gun.  
+  ![](https://img.shields.io/github/stars/catdad/canvas-confetti?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/catdad/canvas-confetti?style=social&label=Update)
+- **[lazy-brush](https://github.com/dulnan/lazy-brush)** - Smooth drawing with mouse, finger or other pointing device.  
+  ![](https://img.shields.io/github/stars/dulnan/lazy-brush?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/dulnan/lazy-brush?style=social&label=Update)
+- **[idraw](https://github.com/idrawjs/idraw)** - A simple JavaScript framework for Drawing on the web.  
+  ![](https://img.shields.io/github/stars/idrawjs/idraw?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/idrawjs/idraw?style=social&label=Update)
+- **[perfect-freehand](https://github.com/steveruizok/perfect-freehand)** - Draw perfect pressure-sensitive freehand lines.  
+  ![](https://img.shields.io/github/stars/steveruizok/perfect-freehand?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/steveruizok/perfect-freehand?style=social&label=Update)
+- **[atrament.js](https://github.com/jakubfiala/atrament.js)** - A small JS library for beautiful drawing and handwriting on the HTML Canvas.  
+  ![](https://img.shields.io/github/stars/jakubfiala/atrament.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/jakubfiala/atrament.js?style=social&label=Update)
+- **[Signature Pad](https://github.com/szimek/signature_pad)** - HTML5 canvas based smooth signature drawing.  
+  ![](https://img.shields.io/github/stars/szimek/signature_pad?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/szimek/signature_pad?style=social&label=Update)
 
 ## Images
 
