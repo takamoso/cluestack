@@ -178,7 +178,7 @@
 
 ## Toast
 
-- **[Sonner](https://github.com/emilkowalski/sonner)** - A very lightweight and flexible accessible modal dialog script.  
+- **[Sonner](https://github.com/emilkowalski/sonner)** - An opinionated toast component for React.  
   ![](https://img.shields.io/github/stars/emilkowalski/sonner?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/emilkowalski/sonner?style=social&label=Update)
 
