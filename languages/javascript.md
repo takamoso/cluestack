@@ -99,6 +99,9 @@
 - **[Open UI](https://github.com/openui/open-ui)** - Maintain an open standard for UI and promote its adherence and adoption.  
   ![](https://img.shields.io/github/stars/openui/open-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/openui/open-ui?style=social&label=Update)
+- **[Spark UI](https://github.com/selemondev/spark-ui)** - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion.  
+  ![](https://img.shields.io/github/stars/selemondev/spark-ui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/selemondev/spark-ui?style=social&label=Update)
 
 
 ## Web Components
