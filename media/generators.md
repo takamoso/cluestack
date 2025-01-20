@@ -49,7 +49,8 @@
 - **[Mesh·y](https://meshgradient.in)** - Generate beautiful and colorful mesh gradients | Download Mesh Gradients PNG | Export mesh gradients PNG.
 - **[Easing Gradients](https://larsenwork.com/easing-gradients)** - Supercharge your gradients with non-linear color mix and custom color spaces.
 - **[CSS HD Gradients](https://gradient.style)** - Wide gamut Color 4 compliant CSS gradient builder.
-- **[Gradientor](https://gradientor.app)** - A minimalist, beautiful Radial Background Generator.  
+- **[Gradientor](https://gradientor.app)** - A minimalist, beautiful Radial Background Generator.
+- **[Photo Gradient](https://gradientor.app)** - Generate beautiful gradients from colors or from a photo.
 
 ## Shadows
 
