@@ -102,6 +102,9 @@
 - **[Spark UI](https://github.com/selemondev/spark-ui)** - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion.  
   ![](https://img.shields.io/github/stars/selemondev/spark-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/selemondev/spark-ui?style=social&label=Update)
+- **[SyntaxUI](https://github.com/syntaxUI/syntaxui)** - Get free access to pre-built, Tailwind CSS-powered components, animations and effects - brought to life using Framer Motion. Just copy, paste and you're ready to go!  
+  ![](https://img.shields.io/github/stars/syntaxUI/syntaxui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/syntaxUI/syntaxui?style=social&label=Update)
 
 
 ## Web Components
