@@ -121,6 +121,9 @@
 - **[Cally](https://github.com/WickyNilliams/cally)** - Small, feature-rich calendar components.  
   ![](https://img.shields.io/github/stars/WickyNilliams/cally?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/WickyNilliams/cally?style=social&label=Update)
+- **[snow-fall](https://github.com/zachleat/snow-fall)** - A web component to add snow to your web site (or to an element on your web site).  
+  ![](https://img.shields.io/github/stars/zachleat/snow-fall?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/zachleat/snow-fall?style=social&label=Update)
 
 ## Sliders
 
