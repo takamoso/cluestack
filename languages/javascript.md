@@ -231,7 +231,7 @@
 - **[vanilla-colorful](https://github.com/web-padawan/vanilla-colorful)** - A tiny color picker custom element for modern web apps.  
   ![](https://img.shields.io/github/stars/web-padawan/vanilla-colorful?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/web-padawan/vanilla-colorful?style=social&label=Update)
-- **[TimePicker](https://github.com/openstatusHQ/time-picker)** - A tiny color picker custom element for modern web apps.  
+- **[TimePicker](https://github.com/openstatusHQ/time-picker)** - A simple shadcn/ui TimePicker component.  
   ![](https://img.shields.io/github/stars/openstatusHQ/time-picker?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/openstatusHQ/time-picker?style=social&label=Update)
 
