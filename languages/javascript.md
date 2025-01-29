@@ -220,6 +220,9 @@
 - **[Rooster](https://github.com/microsoft/roosterjs)** - roosterjs is a framework-independent javascript rich text editor.  
   ![](https://img.shields.io/github/stars/microsoft/roosterjs?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/microsoft/roosterjs?style=social&label=Update)
+- **[Summernote](https://github.com/summernote/summernote)** - Super simple WYSIWYG editor.  
+  ![](https://img.shields.io/github/stars/summernote/summernote?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/summernote/summernote?style=social&label=Update)
 
 ## Forms
 
