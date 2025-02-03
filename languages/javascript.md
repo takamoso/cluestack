@@ -8,6 +8,7 @@
 - [Typography](#typography)
 - [Menus](#menus)
 - [Modals](#modals)
+- [Drawers](#drawers)
 - [Toast](#toast)
 - [Editors](#editors)
 - [Forms](#forms)
@@ -187,6 +188,12 @@
 - **[a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog)** - A very lightweight and flexible accessible modal dialog script.  
   ![](https://img.shields.io/github/stars/KittyGiraudel/a11y-dialog?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/KittyGiraudel/a11y-dialog?style=social&label=Update)
+
+## Drawers
+
+- **[Vaul](https://github.com/emilkowalski/vaul)** - A drawer component for React.  
+  ![](https://img.shields.io/github/stars/emilkowalski/vaul?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/emilkowalski/vaul?style=social&label=Update)
 
 ## Toast
 
