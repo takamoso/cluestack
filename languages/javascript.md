@@ -10,6 +10,7 @@
 - [Modals](#modals)
 - [Drawers](#drawers)
 - [Toast](#toast)
+- [Paginations](#paginations)
 - [Editors](#editors)
 - [Forms](#forms)
   - [Pickers](#pickers)
@@ -200,6 +201,12 @@
 - **[Sonner](https://github.com/emilkowalski/sonner)** - An opinionated toast component for React.  
   ![](https://img.shields.io/github/stars/emilkowalski/sonner?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/emilkowalski/sonner?style=social&label=Update)
+
+## Paginations
+
+- **[React Responsive Pagination](https://github.com/jonelantha/react-responsive-pagination)** - A React pagination component which intelligently renders to the available width.  
+  ![](https://img.shields.io/github/stars/jonelantha/react-responsive-pagination?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/jonelantha/react-responsive-pagination?style=social&label=Update)
 
 ## Editors
 
