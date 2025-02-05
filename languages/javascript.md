@@ -284,6 +284,9 @@
 - **[url-animations](https://github.com/LunarFang416/url-animations)** - Add loading animations to your website in your browser URL field.  
   ![](https://img.shields.io/github/stars/LunarFang416/url-animations?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/LunarFang416/url-animations?style=social&label=Update)
+- **[VFX-JS](https://github.com/fand/vfx-js)** - WebGL effects made easy.  
+  ![](https://img.shields.io/github/stars/fand/vfx-js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/fand/vfx-js?style=social&label=Update)
 
 ## Canvas
 
