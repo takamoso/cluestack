@@ -31,6 +31,9 @@
 - **[charts.css](https://github.com/ChartsCSS/charts.css)** - Open source CSS framework for data visualization.  
   ![](https://img.shields.io/github/stars/ChartsCSS/charts.css?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/ChartsCSS/charts.css?style=social&label=Update)
+- **[Whirl](https://github.com/jh3y/whirl)** - CSS loading animations with minimal effort!  
+  ![](https://img.shields.io/github/stars/jh3y/whirl?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/jh3y/whirl?style=social&label=Update)
 
 ## Utilities
 
