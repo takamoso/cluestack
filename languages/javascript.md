@@ -308,6 +308,9 @@
 - **[Signature Pad](https://github.com/szimek/signature_pad)** - HTML5 canvas based smooth signature drawing.  
   ![](https://img.shields.io/github/stars/szimek/signature_pad?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/szimek/signature_pad?style=social&label=Update)
+- **[SVGEdit](https://github.com/SVG-Edit/svgedit)** - Powerful SVG-Editor for your browser.  
+  ![](https://img.shields.io/github/stars/SVG-Edit/svgedit?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/SVG-Edit/svgedit?style=social&label=Update)
 
 ## Images
 
