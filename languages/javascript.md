@@ -110,6 +110,9 @@
 - **[Magic UI](https://github.com/magicuidesign/magicui)** - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.  
   ![](https://img.shields.io/github/stars/magicuidesign/magicui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/magicuidesign/magicui?style=social&label=Update)
+- **[Sailboat UI](https://github.com/sailboatui/sailboatui)** - Sailboat UI is a modern UI component library for Tailwind CSS.  
+  ![](https://img.shields.io/github/stars/sailboatui/sailboatui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sailboatui/sailboatui?style=social&label=Update)
 
 
 ## Web Components
