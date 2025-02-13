@@ -3,6 +3,7 @@
 - [Colors](#colors)
 - [Typography](#typography)
 - [Shapes](#shapes)
+- [Layout](#layout)
 - [Backgrounds](#backgrounds)
 - [Gradients](#gradients)
 - [Shadows](#shadows)
@@ -38,6 +39,10 @@
 - **[Svg Wave](https://svgwave.in)** - SVG Wave is a minimal svg wave generator with lot of customization. It lets you abiltiy to generate and export pngs and svgs of beautiful waves. SVG wave also lets you layer multiple waves. Create SVGs for your website designs.
 - **[Get Waves](https://getwaves.io)** - A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!
 - **[Scrollbar](https://scrollbar.app)** - Simple CSS scrollbar editor.
+
+## Layout
+
+- **[Flexbox Labs](https://flexboxlabs.netlify.app)** - A web app for creating flexible layouts with the power of CSS Flexbox.
 
 ## Backgrounds
 

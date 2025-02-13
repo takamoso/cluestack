@@ -55,6 +55,7 @@
   - [Colors](media/generators.md#colors)
   - [Typography](media/generators.md#typography)
   - [Shapes](media/generators.md#shapes)
+  - [Layout](media/generators.md#layout)
   - [Backgrounds](media/generators.md#backgrounds)
   - [Gradients](media/generators.md#gradients)
   - [Shadows](media/generators.md#shadows)
