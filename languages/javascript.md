@@ -23,6 +23,7 @@
 - [Charts](#charts)
 - [Detection](#detection)
 - [Utilities](#utilities)
+  - [Number](#number)
   - [Array](#array)
   - [Object](#object)
 - [Polyfills](#polyfills)
@@ -394,6 +395,12 @@
   ![](https://img.shields.io/github/last-commit/flexdinesh/browser-or-node?style=social&label=Update)
 
 ## Utilities
+
+### Number
+
+- **[pretty-bytes](https://github.com/sindresorhus/pretty-bytes)** - Convert bytes to a human readable string: 1337 → 1.34 kB.  
+  ![](https://img.shields.io/github/stars/sindresorhus/pretty-bytes?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/pretty-bytes?style=social&label=Update)
 
 ### Array
 
