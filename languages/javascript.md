@@ -6,6 +6,7 @@
 - [Web Components](#web-components)
 - [Sliders](#sliders)
 - [Typography](#typography)
+- [Table](#table)
 - [Menus](#menus)
 - [Modals](#modals)
 - [Drawers](#drawers)
@@ -175,6 +176,12 @@
 - **[fontsource](https://github.com/fontsource/fontsource)** - Self-host Open Source fonts in neatly bundled NPM packages.  
   ![](https://img.shields.io/github/stars/fontsource/fontsource?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fontsource/fontsource?style=social&label=Update)
+
+## Table
+
+- **[tablesort](https://github.com/tristen/tablesort)** - The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.  
+  ![](https://img.shields.io/github/stars/tristen/tablesort?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/tristen/tablesort?style=social&label=Update)
 
 ## Menus
 

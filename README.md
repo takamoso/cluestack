@@ -26,6 +26,7 @@
   - [Web Components](languages/javascript.md#web-components)
   - [Sliders](languages/javascript.md#sliders)
   - [Typography](languages/javascript.md#typography)
+  - [Table](languages/javascript.md#table)
   - [Menus](languages/javascript.md#menus)
   - [Modals](languages/javascript.md#modals)
   - [Drawers](languages/javascript.md#drawers)
