@@ -248,6 +248,9 @@
 - **[Summernote](https://github.com/summernote/summernote)** - Super simple WYSIWYG editor.  
   ![](https://img.shields.io/github/stars/summernote/summernote?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/summernote/summernote?style=social&label=Update)
+- **[slate](https://github.com/ianstormtaylor/slate)** - A completely customizable framework for building rich text editors.  
+  ![](https://img.shields.io/github/stars/ianstormtaylor/slate?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ianstormtaylor/slate?style=social&label=Update)
 
 ## Forms
 
