@@ -218,7 +218,7 @@
 - **[React Responsive Pagination](https://github.com/jonelantha/react-responsive-pagination)** - A React pagination component which intelligently renders to the available width.  
   ![](https://img.shields.io/github/stars/jonelantha/react-responsive-pagination?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/jonelantha/react-responsive-pagination?style=social&label=Update)
-- [rizkyalam/**pagination**](https://github.com/rizkyalam/pagination) - A React pagination component which intelligently renders to the available width.  
+- [rizkyalam/**pagination**](https://github.com/rizkyalam/pagination) - Simple pagination library.  
   ![](https://img.shields.io/github/stars/rizkyalam/pagination?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/rizkyalam/pagination?style=social&label=Update)
 
