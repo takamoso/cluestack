@@ -355,6 +355,9 @@
 - **[Fabric.js](https://github.com/fabricjs/fabric.js)** - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.  
   ![](https://img.shields.io/github/stars/fabricjs/fabric.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/zfabricjs/fabric.js?style=social&label=Update)
+- **[image-size/**image-size**](https://github.com/image-size/image-size)** - Node module for detecting image dimensions.  
+  ![](https://img.shields.io/github/stars/image-size/image-size?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/image-size/image-size?style=social&label=Update)
 
 ## Video
 
