@@ -361,6 +361,9 @@
 - [image-size/**image-size**](https://github.com/image-size/image-size) - Node module for detecting image dimensions.  
   ![](https://img.shields.io/github/stars/image-size/image-size?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/image-size/image-size?style=social&label=Update)
+- [hoppergee/**heic-to**](https://github.com/hoppergee/heic-to) - Convert HEIC/HEIF images to JPEG, PNG in browser.  
+  ![](https://img.shields.io/github/stars/hoppergee/heic-to?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/hoppergee/heic-to?style=social&label=Update)
 
 ## Video
 
