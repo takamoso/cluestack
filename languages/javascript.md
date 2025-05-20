@@ -182,6 +182,9 @@
 - **[tablesort](https://github.com/tristen/tablesort)** - The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.  
   ![](https://img.shields.io/github/stars/tristen/tablesort?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/tristen/tablesort?style=social&label=Update)
+- [gabrielpetersson/**fast-grid**](https://github.com/gabrielpetersson/fast-grid) - World's most performant DOM-based web table.  
+  ![](https://img.shields.io/github/stars/gabrielpetersson/fast-grid?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/gabrielpetersson/fast-grid?style=social&label=Update)
 
 ## Menus
 
