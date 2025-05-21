@@ -69,6 +69,9 @@
   - **[astro-paper](https://github.com/satnaing/astro-paper)** - A minimal, accessible and SEO-friendly Astro blog theme.  
     ![](https://img.shields.io/github/stars/satnaing/astro-paper?style=social&label=Star)
     ![](https://img.shields.io/github/last-commit/satnaing/astro-paper?style=social&label=Update)
+  - [zeon-studio/**astroplate**](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!  
+    ![](https://img.shields.io/github/stars/zeon-studio/astroplate?style=social&label=Star)
+    ![](https://img.shields.io/github/last-commit/zeon-studio/astroplate?style=social&label=Update)
 - **[Docusaurus](https://github.com/facebook/docusaurus)** - Easy to maintain open source documentation websites.  
   ![](https://img.shields.io/github/stars/facebook/docusaurus?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/facebook/docusaurus?style=social&label=Update)
