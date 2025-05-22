@@ -31,7 +31,7 @@
 
 ## Template Engine
 
-- **[eta](https://github.com/eta-dev/eta)** - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript.  
+- [eta-dev/**eta**](https://github.com/eta-dev/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript.  
   ![](https://img.shields.io/github/stars/eta-dev/eta?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/eta-dev/eta?style=social&label=Update)
 
