@@ -423,6 +423,9 @@
 - **[pretty-bytes](https://github.com/sindresorhus/pretty-bytes)** - Convert bytes to a human readable string: 1337 → 1.34 kB.  
   ![](https://img.shields.io/github/stars/sindresorhus/pretty-bytes?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/sindresorhus/pretty-bytes?style=social&label=Update)
+- [MikeMcl/**bignumber.js**](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic.  
+  ![](https://img.shields.io/github/stars/MikeMcl/bignumber.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/MikeMcl/bignumber.js?style=social&label=Update)
 
 ### Array
 
