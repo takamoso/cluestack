@@ -46,7 +46,7 @@
 - [saadeghi/**daisyui**](https://github.com/saadeghi/daisyui) - The most popular, free and open-source Tailwind CSS component library.  
   ![](https://img.shields.io/github/stars/saadeghi/daisyui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/saadeghi/daisyui?style=social&label=Update)
-- **[Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements)** - Huge collection of Tailwind components, sections and templates.  
+- [mdbootstrap/**Tailwind-Elements**](https://github.com/mdbootstrap/Tailwind-Elements) - Huge collection of Tailwind components, sections and templates.  
   ![](https://img.shields.io/github/stars/mdbootstrap/Tailwind-Elements?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/mdbootstrap/Tailwind-Elements?style=social&label=Update)
 - **[hyperui](https://github.com/markmead/hyperui)** - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS.  
