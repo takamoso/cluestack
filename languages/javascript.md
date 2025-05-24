@@ -364,6 +364,9 @@
 - [hoppergee/**heic-to**](https://github.com/hoppergee/heic-to) - Convert HEIC/HEIF images to JPEG, PNG in browser.  
   ![](https://img.shields.io/github/stars/hoppergee/heic-to?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/hoppergee/heic-to?style=social&label=Update)
+- [zumerlab/**snapdom**](https://github.com/zumerlab/snapdom) - Convert HEIC/HEIF images to JPEG, PNG in browser.  
+  ![](https://img.shields.io/github/stars/zumerlab/snapdom?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/zumerlab/snapdom?style=social&label=Update)
 
 ## Video
 
