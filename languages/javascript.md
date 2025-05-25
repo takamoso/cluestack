@@ -271,6 +271,9 @@
 - **[TimePicker](https://github.com/openstatusHQ/time-picker)** - A simple shadcn/ui TimePicker component.  
   ![](https://img.shields.io/github/stars/openstatusHQ/time-picker?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/openstatusHQ/time-picker?style=social&label=Update)
+- [nolanlawson/**emoji-picker-element**](https://github.com/nolanlawson/emoji-picker-element) - A simple shadcn/ui TimePicker component.  
+  ![](https://img.shields.io/github/stars/nolanlawson/emoji-picker-element?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/nolanlawson/emoji-picker-element?style=social&label=Update)
 
 ### Validation
 
