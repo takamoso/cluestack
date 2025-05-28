@@ -421,6 +421,9 @@
 - **[Browser or Node.js](https://github.com/flexdinesh/browser-or-node)** - Check where your code is running. In the browser or in node.js environment.  
   ![](https://img.shields.io/github/stars/flexdinesh/browser-or-node?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/flexdinesh/browser-or-node?style=social&label=Update)
+- [kepano/**defuddle**](https://github.com/kepano/defuddle) - Extract the main content from web pages.  
+  ![](https://img.shields.io/github/stars/kepano/defuddle?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/kepano/defuddle?style=social&label=Update)
 
 ## Utilities
 
