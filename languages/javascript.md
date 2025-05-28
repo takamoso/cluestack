@@ -397,6 +397,9 @@
 - **[tonal](https://github.com/tonaljs/tonal)** - A functional music theory library for Javascript.  
   ![](https://img.shields.io/github/stars/tonaljs/tonal?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/tonaljs/tonal?style=social&label=Update)
+- [EvandroLG/**ts-audio**](https://github.com/EvandroLG/ts-audio) - ts-audio is an agnostic library that makes it easy to work with AudioContext and create audio playlists in the browser.  
+  ![](https://img.shields.io/github/stars/EvandroLG/ts-audio?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/EvandroLG/ts-audio?style=social&label=Update)
 
 ## Charts
 
