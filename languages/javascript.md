@@ -185,6 +185,9 @@
 - [gabrielpetersson/**fast-grid**](https://github.com/gabrielpetersson/fast-grid) - World's most performant DOM-based web table.  
   ![](https://img.shields.io/github/stars/gabrielpetersson/fast-grid?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/gabrielpetersson/fast-grid?style=social&label=Update)
+- [colinaut/**action-table**](https://github.com/colinaut/action-table) - Native HTML web component for easily adding sorting and filtering functionality to tables.  
+  ![](https://img.shields.io/github/stars/colinaut/action-table?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/colinaut/action-table?style=social&label=Update)
 
 ## Menus
 
