@@ -370,6 +370,9 @@
 - [zumerlab/**snapdom**](https://github.com/zumerlab/snapdom) - Convert HEIC/HEIF images to JPEG, PNG in browser.  
   ![](https://img.shields.io/github/stars/zumerlab/snapdom?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/zumerlab/snapdom?style=social&label=Update)
+- [addyosmani/**squish**](https://github.com/addyosmani/squish) - Batch Browser-based Image Compression.  
+  ![](https://img.shields.io/github/stars/addyosmani/squish?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/addyosmani/squish?style=social&label=Update)
 
 ## Video
 
