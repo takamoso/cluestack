@@ -72,6 +72,9 @@
   - [zeon-studio/**astroplate**](https://github.com/zeon-studio/astroplate) - Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!  
     ![](https://img.shields.io/github/stars/zeon-studio/astroplate?style=social&label=Star)
     ![](https://img.shields.io/github/last-commit/zeon-studio/astroplate?style=social&label=Update)
+  - [rishi-raj-jain/**astro-font**](https://github.com/rishi-raj-jain/astro-font) - \`astro-font\` will automatically optimize your Custom Fonts, Local Fonts, Fonts over any CDN and Google fonts for performance.  
+    ![](https://img.shields.io/github/stars/rishi-raj-jain/astro-font?style=social&label=Star)
+    ![](https://img.shields.io/github/last-commit/rishi-raj-jain/astro-font?style=social&label=Update)
 - **[Docusaurus](https://github.com/facebook/docusaurus)** - Easy to maintain open source documentation websites.  
   ![](https://img.shields.io/github/stars/facebook/docusaurus?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/facebook/docusaurus?style=social&label=Update)
