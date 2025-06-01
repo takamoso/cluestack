@@ -52,7 +52,7 @@
 - [markmead/**hyperui**](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS.  
   ![](https://img.shields.io/github/stars/markmead/hyperui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/markmead/hyperui?style=social&label=Update)
-- **[pines](https://github.com/thedevdojo/pines)** - The Pines UI library.  
+- [thedevdojo/**pines**](https://github.com/thedevdojo/pines) - The Pines UI library.  
   ![](https://img.shields.io/github/stars/thedevdojo/pines?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/thedevdojo/pines?style=social&label=Update)
 - **[floatui](https://github.com/MarsX-dev/floatui)** - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.  
