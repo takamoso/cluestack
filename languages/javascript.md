@@ -337,6 +337,9 @@
 - **[SVGEdit](https://github.com/SVG-Edit/svgedit)** - Powerful SVG-Editor for your browser.  
   ![](https://img.shields.io/github/stars/SVG-Edit/svgedit?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/SVG-Edit/svgedit?style=social&label=Update)
+- [konvajs/**konva**](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.  
+  ![](https://img.shields.io/github/stars/konvajs/konva?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/konvajs/konva?style=social&label=Update)
 
 ## Images
 
