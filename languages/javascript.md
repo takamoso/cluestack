@@ -61,7 +61,7 @@
 - [framework7io/**framework7**](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps.  
   ![](https://img.shields.io/github/stars/framework7io/framework7?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/framework7io/framework7?style=social&label=Update)
-- **[Fancyapps UI](https://github.com/fancyapps/ui)** - A library of JavaScript UI components, includes the best lightbox - Fancybox5.  
+- [fancyapps/**ui**](https://github.com/fancyapps/ui) - A library of JavaScript UI components, includes the best lightbox - Fancybox5.  
   ![](https://img.shields.io/github/stars/fancyapps/ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fancyapps/ui?style=social&label=Update)
 - **[park-ui](https://github.com/cschroeter/park-ui)** - Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice.  
