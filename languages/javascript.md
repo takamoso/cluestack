@@ -64,7 +64,7 @@
 - [fancyapps/**ui**](https://github.com/fancyapps/ui) - A library of JavaScript UI components, includes the best lightbox - Fancybox5.  
   ![](https://img.shields.io/github/stars/fancyapps/ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fancyapps/ui?style=social&label=Update)
-- **[park-ui](https://github.com/cschroeter/park-ui)** - Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice.  
+- [cschroeter/**park-ui**](https://github.com/cschroeter/park-ui) - Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice.  
   ![](https://img.shields.io/github/stars/cschroeter/park-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/cschroeter/park-ui?style=social&label=Update)
 - **[radix-vue](https://github.com/radix-vue/radix-vue)** - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.  
