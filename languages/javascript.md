@@ -313,6 +313,9 @@
 - **[VFX-JS](https://github.com/fand/vfx-js)** - WebGL effects made easy.  
   ![](https://img.shields.io/github/stars/fand/vfx-js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fand/vfx-js?style=social&label=Update)
+- [arturbien/**balloons-js**](https://github.com/arturbien/balloons-js) - Animated balloons effect for your website.  
+  ![](https://img.shields.io/github/stars/arturbien/balloons-js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/arturbien/balloons-js?style=social&label=Update)
 
 ## Canvas
 
