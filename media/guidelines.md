@@ -9,3 +9,4 @@
 - [AllThingsSmitty/**basic-design-patterns**](https://github.com/eta-dev/eta) - A collection of essential design pattern examples in JavaScript.  
   ![](https://img.shields.io/github/stars/AllThingsSmitty/basic-design-patterns?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/AllThingsSmitty/basic-design-patterns?style=social&label=Update)
+- **[Shibajuku Guidelines](https://guidelines.shibajuku.net)** - Guidelines for websites produced for projects and assignments within Shibajuku.
