@@ -316,6 +316,10 @@
 - [arturbien/**balloons-js**](https://github.com/arturbien/balloons-js) - Animated balloons effect for your website.  
   ![](https://img.shields.io/github/stars/arturbien/balloons-js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/arturbien/balloons-js?style=social&label=Update)
+- [der-Lehmann/**number-flip-animation**](https://github.com/der-Lehmann/number-flip-animation) - Small typescript package for animating the change of a number using a flip/slide animation.  
+  ![](https://img.shields.io/github/stars/der-Lehmann/number-flip-animation?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/der-Lehmann/number-flip-animation?style=social&label=Update)
+
 
 ## Canvas
 
