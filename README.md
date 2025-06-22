@@ -47,7 +47,6 @@
     - [Number](languages/javascript.md#number)
     - [Array](languages/javascript.md#array)
     - [Object](languages/javascript.md#object)
-  - [Polyfills](languages/javascript.md#polyfills)
 
 ## Media
 
