@@ -15,3 +15,6 @@
 - **[&lt;selectlist> polyfill](https://github.com/luwes/selectlist-polyfill)** - Polyfill for the selectlist element.  
   ![](https://img.shields.io/github/stars/luwes/selectlist-polyfill?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/luwes/selectlist-polyfill?style=social&label=Update)
+- [guybedford/**es-module-shims**](https://github.com/guybedford/es-module-shims) - Shims for new ES modules features on top of the basic modules support in browsers.  
+  ![](https://img.shields.io/github/stars/guybedford/es-module-shims?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/guybedford/es-module-shims?style=social&label=Update)
