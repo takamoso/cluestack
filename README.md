@@ -42,7 +42,6 @@
   - [Video](languages/javascript.md#video)
   - [Audio](languages/javascript.md#audio)
   - [Charts](languages/javascript.md#charts)
-  - [Detection](languages/javascript.md#detection)
   - [Utilities](languages/javascript.md#utilities)
     - [Number](languages/javascript.md#number)
     - [Array](languages/javascript.md#array)
