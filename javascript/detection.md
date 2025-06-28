@@ -12,3 +12,6 @@
 - [kepano/**defuddle**](https://github.com/kepano/defuddle) - Extract the main content from web pages.  
   ![](https://img.shields.io/github/stars/kepano/defuddle?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/kepano/defuddle?style=social&label=Update)
+- [wooorm/**franc**](https://github.com/wooorm/franc) - Natural language detection.  
+  ![](https://img.shields.io/github/stars/wooorm/franc?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/wooorm/franc?style=social&label=Update)
