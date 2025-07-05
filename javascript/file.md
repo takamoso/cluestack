@@ -11,6 +11,6 @@
 
 ## Compression
 
-- [joverlookmotel/**yauzl-promise**](https://github.com/joverlookmotel/yauzl-promise) - A super-simple-small promise-based keyval store implemented with IndexedDB.  
+- [overlookmotel/**yauzl-promise**](https://github.com/overlookmotel/yauzl-promise) - Unzip library with modern Promise-based API.  
   ![](https://img.shields.io/github/stars/overlookmotel/yauzl-promise?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/overlookmotel/yauzl-promise?style=social&label=Update)
