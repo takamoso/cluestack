@@ -1,5 +1,11 @@
 # File
 
+## Document
+
+- [parallax/**jsPDF**](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.  
+  ![](https://img.shields.io/github/stars/parallax/jsPDF?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/parallax/jsPDF?style=social&label=Update)
+
 ## Storage
 
 - [jakearchibald/**idb**](https://github.com/jakearchibald/idb) - IndexedDB, but with promises.  
