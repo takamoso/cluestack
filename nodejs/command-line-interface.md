@@ -9,6 +9,12 @@
 - [google/**zx**](https://github.com/google/zx) - A tool for writing better scripts.  
   ![](https://img.shields.io/github/stars/google/zx?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/google/zx?style=social&label=Update)
+
+## Styling
+
 - [chalk/**chalk**](https://github.com/chalk/chalk) - Terminal string styling done right.  
   ![](https://img.shields.io/github/stars/chalk/chalk?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/chalk/chalk?style=social&label=Update)
+- [sindresorhus/**boxen**](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.  
+  ![](https://img.shields.io/github/stars/sindresorhus/boxen?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/boxen?style=social&label=Update)
