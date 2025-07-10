@@ -90,7 +90,7 @@
 
 ## Astro
 
-- [fulldotdev/**ui**](https://github.com/fulldotdev/ui) - The Pines UI library.  
+- [fulldotdev/**ui**](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites.  
   ![](https://img.shields.io/github/stars/fulldotdev/ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fulldotdev/ui?style=social&label=Update)
 
