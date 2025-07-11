@@ -9,6 +9,9 @@
 - [rollup/**rollup**](https://github.com/rollup/rollup) - Next-generation ES module bundler.  
   ![](https://img.shields.io/github/stars/rollup/rollup?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/rollup/rollup?style=social&label=Update)
+- [rolldown/**rolldown**](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.  
+  ![](https://img.shields.io/github/stars/rolldown/rolldown?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/rolldown/rolldown?style=social&label=Update)
 - [vitejs/**vite**](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!  
   ![](https://img.shields.io/github/stars/vitejs/vite?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/vitejs/vite?style=social&label=Update)
