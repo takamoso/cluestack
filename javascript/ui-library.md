@@ -36,7 +36,7 @@
 - [shadcn-ui/**ui**](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.  
   ![](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/shadcn-ui/ui?style=social&label=Update)
-  - [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components.  
+  - [haydenbleasel/**kibo**](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components.  
   ![](https://img.shields.io/github/stars/haydenbleasel/kibo?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/haydenbleasel/kibo?style=social&label=Update)
 - [nextui-org/**nextui**](https://github.com/nextui-org/nextui) - Beautiful, fast and modern React UI library.  
