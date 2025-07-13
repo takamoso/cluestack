@@ -11,11 +11,18 @@
   ![](https://img.shields.io/github/last-commit/google/zx?style=social&label=Update)
 
 
-## UI Styling
+## Parser
 
 - [yargs/**yargs**](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.  
   ![](https://img.shields.io/github/stars/yargs/yargs?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/yargs/yargs?style=social&label=Update)
+- [SBoudrias/**Inquirer.js**](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.  
+  ![](https://img.shields.io/github/stars/SBoudrias/Inquirer.js?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/SBoudrias/Inquirer.js?style=social&label=Update)
+
+
+## UI Styling
+
 - [sindresorhus/**boxen**](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.  
   ![](https://img.shields.io/github/stars/sindresorhus/boxen?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/sindresorhus/boxen?style=social&label=Update)

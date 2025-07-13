@@ -308,7 +308,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 ### CLI
 
-- <a href="https://github.com/SBoudrias/Inquirer.js">SBoudrias/<b>Inquirer.js</b></a> - A collection of common interactive command line user interfaces.
 - <a href="https://github.com/natemoo-re/clack">natemoo-re/<b>clack</b></a> - Effortlessly build beautiful command-line apps.
 
 ### Bash
