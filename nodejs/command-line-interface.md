@@ -10,7 +10,7 @@
   ![](https://img.shields.io/github/stars/google/zx?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/google/zx?style=social&label=Update)
 
-## Styling
+## UI Styling
 
 - [chalk/**chalk**](https://github.com/chalk/chalk) - Terminal string styling done right.  
   ![](https://img.shields.io/github/stars/chalk/chalk?style=social&label=Star)
