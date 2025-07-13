@@ -176,9 +176,6 @@
 
 ### Applications
 
-- **[neutralinojs](https://github.com/neutralinojs/neutralinojs)** - Portable and lightweight cross-platform desktop application development framework.  
-  ![](https://img.shields.io/github/stars/neutralinojs/neutralinojs?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/neutralinojs/neutralinojs?style=social&label=Update)
 - **[gluon](https://github.com/gluon-framework/gluon)** - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS.  
   ![](https://img.shields.io/github/stars/gluon-framework/gluon?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/gluon-framework/gluon?style=social&label=Update)
