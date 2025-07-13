@@ -19,6 +19,9 @@
 - [SBoudrias/**Inquirer.js**](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.  
   ![](https://img.shields.io/github/stars/SBoudrias/Inquirer.js?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/SBoudrias/Inquirer.js?style=social&label=Update)
+- [bombshell-dev/**clack**](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps.  
+  ![](https://img.shields.io/github/stars/bombshell-dev/clack?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/bombshell-dev/clack?style=social&label=Update)
 
 
 ## UI Styling

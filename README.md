@@ -306,10 +306,6 @@ Pure JavaScript tool for making smart and high performance sticky sidebar.
 
 - <a href="https://github.com/robinmoisson/staticrypt">robinmoisson/<b>staticrypt</b></a> - Password protect a static HTML page.
 
-### CLI
-
-- <a href="https://github.com/natemoo-re/clack">natemoo-re/<b>clack</b></a> - Effortlessly build beautiful command-line apps.
-
 ### Bash
 
 - <a href="https://github.com/google/zx">google/<b>zx</b></a> - A tool for writing better scripts.
