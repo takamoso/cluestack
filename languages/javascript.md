@@ -33,12 +33,6 @@
   ![](https://img.shields.io/github/stars/eta-dev/eta?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/eta-dev/eta?style=social&label=Update)
 
-## Headless UI
-
-- [chakra-ui/**ark**](https://github.com/chakra-ui/ark) - Universal headless UI components for the web. Powered by Zag.js.  
-  ![](https://img.shields.io/github/stars/chakra-ui/ark?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/chakra-ui/ark?style=social&label=Update)
-
 
 ## Web Components
 
