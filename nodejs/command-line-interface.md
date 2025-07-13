@@ -10,11 +10,15 @@
   ![](https://img.shields.io/github/stars/google/zx?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/google/zx?style=social&label=Update)
 
+
 ## UI Styling
 
-- [chalk/**chalk**](https://github.com/chalk/chalk) - Terminal string styling done right.  
-  ![](https://img.shields.io/github/stars/chalk/chalk?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/chalk/chalk?style=social&label=Update)
+- [yargs/**yargs**](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.  
+  ![](https://img.shields.io/github/stars/yargs/yargs?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/yargs/yargs?style=social&label=Update)
 - [sindresorhus/**boxen**](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.  
   ![](https://img.shields.io/github/stars/sindresorhus/boxen?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/sindresorhus/boxen?style=social&label=Update)
+- [chalk/**chalk**](https://github.com/chalk/chalk) - Terminal string styling done right.  
+  ![](https://img.shields.io/github/stars/chalk/chalk?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/chalk/chalk?style=social&label=Update)
