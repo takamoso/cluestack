@@ -21,3 +21,6 @@
 - [web-infra-dev/**rspack**](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler.  
   ![](https://img.shields.io/github/stars/web-infra-dev/rspack?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/web-infra-dev/rspack?style=social&label=Update)
+- [AlexSergey/**rockpack**](https://github.com/AlexSergey/rockpack) - Rockpack is a lightweight, zero-configuration solution for quickly setting up a React application with full support for Server-Side Rendering (SSR), bundling, linting, and testing.  
+  ![](https://img.shields.io/github/stars/AlexSergey/rockpack?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/AlexSergey/rockpack?style=social&label=Update)
