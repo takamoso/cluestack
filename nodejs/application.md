@@ -25,3 +25,6 @@
 - [nwutils/**create-desktop-shortcuts**](https://github.com/nwutils/create-desktop-shortcuts) - Easy API to create desktop shortcuts with Node.  
   ![](https://img.shields.io/github/stars/nwutils/create-desktop-shortcuts?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/nwutils/create-desktop-shortcuts?style=social&label=Update)
+- [upx/**upx**](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables.  
+  ![](https://img.shields.io/github/stars/upx/upx?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/upx/upx?style=social&label=Update)
