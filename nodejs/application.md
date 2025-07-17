@@ -18,3 +18,10 @@
 - [astracompiler/**cli**](https://github.com/astracompiler/cli) - Fast, reliable and easy-to-use js-to-exe compiler.  
   ![](https://img.shields.io/github/stars/astracompiler/cli?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/astracompiler/cli?style=social&label=Update)
+
+
+## Utility
+
+- [nwutils/**create-desktop-shortcuts**](https://github.com/nwutils/create-desktop-shortcuts) - Easy API to create desktop shortcuts with Node.  
+  ![](https://img.shields.io/github/stars/nwutils/create-desktop-shortcuts?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/nwutils/create-desktop-shortcuts?style=social&label=Update)
