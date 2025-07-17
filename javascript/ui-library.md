@@ -78,6 +78,9 @@
 - [selemondev/**spark-ui**](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion.  
   ![](https://img.shields.io/github/stars/selemondev/spark-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/selemondev/spark-ui?style=social&label=Update)
+- [unovue/**inspira-ui**](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.  
+  ![](https://img.shields.io/github/stars/unovue/inspira-ui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/unovue/inspira-ui?style=social&label=Update)
 
 ## Svelte
 
