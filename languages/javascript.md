@@ -145,39 +145,6 @@
   ![](https://img.shields.io/github/stars/rizkyalam/pagination?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/rizkyalam/pagination?style=social&label=Update)
 
-## Editors
-
-- **[BlockNote](https://github.com/YousefED/BlockNote)** - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.  
-  ![](https://img.shields.io/github/stars/YousefED/BlockNote?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/YousefED/BlockNote?style=social&label=Update)
-- **[marked](https://github.com/markedjs/marked)** - A markdown parser and compiler. Built for speed.  
-  ![](https://img.shields.io/github/stars/markedjs/marked?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/markedjs/marked?style=social&label=Update)
-- **[novel](https://github.com/steven-tey/novel)** - Notion-style WYSIWYG editor with AI-powered autocompletions.  
-  ![](https://img.shields.io/github/stars/steven-tey/novel?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/steven-tey/novel?style=social&label=Update)
-- **[mathlive](https://github.com/arnog/mathlive)** - A web component for easy math input.  
-  ![](https://img.shields.io/github/stars/arnog/mathlive?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/arnog/mathlive?style=social&label=Update)
-- **[ckeditor5](https://github.com/ckeditor/ckeditor5)** - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.  
-  ![](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=social&label=Update)
-- **[Trix](https://github.com/basecamp/trix)** - A rich text editor for everyday writing.  
-  ![](https://img.shields.io/github/stars/basecamp/trix?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/basecamp/trix?style=social&label=Update)
-- **[Quill](https://github.com/slab/quill)** - Quill is a modern WYSIWYG editor built for compatibility and extensibility.  
-  ![](https://img.shields.io/github/stars/slab/quill?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/slab/quill?style=social&label=Update)
-- **[Rooster](https://github.com/microsoft/roosterjs)** - roosterjs is a framework-independent javascript rich text editor.  
-  ![](https://img.shields.io/github/stars/microsoft/roosterjs?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/microsoft/roosterjs?style=social&label=Update)
-- **[Summernote](https://github.com/summernote/summernote)** - Super simple WYSIWYG editor.  
-  ![](https://img.shields.io/github/stars/summernote/summernote?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/summernote/summernote?style=social&label=Update)
-- **[slate](https://github.com/ianstormtaylor/slate)** - A completely customizable framework for building rich text editors.  
-  ![](https://img.shields.io/github/stars/ianstormtaylor/slate?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/ianstormtaylor/slate?style=social&label=Update)
-
 ## Forms
 
 ### Pickers
