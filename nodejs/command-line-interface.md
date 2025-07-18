@@ -9,6 +9,9 @@
 - [google/**zx**](https://github.com/google/zx) - A tool for writing better scripts.  
   ![](https://img.shields.io/github/stars/google/zx?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/google/zx?style=social&label=Update)
+- [bcomnes/**npm-run-all2**](https://github.com/bcomnes/npm-run-all2) - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)  
+  ![](https://img.shields.io/github/stars/bcomnes/npm-run-all2?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/bcomnes/npm-run-all2?style=social&label=Update)
 
 
 ## Parser
