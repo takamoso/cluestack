@@ -16,6 +16,9 @@
 - [microsoft/**roosterjs**](https://github.com/microsoft/roosterjs) - roosterjs is a framework-independent javascript rich text editor.  
   ![](https://img.shields.io/github/stars/microsoft/roosterjs?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/microsoft/roosterjs?style=social&label=Update)
+- [Ionaru/**easy-markdown-editor**](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.  
+  ![](https://img.shields.io/github/stars/Ionaru/easy-markdown-editor?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/Ionaru/easy-markdown-editor?style=social&label=Update)
 
 
 ## jQuery
