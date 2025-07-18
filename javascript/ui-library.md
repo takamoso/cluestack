@@ -3,6 +3,12 @@
 - [openui/**open-ui**](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.  
   ![](https://img.shields.io/github/stars/openui/open-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/openui/open-ui?style=social&label=Update)
+- [framework7io/**framework7**](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps.  
+  ![](https://img.shields.io/github/stars/framework7io/framework7?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/framework7io/framework7?style=social&label=Update)
+- [fancyapps/**ui**](https://github.com/fancyapps/ui) - A library of JavaScript UI components, includes the best lightbox - Fancybox5.  
+  ![](https://img.shields.io/github/stars/fancyapps/ui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/fancyapps/ui?style=social&label=Update)
 
 ## Tailwind CSS
 
@@ -99,12 +105,3 @@
 - [fulldotdev/**ui**](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites.  
   ![](https://img.shields.io/github/stars/fulldotdev/ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fulldotdev/ui?style=social&label=Update)
-
-## Vanilla
-
-- [framework7io/**framework7**](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps.  
-  ![](https://img.shields.io/github/stars/framework7io/framework7?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/framework7io/framework7?style=social&label=Update)
-- [fancyapps/**ui**](https://github.com/fancyapps/ui) - A library of JavaScript UI components, includes the best lightbox - Fancybox5.  
-  ![](https://img.shields.io/github/stars/fancyapps/ui?style=social&label=Star)
-  ![](https://img.shields.io/github/last-commit/fancyapps/ui?style=social&label=Update)
