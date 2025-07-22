@@ -8,6 +8,9 @@
 - [parallax/**jsPDF**](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.  
   ![](https://img.shields.io/github/stars/parallax/jsPDF?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/parallax/jsPDF?style=social&label=Update)
+- [pdfslick/**pdfslick**](https://github.com/pdfslick/pdfslick) - View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps.  
+  ![](https://img.shields.io/github/stars/pdfslick/pdfslick?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/pdfslick/pdfslick?style=social&label=Update)
 
 ## Storage
 
