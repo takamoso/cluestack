@@ -24,6 +24,10 @@
 - [sailboatui/**sailboatui**](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS.  
   ![](https://img.shields.io/github/stars/sailboatui/sailboatui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/sailboatui/sailboatui?style=social&label=Update)
+- [merakiuilabs/**merakiui**](https://github.com/merakiuilabs/merakiui) - Tailwind CSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid with elegant Dark Mode 🚀 ☄️.  
+  ![](https://img.shields.io/github/stars/merakiuilabs/merakiui?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/merakiuilabs/merakiui?style=social&label=Update)
+
 
 ## React, Vue
 
