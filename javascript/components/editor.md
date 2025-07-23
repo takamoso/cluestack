@@ -13,6 +13,9 @@
 - [slab/**quill**](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.  
   ![](https://img.shields.io/github/stars/slab/quill?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/slab/quill?style=social&label=Update)
+- [ueberdosis/**tiptap**](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.  
+  ![](https://img.shields.io/github/stars/ueberdosis/tiptap?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/ueberdosis/tiptap?style=social&label=Update)
 - [microsoft/**roosterjs**](https://github.com/microsoft/roosterjs) - roosterjs is a framework-independent javascript rich text editor.  
   ![](https://img.shields.io/github/stars/microsoft/roosterjs?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/microsoft/roosterjs?style=social&label=Update)
