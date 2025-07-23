@@ -3,12 +3,17 @@
 - [openui/**open-ui**](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.  
   ![](https://img.shields.io/github/stars/openui/open-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/openui/open-ui?style=social&label=Update)
+
+
+## Vanilla JS
+
 - [framework7io/**framework7**](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps.  
   ![](https://img.shields.io/github/stars/framework7io/framework7?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/framework7io/framework7?style=social&label=Update)
 - [fancyapps/**ui**](https://github.com/fancyapps/ui) - A library of JavaScript UI components, includes the best lightbox - Fancybox5.  
   ![](https://img.shields.io/github/stars/fancyapps/ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fancyapps/ui?style=social&label=Update)
+
 
 ## Tailwind CSS
 
@@ -35,11 +40,13 @@
   ![](https://img.shields.io/github/stars/MarsX-dev/floatui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/MarsX-dev/floatui?style=social&label=Update)
 
+
 ## React, Solid
 
 - [cschroeter/**park-ui**](https://github.com/cschroeter/park-ui) - Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice.  
   ![](https://img.shields.io/github/stars/cschroeter/park-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/cschroeter/park-ui?style=social&label=Update)
+
 
 ## React
 
@@ -80,6 +87,7 @@
   ![](https://img.shields.io/github/stars/tamagui/tamagui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/tamagui/tamagui?style=social&label=Update)
 
+
 ## Vue
 
 - [radix-vue/**radix-vue**](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.  
@@ -92,17 +100,20 @@
   ![](https://img.shields.io/github/stars/unovue/inspira-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/unovue/inspira-ui?style=social&label=Update)
 
+
 ## Svelte
 
 - [melt-ui/**melt-ui**](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.  
   ![](https://img.shields.io/github/stars/melt-ui/melt-ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/melt-ui/melt-ui?style=social&label=Update)
 
+
 ## Alpine
 
 - [thedevdojo/**pines**](https://github.com/thedevdojo/pines) - The Pines UI library.  
   ![](https://img.shields.io/github/stars/thedevdojo/pines?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/thedevdojo/pines?style=social&label=Update)
+
 
 ## Astro
 
