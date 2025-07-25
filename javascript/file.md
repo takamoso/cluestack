@@ -5,6 +5,9 @@
 - [dolanmiu/**docx**](https://github.com/parallax/jsPDF) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.  
   ![](https://img.shields.io/github/stars/dolanmiu/docx?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/dolanmiu/docx?style=social&label=Update)
+- [jmaister/**excellentexport**](https://github.com/jmaister/excellentexport) - Javascript export to Excel.  
+  ![](https://img.shields.io/github/stars/jmaister/excellentexport?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/jmaister/excellentexport?style=social&label=Update)
 - [gitbrent/**PptxGenJS**](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.  
   ![](https://img.shields.io/github/stars/gitbrent/PptxGenJS?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/gitbrent/PptxGenJS?style=social&label=Update)
