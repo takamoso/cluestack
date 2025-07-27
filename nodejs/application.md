@@ -18,6 +18,9 @@
 - [astracompiler/**cli**](https://github.com/astracompiler/cli) - Fast, reliable and easy-to-use js-to-exe compiler.  
   ![](https://img.shields.io/github/stars/astracompiler/cli?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/astracompiler/cli?style=social&label=Update)
+- [yassinebenaid/**bunster**](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.  
+  ![](https://img.shields.io/github/stars/yassinebenaid/bunster?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/yassinebenaid/bunster?style=social&label=Update)
 
 
 ## Utility
