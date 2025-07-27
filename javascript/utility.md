@@ -22,6 +22,9 @@
 
 ## Object
 
+- [AsyncBanana/**microdiff**](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.  
+  ![](https://img.shields.io/github/stars/AsyncBanana/microdiff?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/AsyncBanana/microdiff?style=social&label=Update)
 - [ehmicky/**wild-wild-path**](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.  
   ![](https://img.shields.io/github/stars/ehmicky/wild-wild-path?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/ehmicky/wild-wild-path?style=social&label=Update)
