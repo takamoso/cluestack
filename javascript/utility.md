@@ -18,6 +18,9 @@
 - [kentcdodds/**match-sorter**](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript.  
   ![](https://img.shields.io/github/stars/kentcdodds/match-sorter?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/kentcdodds/match-sorter?style=social&label=Update)
+- [sindresorhus/**p-map**](https://github.com/sindresorhus/p-map) - Map over promises concurrently.  
+  ![](https://img.shields.io/github/stars/sindresorhus/p-map?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/p-map?style=social&label=Update)
 
 
 ## Object
